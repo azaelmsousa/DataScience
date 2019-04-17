@@ -20,9 +20,9 @@ if __name__ == "__main__":
 	start_year = args.start_year
 	end_year = args.end_year
 
-	url = 'https://info.dengue.mat.br/api/alertcity?'
+	url = 'https://info.dengue.mat.br/api/alertcity'
 
-	code_mg = 31 #Codigo IBGE do estado de Minas Gerais
+	code_mg = 31 #Codigo IBGE do estado de Minas Gerais - 31
 
 	pd_cities = pd.read_csv("../data/cities.csv")
 	cities_mg = pd_cities.values
@@ -33,15 +33,16 @@ if __name__ == "__main__":
 	data = []
 	for code in codes:
 		print("--- Downloading Info Dengue Data for City "+str(code))
-		search_filter = ('geocode='+str(code)+'&disease=dengue&format=csv&' +
+		search_filter = ('disease=dengue&geocode='+str(code)+'&format=csv&' +
 	    				'ew_start='+str(start_week)+'&ew_end='+str(end_week) +
-	    				'50&ey_start='+str(start_year)+'2017&ey_end='+str(end_year))
-		df = pd.read_csv("%s%s" % (url,search_filter))
-		data.append(df.values)
+	    				'50&ey_start='+str(start_year)+'&ey_end='+str(end_year))
+		df = pd.read_csv('%s?%s' % (url,search_filter))
+		headers = ','.join(list(df.columns.values))
+		print(df.shape)
+		if (df.shape[0] > 0):
+			data.append(df.values)
 
 	info_dengue = np.concatenate(data)
-
-	headers = ','.join(list(df.columns.values))
 
 	print("- Writing output file")
 	np.savetxt(args.out_path,info_dengue,fmt='%s',delimiter=',',header=headers)
