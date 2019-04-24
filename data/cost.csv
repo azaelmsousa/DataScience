@@ -1,0 +1,5634 @@
+source,target,weight
+Campo Belo,Santa Juliana,26.1
+Bonfinópolis de Minas,Sete Lagoas,22.7
+Campo Belo,Pedrinópolis,26.1
+Mato Verde,Pai Pedro,7.0
+Belo Horizonte,Rio Acima,6.05
+Capim Branco,Pedro Leopoldo,2.95
+Belo Horizonte,Raposos,6.05
+Nova Lima,Rio Acima,3.85
+Gonzaga,Governador Valadares,7.9
+Pará de Minas,Perdizes,25.0
+Pai Pedro,Porteirinha,5.0
+Estrela Dalva,Volta Grande,1.67
+Florestal,Juatuba,2.95
+Betim,Brumadinho,6.75
+Formiga,Santa Juliana,39.75
+Bonfinópolis de Minas,Buritis,59.95
+Marilac,Virgolândia,4.78
+Guaxupé,Juruaia,3.5
+Monte Alegre de Minas,Nova Serrana,32.4
+Formiga,Pedrinópolis,39.75
+Orizânia,Santa Margarida,8.25
+Cônego Marinho,Januária,8.6
+Pirapetinga,Volta Grande,4.8
+Eugenópolis,Tombos,5.95
+Icaraí de Minas,São Francisco,12.0
+Itaobim,Mata Verde,30.0
+Juramento,Montes Claros,6.0
+Manga,Miravânia,18.0
+Nova Porteirinha,Pai Pedro,10.0
+Capim Branco,Confins,7.1
+Formiga,Perdizes,39.75
+Belo Horizonte,Esmeraldas,9.2
+Contagem,Florestal,8.2
+Santana do Manhuaçu,São José do Mantimento,4.1
+Berilo,Virgem da Lapa,10.9
+Belo Horizonte,Florestal,11.5
+Araújos,Perdigão,3.15
+Santana do Manhuaçu,Taparuba,5.25
+Nova Serrana,Perdizes,29.0
+Bugre,Ipatinga,10.05
+Congonhas,Jeceaba,6.35
+Passos,São João Batista do Glória,4.25
+Estrela Dalva,Pirapetinga,3.19
+Belo Horizonte,Itatiaiuçu,10.65
+Carangola,Faria Lemos,3.2
+Claro dos Poções,Montes Claros,19.35
+Chapada do Norte,Virgem da Lapa,19.45
+Delfim Moreira,Itajubá,6.5
+Itajubá,Marmelópolis,13.0
+Astolfo Dutra,Rodeiro,4.35
+Baldim,Funilândia,4.35
+Nova Serrana,Patrocínio,30.0
+Muriaé,Pedra Dourada,16.4
+Caparaó,Espera Feliz,4.95
+Pedra do Anta,Teixeiras,3.3
+Manhuaçu,Reduto,2.2
+Eugenópolis,Pedra Dourada,11.1
+Almenara,Bandeira,10.0
+Patos de Minas,São Gonçalo do Abaeté,10.0
+Manhuaçu,São João do Manhuaçu,4.45
+Funilândia,Sete Lagoas,3.35
+Belo Horizonte,Rio Manso,10.65
+Mantena,Nova Belém,13.5
+Dona Eusébia,Ubá,12.4
+Nova Módica,São José do Divino,3.4
+Andradas,Jacutinga,12.5
+Berilo,Chapada do Norte,8.55
+Cataguases,Rodeiro,11.45
+Cambuí,Gonçalves,12.6
+Alto Caparaó,Alto Jequitibá,3.45
+Caparaó,Alto Jequitibá,6.9
+Chapada Gaúcha,Itacarambi,45.0
+Muzambinho,Nova Resende,12.15
+Córrego do Bom Jesus,Gonçalves,11.0
+Arinos,Manga,70.0
+Gameleiras,Monte Azul,14.0
+Cambuí,Senador Amaral,5.85
+Alto Caparaó,Manhumirim,5.9
+Carrancas,Lavras,11.3
+Arcos,Santa Juliana,49.4
+Almenara,Santa Maria do Salto,18.0
+Águas Vermelhas,Divisa Alegre,3.6
+Caranaíba,Cristiano Otoni,3.6
+Mar de Espanha,Senador Cortes,3.6
+Caputira,Manhuaçu,8.45
+Carrancas,Itutinga,4.25
+Itaú de Minas,Pratápolis,3.04
+Chapada Gaúcha,Januária,29.2
+Conceição das Pedras,Pedralva,6.1
+Leme do Prado,Minas Novas,22.05
+Chapada Gaúcha,Montalvânia,70.0
+Ipanema,São José do Mantimento,6.15
+Carangola,Alto Jequitibá,12.95
+Belo Horizonte,Rio do Prado,100.0
+Arinos,Januária,49.4
+Marilac,Nacip Raydan,12.4
+Caparaó,Manhumirim,9.35
+Arinos,Montalvânia,90.0
+Belo Horizonte,São João do Pacuí,60.0
+Coração de Jesus,São João do Pacuí,5.0
+Cruzília,São Thomé das Letras,10.0
+Itacarambi,Manga,15.0
+Itacarambi,São João das Missões,10.0
+Miravânia,Montalvânia,15.0
+Muriaé,Tombos,11.25
+Nova Módica,Pescador,5.0
+Rio Pardo de Minas,Taiobeiras,7.5
+Martins Soares,Reduto,3.14
+Cipotânea,Desterro do Melo,13.2
+Barroso,Carandaí,18.9
+Leopoldina,Tombos,22.7
+Arcos,Pedrinópolis,49.4
+Nova Lima,Raposos,3.8
+Leopoldina,Rodeiro,17.15
+Divisa Alegre,Taiobeiras,21.0
+Poté,Teófilo Otoni,7.65
+Açucena,Guanhães,24.9
+Itabirinha,Mantena,11.5
+Passabém,São Sebastião do Rio Preto,3.2
+Belo Horizonte,Mamonas,100.0
+Reduto,São João do Manhuaçu,10.9
+Arceburgo,Monte Santo de Minas,3.85
+Caiana,Carangola,7.7
+Caratinga,Piedade de Caratinga,3.85
+Divinópolis,São Sebastião do Oeste,5.8
+Córrego Fundo,Formiga,3.9
+Guiricema,Visconde do Rio Branco,3.25
+Guaxupé,São Pedro da União,11.8
+Carangola,Manhumirim,15.75
+Pedra Bonita,Santa Margarida,5.25
+Ibiraci,Passos,14.44
+Astolfo Dutra,Ubá,9.2
+Dona Eusébia,Rodeiro,6.6
+Arinos,Buritis,12.0
+Capelinha,Nova Serrana,80.0
+Chapada Gaúcha,São Francisco,40.0
+Delfim Moreira,Marmelópolis,8.0
+Delta,Uberaba,6.0
+Divinópolis,São Gonçalo do Pará,6.0
+Ibiracatu,Varzelândia,8.0
+Monte Formoso,Padre Paraíso,16.0
+Nova Serrana,Perdigão,4.0
+Raul Soares,Vermelho Novo,8.0
+Antônio Prado de Minas,Pedra Dourada,9.35
+Abre Campo,Sericita,8.05
+Coronel Xavier Chaves,Resende Costa,6.05
+Guidoval,Ubá,4.05
+Itanhomi,Tarumirim,8.1
+Caeté,Taquaraçu de Minas,6.1
+Itajubá,Wenceslau Braz,6.1
+Oratórios,Ponte Nova,4.75
+Chapada do Norte,Coronel Murta,32.65
+Capim Branco,Sete Lagoas,6.85
+Alto Rio Doce,Cipotânea,5.5
+Rubelita,Salinas,5.5
+Sacramento,Serra do Salitre,20.65
+Ipatinga,Nova Serrana,82.62
+Cristália,Montes Claros,33.05
+Além Paraíba,Volta Grande,5.52
+Belo Oriente,Timóteo,14.5
+Belmiro Braga,Juiz de Fora,9.7
+Caeté,Sabará,5.55
+Iapu,São João do Oriente,5.55
+Mata Verde,Ponto dos Volantes,50.0
+Lambari,Pouso Alegre,18.17
+Alfenas,Fama,5.6
+Alto Rio Doce,Desterro do Melo,6.3
+Aracitaba,Oliveira Fortes,2.8
+Carmo de Minas,São Lourenço,2.8
+Casa Grande,Queluzito,2.8
+Ladainha,Novo Cruzeiro,11.2
+Matozinhos,Pedro Leopoldo,2.8
+Aimorés,Ipanema,28.0
+Antônio Prado de Minas,Tombos,4.2
+Caparaó,Reduto,13.3
+Inhapim,São Sebastião do Anta,7.0
+Laranjal,Leopoldina,4.2
+Monte Alegre de Minas,Pará de Minas,46.2
+Alto Caparaó,Reduto,9.85
+Manhuaçu,Pocrane,15.5
+Belo Horizonte,Jacinto,110.0
+Corinto,Morro da Garça,12.7
+Arcos,Perdizes,49.4
+Baldim,Lagoa Santa,14.85
+Itaipé,Setubinha,14.15
+Novo Cruzeiro,Teófilo Otoni,21.25
+Belo Horizonte,Caeté,10.65
+Chácara,Juiz de Fora,6.4
+Arinos,Itacarambi,60.0
+Belo Horizonte,Palmópolis,120.0
+Belo Horizonte,Santa Maria do Salto,120.0
+Buritizeiro,Uberlândia,60.0
+Ladainha,Teófilo Otoni,17.15
+Marilac,São José da Safira,12.15
+Baependi,São Thomé das Letras,15.05
+Betim,Esmeraldas,5.75
+Ipatinga,Vargem Alegre,12.95
+Alto Caparaó,Caparaó,3.6
+Divinolândia de Minas,Virginópolis,3.6
+Itajubá,Sapucaí-Mirim,15.86
+Diamantina,Felício dos Santos,18.8
+Amparo do Serra,Ponte Nova,7.25
+Funilândia,Prudente de Morais,2.9
+Lajinha,Rio Casca,21.75
+Bom Jesus do Galho,Coronel Fabriciano,29.05
+Caratinga,Ipatinga,13.1
+Ibiraci,Itaú de Minas,12.38
+Capelinha,Governador Valadares,67.08
+Berilo,Coronel Murta,24.1
+Itabira,Itambé do Mato Dentro,13.15
+Belo Horizonte,Nova União,11.0
+Itanhandu,São Sebastião do Rio Verde,6.6
+João Monlevade,Mata Verde,110.0
+Santo Antônio do Itambé,Serro,8.8
+Belo Horizonte,Serra dos Aimorés,100.0
+Águas Vermelhas,Pedra Azul,13.3
+Mesquita,Santana do Paraíso,6.65
+Ponte Nova,Rio Doce,8.9
+Florestal,Pará de Minas,6.7
+Materlândia,Rio Vermelho,8.95
+Capelinha,Coroaci,32.19
+Além Paraíba,Santo Antônio do Aventureiro,7.5
+Araponga,São Miguel do Anta,9.0
+Brasília de Minas,Luislândia,3.0
+Carangola,Espera Feliz,5.25
+Carangola,Reduto,20.25
+Cataguases,Dona Eusébia,4.5
+Chiador,Mar de Espanha,9.0
+Dores de Guanhães,Ferros,15.75
+Entre Folhas,Ipatinga,15.75
+Franciscópolis,Malacacheta,6.0
+Manhumirim,Alto Jequitibá,3.0
+Montes Claros,Varzelândia,27.0
+Natércia,São Sebastião da Bela Vista,12.75
+Pedra Dourada,Tombos,4.5
+Santana do Manhuaçu,Simonésia,3.0
+São Domingos das Dores,São Sebastião do Anta,3.0
+Cristiano Otoni,Ouro Preto,15.8
+Piranguinho,Sapucaí-Mirim,14.31
+Luisburgo,Manhuaçu,9.05
+Lamim,Senador Firmino,17.35
+Diamantina,São Gonçalo do Rio Preto,13.6
+Campos Altos,Santa Rosa da Serra,6.05
+Caparaó,Manhuaçu,15.9
+Guanhães,Turmalina,50.0
+Ipatinga,Mata Verde,100.0
+Fruta de Leite,Salinas,13.65
+Diamantina,Monjolos,27.4
+Nanuque,Umburatiba,32.0
+Alfredo Vasconcelos,Barbacena,3.05
+Barão de Cocais,Santa Bárbara,3.05
+Pedra do Anta,Viçosa,9.15
+Machacalis,Nanuque,38.9
+Almenara,Belo Horizonte,100.0
+Passos,Pratápolis,6.89
+Dionísio,Marliéria,18.4
+Dionísio,São José do Goiabal,9.2
+Montes Claros,São João da Ponte,23.0
+Oliveira,São Francisco de Paula,4.6
+Paula Cândido,Viçosa,6.9
+Alto Caparaó,Manhuaçu,12.3
+Cataguases,Itamarati de Minas,6.15
+Cristália,Grão Mogol,6.15
+Patis,Varzelândia,18.45
+Belo Horizonte,Coronel Murta,120.0
+Belo Horizonte,Espinosa,100.0
+Belo Horizonte,Felisburgo,120.0
+Belo Horizonte,Jordânia,120.0
+Betim,Januária,120.0
+São João da Lagoa,São João do Pacuí,10.0
+Borda da Mata,Tocos do Moji,3.85
+São José da Safira,Virgolândia,10.8
+Jequeri,Ponte Nova,13.9
+Carlos Chagas,Novo Oriente de Minas,43.25
+Carlos Chagas,Pavão,34.0
+Ladainha,Poté,8.5
+Capela Nova,Cristiano Otoni,11.6
+Contagem,Mata Verde,130.0
+Além Paraíba,Carangola,37.17
+Aimorés,Taparuba,27.9
+Imbé de Minas,Ubaporanga,4.65
+Rio do Prado,Rubim,9.3
+Januária,Miravânia,25.6
+Novo Cruzeiro,Poté,18.65
+Betim,Mata Verde,140.0
+Mata Verde,Teófilo Otoni,70.0
+Careaçu,São Lourenço,38.95
+Boa Esperança,Campo Belo,18.7
+Piumhi,São Roque de Minas,18.7
+Bom Jesus do Galho,Caratinga,7.8
+Astolfo Dutra,Cataguases,6.25
+Conselheiro Lafaiete,Ouro Branco,6.25
+Água Boa,Coroaci,27.35
+Bom Jesus da Penha,Guaxupé,12.05
+Araxá,Monte Alegre de Minas,23.5
+Manhuaçu,Taparuba,18.8
+Rodeiro,Ubá,4.7
+Caxambu,São Thomé das Letras,17.25
+Januária,Manga,28.3
+Ouro Fino,Santa Rita do Sapucaí,17.3
+Comercinho,Ipatinga,70.0
+Baependi,Caxambu,3.15
+Cachoeira de Minas,Conceição dos Ouros,3.15
+Descoberto,São João Nepomuceno,3.15
+Inconfidentes,Ouro Fino,3.15
+Manga,Matias Cardoso,3.15
+Nacip Raydan,Virgolândia,3.15
+Belo Horizonte,Monte Alegre de Minas,75.68
+Extrema,Munhoz,14.2
+Bom Sucesso,São Tiago,18.95
+Chalé,Lajinha,3.95
+Matias Barbosa,Simão Pereira,3.95
+Barão de Monte Alto,Muriaé,4.75
+Santo Antônio do Rio Abaixo,São Sebastião do Rio Preto,5.55
+Bom Sucesso,Lavras,11.9
+Astolfo Dutra,Conselheiro Lafaiete,37.3
+Betim,Itaobim,100.0
+Coronel Pacheco,Juiz de Fora,7.15
+Simonésia,Taparuba,9.55
+Chapada do Norte,Leme do Prado,14.35
+Cruzília,São Lourenço,17.55
+Conselheiro Lafaiete,Dona Eusébia,39.1
+Belo Horizonte,Taquaraçu de Minas,14.4
+Borda da Mata,Santa Rita do Sapucaí,11.2
+Bugre,Iapu,3.2
+Camanducaia,Estiva,9.6
+Careaçu,Caxambu,34.4
+Itajubá,Maria da Fé,8.0
+Montes Claros,Patis,19.25
+Brasilândia de Minas,Riachinho,16.85
+Arcos,Lagoa da Prata,12.05
+Andradas,Santa Rita de Caldas,8.85
+Fronteira dos Vales,Teófilo Otoni,38.65
+Braúnas,Santana do Paraíso,19.35
+Santa Rita do Sapucaí,Varginha,31.45
+Belo Horizonte,Manga,120.26
+Ipatinga,Mesquita,15.35
+Gonzaga,Virginópolis,9.7
+Jequitaí,Montes Claros,14.55
+Alpinópolis,Varginha,36.4
+São Thomé das Letras,Três Corações,12.15
+Braúnas,Itabira,53.6
+Baldim,Jequitibá,3.25
+Cataguases,Santana de Cataguases,6.5
+Itaguara,Piracema,6.5
+São Sebastião do Paraíso,São Tomás de Aquino,6.5
+Açucena,São Pedro do Suaçuí,44.75
+Boa Esperança,Candeias,24.45
+Carmo de Minas,Pouso Alto,10.6
+Carneirinho,Iturama,10.6
+Monte Belo,Muzambinho,4.9
+Nanuque,Serra dos Aimorés,3.27
+Governador Valadares,Nova Serrana,108.0
+Santa Helena de Minas,Teófilo Otoni,44.2
+Montes Claros,Pirapora,29.48
+Ipatinga,Rubim,100.0
+Cabo Verde,Carmo do Rio Claro,34.45
+Conceição das Pedras,São José do Alegre,9.85
+Cruzília,Soledade de Minas,14.8
+Governador Valadares,Virgolândia,22.2
+Jacutinga,Piranguinho,30.52
+Jeceaba,São Brás do Suaçuí,3.3
+Teixeiras,Viçosa,3.3
+Andradas,Ibitiúra de Minas,4.95
+Conselheiro Lafaiete,Queluzito,4.95
+Espera Feliz,Ouro Preto,59.48
+Monte Alegre de Minas,Perdizes,31.4
+Carangola,Orizânia,16.55
+Cássia,Ibiraci,6.63
+Açucena,São José do Jacuri,50.6
+Coronel Pacheco,Piau,4.15
+Ijaci,Lavras,4.15
+Itajubá,Ouro Fino,26.57
+Aimorés,Pocrane,25.0
+Almenara,Jacinto,10.0
+Alvinópolis,Ponte Nova,20.0
+Andradas,Poços de Caldas,10.0
+Araçuaí,Contagem,120.0
+Arinos,São Francisco,40.0
+Belo Horizonte,Ipatinga,30.0
+Belo Horizonte,Itacarambi,110.0
+Belo Horizonte,Montes Claros,50.0
+Belo Horizonte,Nanuque,100.0
+Belo Horizonte,Rubim,130.0
+Betim,Teófilo Otoni,80.0
+Capitão Enéas,Montes Claros,10.0
+Carangola,Pedra Dourada,5.0
+Catuti,Mato Verde,5.0
+Divinésia,Ubá,5.0
+Espinosa,Uberlândia,140.0
+Governador Valadares,Mata Verde,80.0
+Governador Valadares,Pescador,20.0
+Guanhães,Minas Novas,50.0
+Guanhães,Rio Vermelho,20.0
+Inhapim,São Domingos das Dores,5.0
+Itajubá,Piranguçu,5.0
+Jacinto,Santa Maria do Salto,10.0
+Juvenília,Montalvânia,7.5
+Malacacheta,Nova Serrana,90.0
+Montes Claros,Uberlândia,100.0
+Patos de Minas,Porteirinha,90.0
+Pescador,São José do Divino,10.0
+Pintópolis,São Francisco,10.0
+Piumhi,Varzelândia,100.0
+Porteirinha,Uberlândia,110.0
+Santa Rita de Minas,Vermelho Novo,10.85
+Bom Repouso,Cambuí,8.35
+Guanhães,Paulistas,14.2
+Itaipé,Teófilo Otoni,20.05
+Ipatinga,São João do Oriente,15.05
+Japaraíba,Lagoa da Prata,3.35
+Lavras,Ribeirão Vermelho,3.35
+Campo do Meio,Santana da Vargem,18.45
+Pouso Alegre,Varginha,26.0
+Baldim,Prudente de Morais,7.55
+Cataguases,Tocantins,20.15
+Arceburgo,Guaranésia,4.2
+Cambuí,Itapeva,8.4
+Iturama,Limeira do Oeste,10.93
+Além Paraíba,Divino,37.0
+Capitão Andrade,Itanhomi,5.05
+Coronel Fabriciano,Marliéria,10.1
+Itaipé,Novo Cruzeiro,10.1
+Natércia,Pouso Alegre,20.2
+Passos,Varginha,50.5
+Coronel Fabriciano,Vargem Alegre,17.7
+Perdões,Três Pontas,33.75
+Cássia,Passos,10.13
+Comendador Gomes,Planura,15.2
+Lavras,Mariana,55.75
+Belo Horizonte,Comercinho,110.0
+Antônio Dias,Ipatinga,16.9
+Manhuaçu,Matipó,10.15
+Fervedouro,Manhumirim,23.7
+Cordislândia,Machado,15.25
+Almenara,Rio do Prado,18.65
+Barbacena,Cipotânea,23.75
+Congonhas,Ouro Branco,5.1
+Juiz de Fora,Matias Barbosa,5.1
+Piranga,Presidente Bernardes,6.8
+Coronel Fabriciano,Jaguaraçu,7.65
+Juruaia,Muzambinho,7.65
+Careaçu,Varginha,21.3
+Coronel Fabriciano,Entre Folhas,20.45
+Santa Maria de Itabira,Santo Antônio do Rio Abaixo,16.2
+Natércia,Pedralva,13.65
+Itanhandu,Virgínia,12.8
+Barbacena,Ibertioga,10.25
+Fervedouro,Orizânia,10.25
+Itumirim,Nazareno,10.25
+Jacuí,São Sebastião do Paraíso,10.25
+Ponte Nova,Rio Piracicaba,30.75
+Belo Horizonte,Jequitinhonha,100.0
+Alterosa,Botelhos,29.95
+Caratinga,Coronel Fabriciano,18.85
+Águas Formosas,Fronteira dos Vales,6.0
+Bonito de Minas,Januária,12.0
+Dom Silvério,Sem-Peixe,6.0
+Belo Oriente,São Pedro do Suaçuí,52.3
+Botelhos,Carmo do Rio Claro,42.05
+Cristiano Otoni,Santana dos Montes,5.15
+Cascalho Rico,Patrocínio,39.5
+Januária,João Pinheiro,87.6
+Dionísio,Nova Era,13.75
+Caraí,Catuji,7.75
+Casa Grande,Conselheiro Lafaiete,7.75
+Conceição do Rio Verde,Varginha,22.4
+José Raydan,Peçanha,10.35
+Carangola,São Francisco do Glória,13.8
+Itajubá,Piranguinho,3.45
+Governador Valadares,Nacip Raydan,31.1
+Abadia dos Dourados,Romaria,12.1
+Ouro Fino,Piranguinho,25.07
+Alvarenga,Conselheiro Pena,26.0
+Barroso,São João del Rei,10.4
+Cabo Verde,Monte Belo,10.4
+Córrego Fundo,Pains,5.2
+Presidente Bernardes,Senador Firmino,10.4
+Cabo Verde,Conceição da Aparecida,31.23
+Conselheiro Pena,Governador Valadares,14.75
+Gonçalves,Paraisópolis,6.95
+Campanha,Santa Rita do Sapucaí,26.95
+Ipiaçu,Ituiutaba,15.65
+Betim,Itacarambi,120.0
+Betim,Itinga,120.0
+João Monlevade,Rubim,120.0
+Passabém,Santo Antônio do Rio Abaixo,8.7
+Braúnas,Ipatinga,26.1
+Itabira,Santo Antônio do Rio Abaixo,26.1
+Alpinópolis,Cabo Verde,43.55
+Botumirim,Francisco Sá,26.15
+Natércia,São José do Alegre,15.7
+Borda da Mata,Itajubá,20.94
+Bambuí,São Lourenço,65.5
+Araponga,Canaã,5.25
+Bela Vista de Minas,Dionísio,17.5
+Brasília de Minas,Montes Claros,21.0
+Brás Pires,Senhora de Oliveira,5.25
+Canaã,São Miguel do Anta,5.25
+Carmo do Cajuru,Divinópolis,3.5
+Catas Altas da Noruega,Lamim,3.5
+Conceição de Ipanema,Pocrane,12.25
+São Geraldo,Visconde do Rio Branco,3.5
+São João del Rei,Tiradentes,3.5
+Morro do Pilar,Santa Maria de Itabira,25.4
+Fervedouro,Reduto,24.55
+Coluna,Guanhães,31.6
+São Sebastião do Paraíso,Turmalina,168.69
+Setubinha,Teófilo Otoni,31.65
+Caranaíba,Conselheiro Lafaiete,10.55
+Alto Rio Doce,Barbacena,17.6
+Araçuaí,Itaobim,15.85
+Espera Feliz,Fervedouro,15.85
+Carmo de Minas,Passa Quatro,21.15
+Formiga,Lagoa da Prata,21.15
+Braúnas,Santa Maria de Itabira,44.95
+Lavras,Ouro Preto,52.9
+Baependi,Soledade de Minas,9.7
+Bonfim,Ibirité,19.4
+Juiz de Fora,Piau,12.35
+Águas Formosas,Umburatiba,15.9
+Igaratinga,Pará de Minas,5.3
+Palmópolis,Rubim,15.9
+Coroaci,São Pedro do Suaçuí,19.45
+Aracitaba,Santos Dumont,8.85
+Bueno Brandão,Ouro Fino,8.85
+Juiz de Fora,Simão Pereira,8.85
+Coronel Fabriciano,São José do Jacuri,74.35
+Rio Espera,Santana dos Montes,12.4
+Estiva,Extrema,15.95
+Cataguases,Palma,13.31
+Barroso,Ressaquinha,14.2
+Conselheiro Lafaiete,São Brás do Suaçuí,7.1
+Açucena,Coronel Fabriciano,21.3
+Iapu,Itanhomi,21.3
+Almenara,Pedra Azul,26.65
+Belo Horizonte,São João da Lagoa,80.0
+Pedras de Maria da Cruz,São Romão,40.0
+Baependi,São Lourenço,12.45
+Ipaba,Ipatinga,4.45
+Itajubá,Jacutinga,32.05
+Espera Feliz,Ponte Nova,42.75
+Monte Alegre de Minas,Santa Juliana,23.18
+Conceição da Aparecida,Monte Belo,21.4
+Coronel Xavier Chaves,São João del Rei,5.35
+Frei Inocêncio,Jampruca,5.35
+Santa Maria de Itabira,São Sebastião do Rio Preto,10.7
+Divinópolis,Itaguara,26.75
+Coronel Fabriciano,São Pedro do Suaçuí,68.66
+Morro do Pilar,Passabém,17.85
+Januária,São João das Missões,25.0
+Jequitaí,São João do Pacuí,25.0
+Iturama,União de Minas,8.93
+João Monlevade,Rio Doce,26.8
+Durandé,Lajinha,7.15
+Extrema,Toledo,7.15
+Careaçu,Lambari,15.2
+Capetinga,Itaú de Minas,14.31
+Divisa Alegre,Paracatu,129.0
+Salinas,Santa Cruz de Salinas,25.1
+Coroaci,Santa Maria do Suaçuí,26.9
+Jacutinga,Santa Rita do Sapucaí,23.32
+Bocaiúva,São Francisco,48.47
+Além Paraíba,Juiz de Fora,26.93
+Caratinga,Ipanema,26.95
+Lagoa Grande,Patos de Minas,26.95
+Bocaiúva,Engenheiro Navarro,4.5
+Bom Despacho,Perdizes,45.0
+Camacho,Itapecerica,7.2
+José Raydan,Santa Maria do Suaçuí,3.6
+Laranjal,Palma,3.6
+Luislândia,Montes Claros,27.0
+Bom Jesus do Galho,Pingo-d'Água,10.8
+Governador Valadares,São Pedro do Suaçuí,43.2
+Montes Claros,São Francisco,32.42
+Botelhos,Conceição da Aparecida,38.73
+Alpinópolis,Botelhos,51.35
+Minas Novas,São Sebastião do Paraíso,173.02
+Governador Valadares,Nova Módica,25.24
+Alfenas,Alpinópolis,31.55
+Capetinga,Cássia,4.51
+Capela Nova,Conselheiro Lafaiete,18.95
+Carvalhópolis,São Gonçalo do Sapucaí,18.05
+Belo Horizonte,Santa Helena de Minas,130.0
+Januária,Pirapora,65.0
+João Monlevade,São José do Goiabal,25.3
+Itabira,Morro do Pilar,35.25
+Divino,Pedra Bonita,10.85
+Barroso,Prados,9.05
+Conceição do Rio Verde,Três Corações,14.5
+Santa Bárbara do Leste,Vermelho Novo,7.25
+Dores de Campos,São João del Rei,13.6
+Aiuruoca,Andrelândia,39.9
+Aimorés,Conceição de Ipanema,40.0
+Belo Horizonte,Coração de Jesus,80.0
+Belo Horizonte,Mata Verde,120.0
+Caratinga,Vermelho Novo,13.65
+Morro do Pilar,Santo Antônio do Rio Abaixo,9.1
+Paraisópolis,Pouso Alegre,19.11
+Carmo de Minas,Itanhandu,16.4
+Santa Maria do Suaçuí,Senhora do Porto,40.1
+Almenara,Divisa Alegre,38.3
+Arantina,Bom Jardim de Minas,3.65
+Conselheiro Lafaiete,Jeceaba,10.95
+Cristiano Otoni,Rio Espera,18.25
+Indianópolis,Romaria,10.95
+Passabém,Santa Maria de Itabira,7.3
+Pingo-d'Água,Timóteo,18.25
+Braúnas,Ferros,35.6
+Coroaci,José Raydan,16.45
+Açucena,Virginópolis,14.65
+Itabirito,Ouro Branco,25.65
+Divisa Alegre,Teófilo Otoni,54.97
+São Sebastião do Paraíso,Virgem da Lapa,188.79
+Águas Formosas,Belo Horizonte,110.0
+Antônio Dias,Coronel Fabriciano,11.0
+Araporã,Tupaciguara,11.0
+Ataléia,Teófilo Otoni,16.5
+Belo Horizonte,Crisólita,110.0
+Belo Horizonte,Pedra Azul,110.0
+Brasília de Minas,São Francisco,11.0
+Carangola,Tombos,5.5
+Crucilândia,Sarzedo,24.75
+Cuparaque,Goiabeira,5.5
+Divinésia,Senador Firmino,5.5
+Estiva,Pouso Alegre,5.5
+Fronteira dos Vales,Joaíma,11.0
+Ilicínea,Três Pontas,22.0
+Ipanema,Taparuba,5.5
+Itacarambi,Montalvânia,33.0
+João Pinheiro,Taiobeiras,99.0
+Manhuaçu,Alto Jequitibá,8.25
+Pocrane,Taparuba,5.5
+Belo Horizonte,Porteirinha,100.0
+Dom Cavati,Itanhomi,15.6
+Itabira,São Sebastião do Rio Preto,20.2
+Governador Valadares,Rubim,90.0
+Itaúna,Pará de Minas,7.35
+Morro do Pilar,São Sebastião do Rio Preto,14.7
+Sardoá,Virginópolis,16.55
+Baldim,Belo Horizonte,23.0
+Marliéria,Timóteo,9.2
+Paulistas,São João Evangelista,9.2
+Santo Antônio do Amparo,Três Pontas,41.4
+Ipuiúna,Poços de Caldas,22.1
+Crucilândia,Ibirité,25.8
+Aimorés,Simonésia,14.75
+Belo Oriente,São José do Jacuri,58.1
+Campina Verde,Planura,27.7
+Natércia,Piranguinho,21.25
+Araponga,Viçosa,16.65
+Cajuri,Viçosa,5.55
+Carvalhópolis,Machado,3.7
+Conceição do Pará,Pitangui,3.7
+Consolação,Paraisópolis,7.4
+Dom Joaquim,Senhora do Porto,7.4
+Maravilhas,Papagaios,3.7
+Borda da Mata,Piranguinho,19.44
+Betim,Mirabela,100.0
+Bocaiúva,Brasília de Minas,37.05
+Lavras,Luminárias,13.9
+Carmo do Cajuru,Itaguara,22.25
+Caxambu,São Lourenço,10.2
+Campos Altos,Nova Ponte,66.77
+Pedras de Maria da Cruz,São Francisco,20.42
+Dom Cavati,Eugenópolis,126.24
+Areado,Botelhos,26.0
+Guaraciaba,Viçosa,13.0
+Curral de Dentro,Santa Cruz de Salinas,9.3
+Engenheiro Caldas,Fernandes Tourinho,4.65
+Alvinópolis,São Gonçalo do Rio Abaixo,24.2
+José Raydan,São João Evangelista,12.1
+Patos de Minas,Taiobeiras,156.42
+Carbonita,São Pedro do Suaçuí,37.25
+Caxambu,Soledade de Minas,7.45
+Conselheiro Lafaiete,Itaverava,7.45
+Bom Jesus do Galho,Córrego Novo,5.6
+Campo Belo,Cristais,11.2
+Santa Luzia,Taquaraçu de Minas,11.2
+São Lourenço,Soledade de Minas,2.8
+Alvinópolis,João Monlevade,16.8
+Andradas,Varginha,56.0
+Bom Jesus do Amparo,Itambé do Mato Dentro,16.8
+Capela Nova,Caranaíba,8.4
+Belo Horizonte,Itambé do Mato Dentro,40.15
+Carmésia,Lagoa Santa,55.1
+Belo Horizonte,Montalvânia,156.0
+Montes Claros,São João das Missões,58.0
+Almenara,Palmópolis,26.2
+Bocaiúva,Luislândia,43.05
+Alvorada de Minas,Conceição do Mato Dentro,16.85
+Formiga,Iguatama,16.85
+Brazópolis,Sapucaí-Mirim,10.31
+Alvarenga,Tarumirim,15.0
+Belo Horizonte,Cônego Marinho,120.0
+Belo Horizonte,Taiobeiras,120.0
+Crucilândia,Mário Campos,22.5
+Durandé,Manhuaçu,11.25
+São Gonçalo do Rio Preto,Inimutaba,56.25
+Frutal,Itapagipe,11.25
+Itamogi,Monte Santo de Minas,3.75
+Januária,Montalvânia,45.0
+Lambari,Passa Quatro,33.75
+Lima Duarte,Santa Bárbara do Monte Verde,15.0
+Padre Paraíso,Teófilo Otoni,15.0
+Tocantins,Ubá,3.75
+Montes Claros,Taiobeiras,50.63
+Açucena,Timóteo,27.2
+Crucilândia,Piracema,13.15
+Itambacuri,Nanuque,39.45
+Araçuaí,São Sebastião do Paraíso,197.31
+Belo Oriente,Virginópolis,22.55
+Ipanema,Piedade de Caratinga,22.55
+Carmo do Rio Claro,Poços de Caldas,55.45
+Guaranésia,Guaxupé,2.82
+São José do Mantimento,Simonésia,9.4
+Carlos Chagas,Itambacuri,28.25
+Catuji,Medina,28.25
+Baependi,Cruzília,5.65
+Caldas,Ipuiúna,11.3
+Manhuaçu,São José do Mantimento,14.15
+Januária,Paracatu,100.0
+Brazópolis,Gonçalves,15.1
+Governador Valadares,São José da Safira,30.2
+Itajubá,Uberlândia,135.92
+Ervália,Muriaé,17.0
+Capetinga,Passos,18.91
+Ipatinga,Raul Soares,56.75
+Carangola,Leopoldina,27.43
+Rio Piracicaba,São Gonçalo do Rio Abaixo,12.3
+Careaçu,Itajubá,18.95
+Coronel Fabriciano,Raul Soares,51.2
+Fortaleza de Minas,Passos,6.45
+Conceição da Aparecida,Muzambinho,28.48
+Aimorés,Governador Valadares,32.28
+Barroso,Santos Dumont,14.25
+Cambuquira,Três Corações,3.8
+Cantagalo,Coroaci,19.95
+Córrego Novo,Pingo-d'Água,5.7
+Crucilândia,Itaguara,6.65
+Cruzeiro da Fortaleza,Guimarânia,4.75
+Dores de Guanhães,Senhora do Porto,12.35
+Formiga,Japaraíba,19.0
+Governador Valadares,Itanhomi,17.1
+Guanhães,Serro,22.8
+Mateus Leme,Pará de Minas,7.6
+Peçanha,São Pedro do Suaçuí,7.6
+Rio Pomba,Silveirânia,5.7
+Açucena,São João Evangelista,34.25
+Belo Horizonte,Machacalis,120.0
+Belo Horizonte,Santo Antônio do Jacinto,160.0
+Betim,Pedras de Maria da Cruz,120.0
+Contagem,Teófilo Otoni,80.0
+Curvelo,São Gonçalo do Rio Preto,60.0
+Divinópolis,Montes Claros,80.0
+Gonçalves,Piranguinho,20.0
+Divinolândia de Minas,São Pedro do Suaçuí,34.31
+Belo Horizonte,Espera Feliz,68.65
+Cataguases,Piraúba,13.35
+Comercinho,Governador Valadares,70.0
+Açucena,Itamarandiba,75.35
+Novo Oriente de Minas,Santa Helena de Minas,32.45
+Minas Novas,Perdões,149.85
+Passa Quatro,Pouso Alto,10.5
+Itinga,Teófilo Otoni,40.15
+Caetanópolis,Sete Lagoas,7.65
+Dona Eusébia,Tocantins,15.3
+Governador Valadares,Tarumirim,22.95
+Pedro Leopoldo,Sete Lagoas,7.65
+Bonfim,Itaguara,13.4
+Jaguaraçu,Timóteo,6.7
+Jesuânia,Pouso Alto,20.1
+Jesuânia,Passa Quatro,30.65
+Belo Horizonte,Capim Branco,11.5
+Candeias,Cristais,17.25
+Esmeraldas,Sete Lagoas,23.0
+Ibituruna,Nazareno,5.75
+Luz,Nova Serrana,11.5
+Olímpio Noronha,Passa Quatro,28.75
+Alvinópolis,Rio Doce,10.55
+Jequitaí,Pirapora,13.43
+Campos Gerais,Coqueiral,15.35
+Muriaé,Reduto,40.3
+Belo Horizonte,Jaboticatubas,14.4
+Campo do Meio,Varginha,33.6
+Itacambira,Juramento,19.2
+Coluna,Divinolândia de Minas,49.95
+Areado,Cabo Verde,17.3
+Bela Vista de Minas,Nova Era,3.85
+Bom Sucesso,Nazareno,11.55
+Itaú de Minas,Passos,3.85
+Piranguinho,São José do Alegre,3.85
+Araçuaí,Catuji,34.7
+Bom Repouso,Estiva,6.75
+Águas Vermelhas,Almenara,43.4
+Alpercata,Tarumirim,17.36
+Alterosa,Poços de Caldas,43.4
+Mamonas,Montes Claros,52.1
+Belo Horizonte,Medina,110.0
+Itaobim,Itinga,6.95
+Passos,São Sebastião do Paraíso,10.62
+Alpinópolis,Poços de Caldas,64.75
+Além Paraíba,Estrela Dalva,11.6
+Bom Jesus do Galho,Timóteo,29.0
+Bonfim,Brumadinho,11.6
+Campanha,Monsenhor Paulo,5.8
+Cataguases,Ubá,17.4
+Itanhandu,Lambari,29.0
+Itatiaiuçu,Itaúna,5.8
+Lambari,Pouso Alto,23.2
+Lavras,São Bento Abade,20.3
+Prados,São João del Rei,8.7
+Belo Horizonte,Morro do Pilar,46.45
+Itajubá,Varginha,46.45
+Capelinha,Perdões,136.47
+Cabo Verde,Passos,58.09
+Martins Soares,Orizânia,25.95
+Brumadinho,Crucilândia,18.4
+Jequitinhonha,Novo Oriente de Minas,46.5
+Careaçu,Natércia,12.6
+Cantagalo,Governador Valadares,39.75
+Baldim,Sete Lagoas,9.7
+Cássia,Pratápolis,4.85
+Açucena,Carbonita,91.2
+Alterosa,Cabo Verde,21.35
+Espera Feliz,Alto Jequitibá,11.65
+Belo Horizonte,Pavão,105.0
+Betim,Montes Claros,70.0
+Ipatinga,Santo Antônio do Jacinto,140.0
+Conceição do Mato Dentro,Serro,23.35
+Divinolândia de Minas,São José do Jacuri,39.95
+Barão de Cocais,Bom Jesus do Amparo,11.7
+Cambuquira,Varginha,11.7
+Cássia,Delfinópolis,11.7
+Itumirim,Lavras,5.85
+Barroso,Dores de Campos,3.9
+Carbonita,São João Evangelista,54.6
+Doresópolis,Iguatama,15.6
+Frei Gaspar,Teófilo Otoni,9.75
+Ibitiúra de Minas,Santa Rita de Caldas,3.9
+Pouso Alto,Virgínia,7.8
+Água Boa,Perdões,127.03
+Coluna,Paulistas,10.75
+Lagoa da Prata,Leandro Ferreira,30.3
+Nova Serrana,Rio Paranaíba,35.19
+Governador Valadares,Jampruca,15.64
+São Gonçalo do Sapucaí,São Lourenço,33.25
+Botelhos,Passos,65.53
+Arceburgo,Passos,29.35
+Conceição das Pedras,Piranguinho,13.7
+Divinópolis,Passos,35.24
+Carmo do Rio Claro,Paraguaçu,35.25
+Curvelo,Felixlândia,11.75
+Galiléia,Governador Valadares,11.75
+Monte Azul,Montes Claros,47.0
+Belo Oriente,Itamarandiba,83.25
+Fervedouro,Nanuque,105.78
+Astolfo Dutra,Guarani,9.8
+Conselheiro Lafaiete,Santana dos Montes,9.8
+Itabirito,Simonésia,76.45
+Divinópolis,Varzelândia,100.0
+Lavras,Nazareno,17.65
+Argirita,Cataguases,15.7
+Bom Sucesso,Perdões,7.85
+Guarani,Visconde do Rio Branco,23.55
+Raul Soares,Timóteo,47.1
+Espinosa,Montes Claros,53.0
+Piranguinho,Pouso Alegre,10.8
+Araçuaí,Belo Horizonte,120.0
+Carbonita,Guanhães,66.8
+Perdões,Santa Maria do Suaçuí,120.91
+Catuji,Divisa Alegre,44.25
+Coronel Fabriciano,Itamarandiba,100.3
+Piranga,Porto Firme,8.85
+Coronel Pacheco,Rio Novo,5.9
+Pavão,Santa Helena de Minas,23.6
+Bonfim,Mário Campos,15.75
+Ituiutaba,Santa Vitória,15.75
+Conceição da Aparecida,Poços de Caldas,52.18
+Gonzaga,Virgolândia,25.6
+Belo Oriente,Carbonita,98.5
+Machacalis,Santa Helena de Minas,6.9
+Durandé,Mutum,17.75
+Fronteira dos Vales,Novo Oriente de Minas,29.6
+Carangola,Manhuaçu,23.69
+Chapada do Norte,Minas Novas,7.9
+Extrema,Itapeva,3.95
+Perdões,Ribeirão Vermelho,3.95
+Campanha,Itajubá,37.55
+Delfinópolis,Passos,33.6
+Botelhos,Monte Belo,17.8
+Dores de Campos,Ressaquinha,17.8
+Campo do Meio,Três Pontas,23.75
+Rio Vermelho,Santo Antônio do Itambé,14.85
+Carangola,Pedra Bonita,19.8
+Congonhas,Conselheiro Lafaiete,4.95
+Itinga,Padre Paraíso,19.8
+Belo Horizonte,Itaobim,100.0
+Montalvânia,Perdões,202.1
+Cachoeira de Minas,Santa Rita do Sapucaí,5.95
+Divisa Alegre,João Pinheiro,119.0
+Indaiabira,Salinas,23.8
+Leme do Prado,Turmalina,23.8
+Itajubá,São Gonçalo do Sapucaí,26.8
+Muriaé,Ubá,29.8
+Gonçalves,Itajubá,23.85
+Aiuruoca,São Vicente de Minas,33.8
+Dom Joaquim,Serro,17.9
+Aimorés,Ipatinga,55.7
+Caraí,Teófilo Otoni,19.9
+Alvorada de Minas,Serra Azul de Minas,29.85
+Coronel Fabriciano,São José do Goiabal,29.85
+Machado,São João da Mata,10.95
+Barbacena,Dores de Campos,11.95
+Bonfim,Itatiaiuçu,11.95
+Estiva,Itapeva,11.95
+Ipatinga,São Pedro dos Ferros,51.8
+Itanhandu,Jesuânia,25.9
+Mutum,Reduto,29.89
+Guanhães,Nacip Raydan,47.85
+Passa Quatro,São Lourenço,16.95
+Campanha,Caxambu,20.95
+Alfenas,Serrania,8.98
+Raul Soares,São José do Goiabal,23.95
+Lambari,São Lourenço,16.97
+Almenara,Novo Oriente de Minas,59.9
+Almenara,Jordânia,20.0
+Aricanduva,Capelinha,6.0
+Bonfim,Sarzedo,18.0
+Carmo do Rio Claro,Varginha,33.0
+Conceição das Pedras,Itajubá,18.0
+Congonhal,Poços de Caldas,30.0
+Cristais,Formiga,30.0
+Divisa Alegre,Montes Claros,60.0
+Dores do Indaiá,Quartel Geral,8.0
+Glaucilândia,Montes Claros,6.0
+Guanhães,Virgolândia,45.0
+Guaraciaba,Teixeiras,10.0
+Heliodora,São Sebastião da Bela Vista,9.0
+Ipatinga,Jacinto,120.0
+Itueta,Santa Rita do Itueto,8.0
+João Monlevade,Rio Piracicaba,6.0
+Manga,São João das Missões,8.0
+Manhumirim,São João do Manhuaçu,16.0
+Montes Claros,Porteirinha,32.0
+Montezuma,Rio Pardo de Minas,18.0
+Ninheira,São João do Paraíso,6.0
+Orizânia,Reduto,16.0
+Ouro Verde de Minas,Teófilo Otoni,12.0
+Pedro Leopoldo,Prudente de Morais,5.0
+São João da Ponte,Varzelândia,6.0
+Juiz de Fora,Nanuque,159.03
+Coroaci,Guanhães,38.05
+Coronel Fabriciano,São João Evangelista,58.15
+Governador Valadares,Tumiritinga,18.05
+Guaranésia,Monte Santo de Minas,11.05
+Brazópolis,Itajubá,8.04
+Coronel Fabriciano,Itabira,30.15
+Guaxupé,Nova Resende,18.1
+Barbacena,Barroso,8.05
+Cambuí,Paraisópolis,16.1
+Ponte Nova,Urucânia,8.05
+Coronel Fabriciano,São Pedro dos Ferros,46.3
+Carbonita,São José do Jacuri,37.25
+Perdões,São João do Paraíso,182.28
+Alto Rio Doce,Senador Firmino,14.1
+Cristina,Itajubá,14.1
+Dom Viçoso,São Lourenço,7.05
+Luz,Rio Paranaíba,20.15
+Governador Valadares,São José do Divino,30.24
+Águas Formosas,Santa Helena de Minas,12.1
+Cantagalo,Senhora do Porto,24.2
+Divisa Alegre,Pedra Azul,12.1
+Almenara,João Monlevade,120.0
+Virginópolis,Virgolândia,35.3
+Santa Efigênia de Minas,Virgolândia,23.2
+Governador Valadares,São João Evangelista,45.4
+Astolfo Dutra,Rio Novo,16.15
+Olhos-d'Água,São Pedro do Suaçuí,67.65
+Boa Esperança,Formiga,36.35
+Ipatinga,Joanésia,18.2
+Olímpio Noronha,Pouso Alto,18.2
+Gurinhatã,Ituiutaba,16.18
+Fortuna de Minas,Inhaúma,4.05
+Nacip Raydan,São José da Safira,8.1
+Itabirito,Santa Bárbara,42.55
+Caldas,Congonhal,19.25
+Camanducaia,Pouso Alegre,14.19
+Indianópolis,Monte Carmelo,18.25
+Carmo do Rio Claro,Conceição da Aparecida,7.1
+Almenara,Pavão,48.7
+Salinas,São João do Paraíso,34.5
+Cambuí,Pouso Alegre,10.15
+Itajubá,São Lourenço,26.4
+Indaiabira,Montes Claros,58.9
+Arinos,Brasilândia de Minas,48.75
+Fronteira dos Vales,Pavão,19.3
+Guaranésia,Monte Belo,19.3
+Campanário,Carlos Chagas,34.55
+Catas Altas da Noruega,Rio Espera,6.1
+Cristina,Maria da Fé,6.1
+Machado,São Gonçalo do Sapucaí,24.4
+Guaxupé,Passos,35.6
+Itacarambi,Paracatu,118.0
+Leopoldina,Manhumirim,59.0
+Cataguases,Mercês,26.45
+Fronteira,Itapagipe,18.32
+Barão de Cocais,Caeté,14.25
+Belo Horizonte,Dom Joaquim,53.95
+Crisólita,Jequitinhonha,30.55
+Águas Formosas,Jequitinhonha,24.45
+Ibirité,Piedade dos Gerais,24.45
+Belo Horizonte,Conceição do Mato Dentro,42.8
+Presidente Juscelino,Presidente Kubitschek,26.5
+Alfenas,Campo do Meio,18.35
+Candeias,São Francisco de Paula,18.35
+Jequitinhonha,Pavão,36.7
+Santa Juliana,Uberaba,18.35
+Betim,Mateus Leme,5.1
+Bom Sucesso,Ibituruna,5.1
+Bonfim,Moeda,10.2
+Carvalhópolis,Cordislândia,10.2
+Guarani,Tocantins,10.2
+Lagoa Santa,Rio Vermelho,91.8
+Itaobim,Leopoldina,122.44
+Itanhandu,São Lourenço,12.25
+Senador Firmino,Senhora de Oliveira,12.25
+Senador Firmino,Ubá,12.25
+Catas Altas,João Monlevade,20.44
+Berizal,Salinas,18.4
+Diamantina,São Sebastião do Paraíso,135.02
+Alpinópolis,Paraguaçu,44.0
+Itabira,Passabém,17.4
+Carbonita,Virginópolis,75.75
+Muriaé,Nanuque,128.0
+Antônio Prado de Minas,Muriaé,8.2
+Arceburgo,São Sebastião do Paraíso,14.35
+Cambuquira,Passa Quatro,43.05
+Catas Altas,São Gonçalo do Rio Abaixo,14.35
+Guarani,Ubá,14.35
+Mato Verde,Montes Claros,41.0
+Pedralva,São José do Alegre,4.1
+Raul Soares,São Pedro dos Ferros,4.1
+Campina Verde,Frutal,24.61
+Joaquim Felício,São Francisco,73.9
+Campos Gerais,Três Pontas,17.45
+Araçuaí,Padre Paraíso,28.75
+Candeias,Oliveira,26.7
+Mário Campos,Piedade dos Gerais,24.65
+Belo Horizonte,Piedade dos Gerais,39.05
+Mercês,Muriaé,55.5
+Itamarandiba,Virginópolis,60.65
+Conceição do Mato Dentro,Rio Vermelho,51.4
+Areado,Carmo do Rio Claro,16.45
+Dionísio,Timóteo,21.6
+Joaíma,Novo Oriente de Minas,39.1
+Muriaé,Paiva,61.75
+São João Nepomuceno,Ubá,24.7
+Senhora de Oliveira,Ubá,24.7
+Estrela do Sul,Guimarânia,35.0
+Caratinga,Vargem Alegre,10.3
+Leandro Ferreira,Moema,20.6
+Carmo do Rio Claro,Elói Mendes,42.25
+Paraisópolis,Santa Rita do Sapucaí,15.46
+Carmo do Rio Claro,Ilicínea,13.4
+Governador Valadares,Santo Antônio do Jacinto,130.0
+Espera Feliz,Manhumirim,14.45
+Dores do Indaiá,São Gotardo,43.35
+Belo Horizonte,Brumadinho,17.55
+Piedade dos Gerais,Sarzedo,26.85
+Bicas,Pequeri,6.2
+Bueno Brandão,Inconfidentes,6.2
+Cambuí,Extrema,12.4
+Carangola,Santa Margarida,24.8
+Centralina,Uberlândia,24.8
+Matias Cardoso,Montalvânia,24.8
+Capetinga,Pratápolis,12.41
+Carmésia,Santa Maria de Itabira,23.8
+Arceburgo,Itamogi,10.35
+Bandeira do Sul,Poços de Caldas,10.35
+Divisa Alegre,Pirapora,87.0
+Divinolândia de Minas,Itamarandiba,64.25
+Areado,Poços de Caldas,39.4
+Astolfo Dutra,Goianá,19.7
+Cataguases,Rio Pomba,19.7
+Cataguases,Laranjal,10.37
+Águas Formosas,Nanuque,52.9
+Canaã,Viçosa,12.45
+Brumadinho,Mário Campos,4.15
+Dona Eusébia,Piraúba,8.3
+Belo Horizonte,Januária,110.0
+Manhumirim,Martins Soares,5.19
+Mariana,Santana do Manhuaçu,70.6
+Carbonita,Divinolândia de Minas,80.05
+Glaucilândia,Juramento,5.2
+Itanhandu,Passa Quatro,5.2
+Coronel Fabriciano,Itanhomi,37.45
+João Monlevade,Ponte Nova,37.46
+Astolfo Dutra,Coronel Pacheco,22.9
+Itapeva,Pouso Alegre,18.74
+Araçuaí,Teófilo Otoni,50.0
+Astolfo Dutra,Piraúba,6.25
+Belo Horizonte,Guanhães,50.0
+Belo Horizonte,Uberlândia,100.0
+Campo do Meio,Campos Gerais,6.25
+Catas Altas,Itabirito,37.5
+Comercinho,Teófilo Otoni,50.0
+Eugenópolis,Muriaé,6.25
+Montes Claros,Patrocínio,100.0
+Nova Serrana,Varzelândia,100.0
+Oliveira Fortes,Santos Dumont,6.25
+Astolfo Dutra,Juiz de Fora,32.3
+Passos,Poços de Caldas,80.24
+Crisólita,Santa Helena de Minas,19.8
+Abaeté,Dores do Indaiá,14.59
+Dom Silvério,Ponte Nova,14.6
+Itajubá,Natércia,25.05
+Ponte Nova,Raul Soares,25.05
+Rio Vermelho,Sabinópolis,17.75
+Guaranésia,Passos,36.55
+Malacacheta,Santa Maria do Suaçuí,28.2
+Mirabela,Paracatu,94.0
+Glaucilândia,Itacambira,25.1
+Borda da Mata,Pouso Alegre,5.23
+São Geraldo,Teixeiras,13.6
+Capitólio,São Sebastião do Paraíso,37.68
+Campo Belo,Formiga,18.85
+Lontra,Montes Claros,22.0
+Pavão,Teófilo Otoni,22.0
+Conceição de Ipanema,Santana do Manhuaçu,5.24
+Andrelândia,Caxambu,34.6
+Lagoa Santa,Morro do Pilar,37.75
+Almenara,Crisólita,44.05
+Alterosa,Carmo do Rio Claro,12.6
+Angelândia,Capelinha,9.45
+Astolfo Dutra,Dona Eusébia,3.15
+Bonfim,Rio Manso,3.15
+Cambuquira,Pouso Alto,32.55
+Conceição dos Ouros,Santa Rita do Sapucaí,9.45
+Coronel Pacheco,Goianá,3.15
+Entre Folhas,Vargem Alegre,3.15
+Fernandes Tourinho,Sobrália,3.15
+Goianá,Juiz de Fora,12.6
+Gonzaga,Sardoá,6.3
+Iraí de Minas,Romaria,7.35
+Jaguaraçu,Marliéria,3.15
+Jesuânia,Olímpio Noronha,3.15
+Lamim,Rio Espera,3.15
+Poço Fundo,São João da Mata,6.3
+Salinas,Taiobeiras,10.5
+São José do Jacuri,São Pedro do Suaçuí,6.3
+Dom Cavati,Fernandes Tourinho,11.55
+Januária,Montes Claros,33.6
+Japonvar,Montes Claros,16.8
+Jequitinhonha,Perdões,181.73
+José Raydan,Novo Cruzeiro,63.1
+Iguatama,Piumhi,25.25
+Extrema,Pouso Alegre,22.1
+São Pedro dos Ferros,Timóteo,44.2
+Montes Claros,Salinas,40.0
+Espera Feliz,Reduto,18.95
+Couto de Magalhães de Minas,Inimutaba,50.55
+Careaçu,Santa Rita do Sapucaí,14.75
+Jesuânia,São Lourenço,13.7
+Almenara,Perdões,191.85
+Braúnas,Mesquita,12.65
+Campo Belo,São Francisco de Paula,12.65
+Couto de Magalhães de Minas,Felício dos Santos,12.65
+Ipatinga,Pingo-d'Água,12.65
+Araújos,São Gonçalo do Pará,11.6
+Careaçu,Machado,31.65
+Manhumirim,Orizânia,21.1
+São Thomé das Letras,Varginha,20.05
+Bicas,São João Nepomuceno,9.5
+Ipiaçu,Monte Alegre de Minas,46.45
+Água Boa,Senhora do Porto,50.7
+Dores de Guanhães,Santa Maria de Itabira,24.3
+Divinópolis,Pará de Minas,19.02
+Congonhal,Senador José Bento,7.4
+Martins Soares,Miradouro,41.25
+Barão de Cocais,Itabirito,46.55
+Araxá,Pratinha,25.4
+Brumadinho,Sarzedo,6.35
+Datas,Presidente Kubitschek,6.35
+São Roque de Minas,Vargem Bonita,6.35
+Rio Doce,São Gonçalo do Rio Abaixo,38.1
+Itajubá,Santa Rita do Sapucaí,10.59
+Barbacena,Pouso Alegre,83.68
+Elói Mendes,Três Corações,16.95
+Belo Horizonte,Nova Era,27.55
+Governador Valadares,Peçanha,38.15
+Ritápolis,São Tiago,10.6
+Leopoldina,Ubá,25.45
+Campo Belo,Oliveira,19.1
+Lagoa Dourada,São João del Rei,9.55
+Nazareno,Santo Antônio do Amparo,19.1
+Carmo de Minas,Piranguinho,23.35
+Patrocínio,Porteirinha,100.0
+Coronel Fabriciano,Virginópolis,40.35
+Espera Feliz,Manhuaçu,21.24
+Almenara,Joaíma,17.0
+Carandaí,Ressaquinha,4.25
+Carmo de Minas,Lambari,12.75
+Mirabela,Varzelândia,21.25
+Monte Santo de Minas,Passos,25.5
+Naque,Periquito,4.25
+Muzambinho,Passos,47.85
+Alpinópolis,Elói Mendes,51.05
+Caratinga,Medina,100.0
+Januária,Perdões,164.91
+Timóteo,Virginópolis,41.5
+Monte Santo de Minas,Muzambinho,22.35
+Catuji,Itinga,25.55
+Fortuna de Minas,Sete Lagoas,10.65
+Cambuquira,Itanhandu,38.35
+Pará de Minas,Santa Juliana,114.0
+Carbonita,Coronel Fabriciano,116.2
+Medina,Padre Paraíso,22.4
+São José do Goiabal,São Pedro dos Ferros,19.2
+Ewbank da Câmara,Santos Dumont,3.2
+Itamonte,Itanhandu,6.4
+Manhuaçu,Santa Margarida,6.4
+Pouso Alegre,Senador José Bento,12.8
+Alto Jequitibá,Reduto,6.4
+São João do Oriente,Ubaporanga,12.8
+Alvinópolis,Belo Horizonte,37.35
+Poços de Caldas,Santa Rita de Caldas,18.15
+Belo Horizonte,Pedras de Maria da Cruz,110.0
+Bom Jesus do Galho,Ipatinga,23.5
+Peçanha,Santa Maria do Suaçuí,20.3
+João Monlevade,Manhumirim,38.47
+Aimorés,Naque,51.3
+Monte Belo,Passos,48.1
+Espera Feliz,Miradouro,22.45
+Crucilândia,Itaúna,24.6
+Passa Quatro,Três Corações,49.2
+Córrego Danta,Tapiraí,5.35
+Rio Casca,São José do Goiabal,12.84
+Ubá,Visconde do Rio Branco,5.35
+Muriaé,Viçosa,28.9
+Águas Formosas,Almenara,38.55
+Coronel Fabriciano,Dionísio,25.7
+Guanhães,Sardoá,25.7
+João Monlevade,Santa Bárbara,12.85
+Barão de Cocais,Sabará,22.5
+Belo Horizonte,Japonvar,90.0
+Campanário,Nanuque,45.0
+Caratinga,Entre Folhas,7.5
+Guarani,Juiz de Fora,22.5
+Itaobim,Rubim,30.0
+Carmésia,Morro do Pilar,17.15
+São José da Varginha,Sete Lagoas,34.3
+Bom Jardim de Minas,Liberdade,9.65
+Gonzaga,Guanhães,19.3
+Ipatinga,Itueta,54.7
+Cambuquira,Elói Mendes,23.6
+Aguanil,Formiga,25.75
+Delfinópolis,São João Batista do Glória,27.9
+Belo Oriente,Guanhães,32.2
+Patos de Minas,São João do Paraíso,152.42
+São Brás do Suaçuí,São João del Rei,24.7
+Barbacena,Ressaquinha,4.3
+Doresópolis,Piumhi,8.6
+Galiléia,Itueta,17.2
+Governador Valadares,São Geraldo da Piedade,21.5
+Piraúba,Ubá,10.75
+Pouso Alto,São Lourenço,6.45
+Resplendor,Santa Rita do Itueto,12.9
+Rio Pomba,Tabuleiro,4.3
+Guapé,Varginha,38.7
+Ipatinga,Jequitinhonha,100.0
+José Raydan,Malacacheta,32.3
+Juiz de Fora,Rio Novo,16.15
+Cachoeira da Prata,Pequi,14.0
+Crisólita,Fronteira dos Vales,14.0
+Patos de Minas,Sacramento,47.4
+Ingaí,Lavras,9.7
+São José do Jacuri,Virginópolis,36.65
+Divino,Reduto,22.65
+Além Paraíba,Cataguases,15.1
+Medina,Ponto dos Volantes,11.65
+Brumadinho,Piedade dos Gerais,20.5
+Ibituruna,Santo Antônio do Amparo,12.95
+Joaíma,Teófilo Otoni,55.05
+Muriaé,Alto Jequitibá,36.7
+Alvinópolis,Dom Silvério,5.4
+Conselheiro Lafaiete,Cristiano Otoni,5.4
+Dom Silvério,Rio Doce,5.4
+Coronel Fabriciano,Rio Casca,41.05
+Santana do Riacho,Vespasiano,30.25
+Elói Mendes,São Lourenço,49.7
+Alfenas,Carmo do Rio Claro,25.95
+Capelinha,Novo Cruzeiro,34.6
+Divino das Laranjeiras,Timóteo,60.6
+Belo Horizonte,Reduto,95.3
+Aguanil,Cristais,6.5
+Antônio Carlos,Barbacena,3.25
+Antônio Carlos,Santos Dumont,13.0
+Bias Fortes,Pedro Teixeira,6.5
+Coluna,São João Evangelista,19.5
+Divinolândia de Minas,Sardoá,13.0
+Itacarambi,Montes Claros,52.0
+Ituiutaba,Planura,45.5
+Montes Claros,Padre Paraíso,130.0
+Montes Claros,Pedra Azul,97.5
+Dona Eusébia,Rio Pomba,14.1
+Heliodora,Lambari,10.85
+Leopoldina,Miraí,18.45
+Coronel Fabriciano,Guanhães,49.95
+Alfenas,Santana da Vargem,23.9
+Pequi,Sete Lagoas,28.25
+Frei Inocêncio,Pescador,16.3
+Poté,Turmalina,55.45
+Caratinga,Teófilo Otoni,52.19
+Brazópolis,Piranguinho,4.35
+Careaçu,São Sebastião da Bela Vista,4.35
+Dores do Turvo,Senador Firmino,4.35
+Jacutinga,Ouro Fino,8.7
+Alfenas,São João da Mata,21.75
+Astolfo Dutra,Tocantins,13.05
+Bicas,Descoberto,13.05
+Juiz de Fora,Piraúba,26.1
+Manga,Montes Claros,65.3
+Ouro Preto,Pocrane,101.25
+Capela Nova,Carandaí,9.8
+Curral de Dentro,Salinas,19.6
+Desterro de Entre Rios,Oliveira,26.15
+Itamarandiba,Minas Novas,37.05
+Paracatu,São Lourenço,170.0
+Francisco Sá,Taiobeiras,50.13
+Além Paraíba,Miraí,19.62
+Datas,Diamantina,10.9
+Inhaúma,Prudente de Morais,10.9
+Matozinhos,Sete Lagoas,5.45
+Dores de Guanhães,Itabira,33.8
+Cristina,São Lourenço,12.0
+Itanhandu,Olímpio Noronha,24.0
+João Pinheiro,Montes Claros,72.0
+Moema,Santa Juliana,96.0
+Olhos-d'Água,São José do Jacuri,67.65
+Campo Belo,Cana Verde,6.55
+Coronel Pacheco,Guarani,13.1
+Alterosa,Varginha,36.05
+Bom Sucesso,Ijaci,7.65
+Rio Novo,São João Nepomuceno,7.65
+Conceição da Aparecida,Varginha,44.83
+Conselheiro Lafaiete,Senador Firmino,33.9
+Guanhães,Novo Cruzeiro,94.05
+Almenara,Ipatinga,105.0
+Brumadinho,Ibirité,8.75
+Cambuí,Consolação,8.75
+Dionísio,São Domingos do Prata,8.75
+Pedras de Maria da Cruz,São João das Missões,35.0
+Campos Gerais,Varginha,27.35
+Caetanópolis,Pedro Leopoldo,19.7
+Ouro Preto,Simonésia,74.45
+Cataguases,Miraí,10.95
+Aguanil,Candeias,13.15
+Belo Oriente,Coronel Fabriciano,13.15
+Conceição dos Ouros,Pouso Alegre,13.15
+Abre Campo,Santana do Manhuaçu,28.5
+São Lourenço,Varginha,43.85
+Novo Cruzeiro,Santa Maria do Suaçuí,59.2
+Januária,São Romão,50.0
+Almenara,Fronteira dos Vales,31.8
+Conceição da Aparecida,Paraguaçu,31.8
+Papagaios,Pitangui,16.45
+Itabira,Sardoá,69.1
+Conselheiro Lafaiete,Rio Espera,18.65
+Paraisópolis,Sapucaí-Mirim,5.49
+Abaeté,Quartel Geral,6.59
+Sabinópolis,Sardoá,32.95
+Fervedouro,Martins Soares,36.25
+Itinga,Ponto dos Volantes,11.65
+Mariana,Simonésia,71.45
+Açucena,Ipatinga,18.7
+Alterosa,Paraguaçu,23.1
+Bom Repouso,Pouso Alegre,9.9
+Camanducaia,Extrema,6.6
+Conceição do Mato Dentro,Santo Antônio do Itambé,33.0
+Corinto,Santo Hipólito,11.0
+Dom Cavati,Tarumirim,6.6
+Goianá,Guarani,9.9
+Manga,Pedras de Maria da Cruz,44.0
+Martins Soares,Muriaé,52.8
+Miradouro,Orizânia,16.5
+Ouro Branco,Ouro Preto,13.2
+Piraúba,Tocantins,6.6
+Porto Firme,Viçosa,9.9
+Pouso Alegre,São João da Mata,15.4
+Silvianópolis,Turvolândia,6.6
+Tarumirim,Timóteo,29.7
+Alterosa,Areado,4.4
+Cordislândia,São Gonçalo do Sapucaí,8.8
+Maravilhas,São José da Varginha,8.8
+Lajinha,Muriaé,67.15
+Botumirim,Montes Claros,33.05
+Januária,São Francisco,30.42
+Campanha,Pouso Alegre,23.15
+Ipanema,Ouro Preto,90.4
+Itumirim,São João del Rei,22.05
+Santa Maria do Suaçuí,Setubinha,43.0
+Couto de Magalhães de Minas,Presidente Juscelino,39.7
+Dores do Turvo,Ubá,16.55
+Bom Jesus da Penha,Passos,15.9
+Caldas,Pouso Alegre,26.5
+Lajinha,Martins Soares,13.25
+Curvelo,São Sebastião do Paraíso,113.73
+Pouso Alto,Três Corações,38.65
+Campos Gerais,Santana da Vargem,12.15
+Perdões,Taiobeiras,182.28
+Capelinha,Teófilo Otoni,66.3
+Montes Claros,Olhos-d'Água,11.05
+Areado,Varginha,32.05
+Inhapim,São João do Oriente,9.95
+Padre Carvalho,Salinas,19.9
+Leopoldina,Nanuque,152.6
+Catas Altas da Noruega,Viçosa,27.65
+Araçuaí,Itinga,8.85
+Catas Altas da Noruega,Piranga,8.85
+Araxá,Taiobeiras,199.13
+Martinho Campos,São Sebastião do Paraíso,90.73
+Arceburgo,Itaú de Minas,24.35
+Inhaúma,Matozinhos,14.4
+Aguanil,Boa Esperança,13.3
+Boa Esperança,Cristais,13.3
+Descoberto,Guarani,6.65
+Divinolândia de Minas,Guanhães,13.3
+Janaúba,Montes Claros,26.6
+Carmo de Minas,Varginha,38.8
+Catuji,Pedra Azul,37.7
+São João Evangelista,Setubinha,65.45
+Maravilhas,São José da Lapa,34.4
+Guanhães,Setubinha,79.9
+Manhumirim,Muriaé,39.95
+Conceição da Aparecida,Elói Mendes,38.85
+Divino,Manhumirim,27.75
+Rio Vermelho,Serra Azul de Minas,11.1
+Belo Horizonte,Senador Firmino,65.5
+Padre Paraíso,Pedra Azul,32.2
+José Raydan,Setubinha,46.65
+Almenara,Rubim,10.0
+Angelândia,Malacacheta,20.0
+Belo Horizonte,João Monlevade,20.0
+Belo Horizonte,Rio Vermelho,80.0
+Belo Horizonte,Salinas,100.0
+Berilo,Minas Novas,20.0
+Bocaiúva,Itacambira,20.0
+Bocaiúva,Olhos-d'Água,10.0
+Carmo do Paranaíba,São Gotardo,20.0
+Centralina,Prata,20.0
+Janaúba,Rio Pardo de Minas,40.0
+Joaíma,Rio do Prado,20.0
+Luislândia,São Francisco,10.0
+Mato Verde,Rio Pardo de Minas,20.0
+Miraí,São Sebastião da Vargem Alegre,10.0
+Santo Antônio do Jacinto,Teófilo Otoni,80.0
+São Francisco,São Romão,20.0
+Itanhandu,Três Corações,44.45
+Coronel Fabriciano,Divinolândia de Minas,38.9
+Ingaí,São Bento Abade,14.45
+Cachoeira da Prata,São José da Varginha,18.9
+Rio Pomba,Visconde do Rio Branco,18.9
+Aimorés,Santana do Manhuaçu,46.7
+Alfenas,Coqueiral,26.7
+Curvelo,Ponte Nova,103.5
+São Pedro do Suaçuí,Setubinha,55.66
+Coronel Pacheco,Piraúba,16.7
+Carmo de Minas,Elói Mendes,45.65
+Rio Casca,Santana do Manhuaçu,32.3
+Além Paraíba,Ipanema,80.2
+Candeias,Divinópolis,31.2
+Cambuquira,Carvalhos,42.35
+Gonzaga,Senhora do Porto,26.75
+Conceição do Mato Dentro,Dom Joaquim,11.15
+Itaverava,Viçosa,33.45
+Elói Mendes,Olímpio Noronha,39.05
+Itambacuri,Teófilo Otoni,6.7
+Mar de Espanha,Pequeri,6.7
+Mar de Espanha,Santana do Deserto,13.4
+Palmópolis,Rio do Prado,6.7
+Paracatu,Patos de Minas,40.2
+Caratinga,São João do Oriente,19.0
+Conceição do Mato Dentro,Serra Azul de Minas,40.25
+Alterosa,Elói Mendes,30.2
+Franciscópolis,Santa Maria do Suaçuí,39.15
+Aimorés,Mutum,26.85
+Ibiá,Iguatama,47.02
+Nacip Raydan,Santa Maria de Itabira,81.75
+Carangola,Muriaé,22.4
+Itaverava,Rio Espera,11.2
+Cássia,Itaú de Minas,10.08
+Fernandes Tourinho,Governador Valadares,21.29
+Papagaios,São José da Lapa,38.1
+Araújos,Bom Despacho,13.45
+Itabira,João Monlevade,13.45
+Sacramento,São Gotardo,42.6
+Perdões,Salinas,172.67
+Bonfim,Itaúna,20.2
+Campo Belo,Lavras,20.2
+Conselheiro Lafaiete,Lagoa Dourada,20.2
+Carandaí,Dores de Campos,22.45
+Rio Pomba,São Domingos do Prata,83.1
+Lagoa Grande,Presidente Olegário,10.11
+São Gonçalo do Sapucaí,Varginha,16.85
+Divisa Alegre,Itaobim,26.99
+Belo Horizonte,Catas Altas,40.5
+Brás Pires,Conselheiro Lafaiete,27.0
+Cana Verde,Lavras,13.5
+Carmo de Minas,Pedralva,15.75
+Congonhal,Pouso Alegre,4.5
+Divinésia,Senhora de Oliveira,18.0
+Fervedouro,São Francisco do Glória,4.5
+Jequitinhonha,Rio do Prado,27.0
+Mariana,Pocrane,97.9
+Juatuba,Moema,39.4
+Peçanha,Senhora do Porto,25.9
+Conselheiro Lafaiete,Piranga,21.4
+Conselheiro Lafaiete,Senhora de Oliveira,21.4
+Itabira,Nacip Raydan,91.3
+Alfenas,Guaranésia,37.2
+Cristália,Francisco Sá,24.8
+Durandé,Muriaé,58.62
+Açucena,Olhos-d'Água,127.45
+Itaobim,Uberaba,270.72
+Belo Oriente,Olhos-d'Água,135.4
+Itabirito,Santana do Manhuaçu,79.0
+Joaíma,Pavão,29.35
+Franciscópolis,José Raydan,42.9
+Alvorada de Minas,Rio Vermelho,40.65
+Coronel Pacheco,São João Nepomuceno,13.55
+Goianá,Piraúba,13.55
+Pocrane,Santana do Manhuaçu,13.55
+Formiga,Ibiá,64.37
+Belo Horizonte,Cachoeira da Prata,30.5
+Maravilhas,Pedro Leopoldo,30.5
+Alfenas,Cambuquira,40.68
+Cordislândia,Pouso Alegre,22.6
+Crucilândia,Igarapé,22.6
+Guaranésia,Muzambinho,11.3
+Belo Horizonte,Funilândia,20.35
+Dores de Guanhães,Guanhães,20.35
+Santa Maria do Suaçuí,São Pedro do Suaçuí,11.31
+Espírito Santo do Dourado,Pouso Alegre,9.05
+Bandeira do Sul,Muzambinho,21.5
+Alvorada de Minas,Diamantina,33.95
+Andrelândia,Cruzília,24.9
+Martins Soares,Rio Casca,24.9
+Divino,Santa Margarida,15.85
+João Monlevade,Tarumirim,54.35
+Naque,Resplendor,45.3
+Abre Campo,Manhumirim,29.45
+Divinolândia de Minas,Nacip Raydan,32.85
+Muzambinho,São Sebastião do Paraíso,32.85
+Carbonita,Olhos-d'Água,36.25
+Alto Rio Doce,Dores do Turvo,10.2
+Capelinha,Minas Novas,20.4
+Estrela do Sul,Iraí de Minas,17.0
+Guapé,Três Pontas,34.0
+Belo Oriente,São João Evangelista,23.8
+Divinolândia de Minas,São João Evangelista,23.8
+Nova Era,Rio Pomba,88.4
+Espinosa,Patos de Minas,156.42
+Malacacheta,São Pedro do Suaçuí,40.81
+Itabira,Virgolândia,88.45
+Areado,Guaranésia,28.35
+Conselheiro Pena,Galiléia,5.67
+Carvalhos,Três Corações,49.9
+Guaranésia,São Sebastião do Paraíso,21.55
+Nacip Raydan,Virginópolis,36.3
+Cachoeira da Prata,Prudente de Morais,14.75
+Conselheiro Pena,Itueta,14.75
+Muriaé,Piranga,48.8
+Alfenas,Campos Gerais,11.35
+Lavras,Três Pontas,27.24
+Durandé,Fervedouro,42.0
+Rio Vermelho,Serro,27.25
+Monte Carmelo,Uberlândia,20.45
+Elói Mendes,Lambari,32.95
+Ouro Preto,Santana do Manhuaçu,75.0
+Padre Paraíso,Rubim,50.0
+Inhaúma,Pedro Leopoldo,17.05
+Morada Nova de Minas,Três Marias,26.15
+Ibiraci,Pratápolis,11.37
+Ipatinga,Perdões,97.82
+Dom Cavati,Sobrália,9.1
+Manhumirim,Reduto,4.55
+Catas Altas,Ipatinga,54.6
+Iguatama,Tapiraí,13.65
+Monte Belo,Poços de Caldas,33.0
+Alfenas,Pouso Alegre,38.7
+Lajinha,São João do Manhuaçu,34.15
+Monte Alegre de Minas,Uberlândia,13.66
+Itabirito,Pocrane,118.4
+Catas Altas da Noruega,Ervália,39.85
+Coroaci,São João Evangelista,25.05
+Ingaí,Três Corações,25.05
+Belo Horizonte,Santana de Pirapama,41.0
+Novo Cruzeiro,Senhora do Porto,101.4
+Areado,Santana da Vargem,34.2
+Barbacena,Prados,17.1
+Inhaúma,São José da Varginha,22.8
+Ipanema,Pocrane,11.4
+Joanésia,Santana do Paraíso,11.4
+Papagaios,Pedro Leopoldo,34.2
+Resende Costa,São João del Rei,11.4
+Bocaiúva,Mirabela,23.95
+Bocaiúva,São Pedro do Suaçuí,90.1
+Coronel Fabriciano,Pingo-d'Água,18.25
+Areado,Elói Mendes,26.25
+Alpinópolis,Conceição da Aparecida,15.98
+Caldas,Santa Rita de Caldas,6.85
+Conselheiro Pena,Goiabeira,13.7
+Ewbank da Câmara,Juiz de Fora,6.85
+Piranguinho,São Lourenço,27.4
+Itamogi,São Sebastião do Paraíso,5.71
+Açucena,Montes Claros,157.65
+Bambuí,Piumhi,32.0
+Mariana,São João del Rei,43.44
+Muriaé,Visconde do Rio Branco,25.15
+Barbacena,Guarani,34.3
+Cambuquira,São Lourenço,26.3
+Betim,São Sebastião do Oeste,35.45
+Alterosa,Conceição da Aparecida,9.15
+Águas Formosas,Pavão,10.3
+Conceição do Mato Dentro,Lagoa Santa,41.2
+Itapecerica,São Sebastião do Oeste,10.3
+São João Nepomuceno,Tocantins,20.6
+Coimbra,Muriaé,22.9
+Ferros,Itabira,22.9
+Ibiá,Sacramento,22.9
+Machado,Pouso Alegre,27.48
+Divino das Laranjeiras,Periquito,36.65
+Além Paraíba,Caratinga,68.72
+Itajubá,Paraisópolis,13.75
+Mariana,Timóteo,55.0
+Ervália,Itaverava,45.85
+Cachoeira da Prata,Matozinhos,16.05
+Divinópolis,Santo Antônio do Amparo,33.25
+Fronteira dos Vales,Jequitinhonha,18.35
+Carmo de Minas,São José do Alegre,19.5
+Barbacena,Rio Novo,40.15
+Aimorés,Conselheiro Pena,20.65
+Araxá,Serra do Salitre,20.65
+Braúnas,Dores de Guanhães,20.65
+Novo Cruzeiro,São João Evangelista,82.6
+Teófilo Otoni,Turmalina,82.6
+Materlândia,Senhora do Porto,24.1
+Caxambu,São Gonçalo do Sapucaí,28.7
+Itaobim,Nova Serrana,179.17
+Setubinha,Senhora do Porto,87.3
+Água Boa,Franciscópolis,29.9
+Belo Oriente,Montes Claros,165.6
+Datas,Gouveia,4.6
+Pequi,São José da Varginha,4.6
+Abre Campo,Pocrane,57.5
+Aguanil,Campo Belo,6.9
+Brás Pires,Itaverava,19.55
+Campo Belo,Santana do Jacaré,6.9
+Capelinha,Gouveia,80.5
+Catuji,Montes Claros,138.0
+Fortuna de Minas,Prudente de Morais,16.1
+Heliodora,Natércia,6.9
+Machado,Poço Fundo,5.75
+Olímpio Noronha,Varginha,32.2
+Perdões,São Gonçalo do Sapucaí,40.25
+Itaobim,Perdões,179.5
+Água Boa,Novo Cruzeiro,50.65
+Mirabela,Montalvânia,76.0
+Lagoa Santa,Santana de Pirapama,32.25
+Passos,São Pedro da União,23.5
+Lagoa Formosa,São Gotardo,18.44
+Belo Horizonte,São João do Paraíso,168.29
+Pirapora,São João do Paraíso,99.13
+Pará de Minas,Sete Lagoas,41.5
+Medina,Teófilo Otoni,41.51
+Belo Oriente,Bocaiúva,149.9
+Arceburgo,Muzambinho,18.45
+Lajinha,Manhumirim,18.45
+Carangola,Laranjal,35.75
+Belo Horizonte,Santo Antônio do Itambé,85.35
+Ervália,Piranga,30.0
+Itamogi,Muzambinho,28.85
+Açucena,Bocaiúva,141.95
+Bela Vista de Minas,Coronel Fabriciano,26.55
+Divino,Lajinha,46.2
+Pirapora,Taiobeiras,103.98
+Cachoeira de Minas,Pouso Alegre,10.4
+Goianá,São João Nepomuceno,10.4
+Manhuaçu,Santana do Manhuaçu,10.4
+Martins Soares,São João do Manhuaçu,20.8
+Ibiá,Nova Serrana,32.36
+Fortuna de Minas,Matozinhos,19.65
+Perdões,Teófilo Otoni,146.81
+Água Boa,Peçanha,28.9
+Bela Vista de Minas,Iapu,38.15
+Araçuaí,Ponto dos Volantes,20.35
+Dom Joaquim,Vespasiano,55.5
+Divino das Laranjeiras,Ipatinga,50.9
+Governador Valadares,Novo Oriente de Minas,26.15
+Belo Horizonte,Itaguara,16.2
+Brasilândia de Minas,Pirapora,62.5
+Paraopeba,Prudente de Morais,15.05
+Montes Claros,Teófilo Otoni,162.1
+Itaú de Minas,Muzambinho,42.85
+Alfenas,Alterosa,13.9
+Arcos,Iguatama,6.95
+Betim,Pompéu,55.6
+Cambuquira,Liberdade,48.65
+Campo Belo,Candeias,6.95
+Caratinga,Imbé de Minas,13.9
+Coroaci,Virginópolis,27.8
+Muriaé,Vieiras,13.9
+São João da Mata,Silvianópolis,6.95
+Carmo de Minas,Itajubá,20.85
+Perdões,São Francisco,161.04
+Sardoá,Senhora do Porto,33.6
+Espera Feliz,Muriaé,32.45
+Pouso Alegre,São João del Rei,68.39
+Belo Oriente,Divinolândia de Minas,24.35
+Bandeira do Sul,Botelhos,5.8
+Itanhandu,Pouso Alto,5.8
+Miradouro,Vieiras,5.8
+Areado,Campos Gerais,22.05
+Guaxupé,Monte Santo de Minas,16.25
+Perdões,Santa Juliana,131.17
+Careaçu,Carvalhópolis,26.7
+Alfenas,Três Corações,34.83
+Água Boa,Malacacheta,20.9
+Machacalis,Umburatiba,10.45
+Malacacheta,Teófilo Otoni,20.9
+Ipanema,Mariana,87.15
+Campanha,Careaçu,13.95
+Conselheiro Lafaiete,Entre Rios de Minas,13.95
+Diamantina,Serro,27.9
+Itaverava,Piranga,13.95
+Itaverava,Senhora de Oliveira,13.95
+Matozinhos,Paraopeba,18.6
+Piedade do Rio Grande,São João del Rei,23.25
+Rio Casca,São Pedro dos Ferros,4.65
+Elói Mendes,Jesuânia,36.05
+Itaverava,Senador Firmino,26.75
+Lajinha,Orizânia,39.55
+Dom Joaquim,Lagoa Santa,52.35
+Conselheiro Lafaiete,Porto Firme,30.25
+Ipatinga,Rio Casca,46.55
+Dona Eusébia,Mercês,20.95
+Ponte Nova,Santa Margarida,32.6
+Carmópolis de Minas,Três Pontas,60.55
+Água Boa,Teófilo Otoni,48.95
+Itamarandiba,São Pedro do Suaçuí,22.15
+Ouro Preto,Santa Margarida,58.3
+Andrelândia,Baependi,32.65
+Alfenas,Guaxupé,31.5
+Bambuí,Córrego Danta,10.5
+Bom Despacho,Perdigão,14.0
+Centralina,Ituiutaba,28.0
+Maria da Fé,São Lourenço,17.5
+São Sebastião do Rio Verde,Virgínia,7.0
+Araxá,Espinosa,203.12
+Nacip Raydan,Senhora do Porto,52.55
+Ervália,Visconde do Rio Branco,12.85
+Ipatinga,São Domingos do Prata,25.7
+Ervália,Porto Firme,22.2
+Guaranésia,Itaú de Minas,31.55
+Cachoeira da Prata,Pedro Leopoldo,18.7
+São João Evangelista,Turmalina,65.45
+Itaguara,Três Pontas,67.85
+Coronel Murta,Rubelita,11.7
+Elói Mendes,Varginha,5.85
+Jequeri,Urucânia,5.85
+Lavras,Perdões,5.85
+Guaranésia,Itamogi,17.55
+Belo Horizonte,Lontra,110.0
+Areado,Passos,39.79
+Mariana,Santa Margarida,53.85
+Descoberto,Juiz de Fora,28.1
+Liberdade,Três Corações,56.2
+Novo Cruzeiro,Setubinha,14.05
+Governador Valadares,São João do Manhuaçu,58.55
+Fortuna de Minas,Pedro Leopoldo,22.25
+Coronel Fabriciano,Montes Claros,182.7
+Governador Valadares,Nanuque,63.25
+Araxá,São João do Paraíso,199.13
+Barra Longa,Ponte Nova,14.06
+Piranga,Viçosa,18.75
+Belo Horizonte,Santana do Manhuaçu,104.3
+Belo Horizonte,Serra Azul de Minas,92.6
+Nacip Raydan,Sardoá,21.1
+Brasília de Minas,Perdões,150.09
+Josenópolis,Salinas,28.15
+Manhumirim,Mariana,71.55
+Montes Claros,São Pedro do Suaçuí,104.4
+Governador Valadares,Santa Rita de Minas,39.9
+Lontra,Manga,54.0
+Abre Campo,Santa Margarida,11.75
+Cataguases,Conselheiro Lafaiete,44.65
+Coqueiral,Três Pontas,11.75
+Crisólita,Joaíma,23.5
+Formiga,Pains,11.75
+Lagoa Santa,Santana do Riacho,28.2
+Munhoz,Toledo,7.05
+Franciscópolis,São Pedro do Suaçuí,51.7
+Joanésia,Mesquita,4.7
+Maravilhas,Pequi,4.7
+Iguatama,Perdizes,77.62
+Água Boa,Governador Valadares,67.05
+Coração de Jesus,Jequitaí,20.0
+Martins Soares,Ouro Preto,70.6
+Cambuquira,Paraguaçu,30.6
+Alpinópolis,Areado,24.72
+Juatuba,Pompéu,49.45
+Descoberto,Ubá,21.2
+Paraopeba,Pedro Leopoldo,21.2
+São Bento Abade,Três Corações,10.6
+Coqueiral,Guaxupé,61.25
+Campanário,Pavão,32.99
+Gonzaga,Nacip Raydan,27.1
+Espera Feliz,Leopoldina,51.85
+Itutinga,São João del Rei,16.5
+Liberdade,Lima Duarte,24.75
+Nacip Raydan,Santa Efigênia de Minas,24.75
+Belo Horizonte,Carmésia,63.65
+Alpercata,Fernandes Tourinho,14.15
+Bambuí,Formiga,28.3
+Minas Novas,São João Evangelista,70.75
+Comendador Gomes,Ituiutaba,35.4
+Heliodora,Pouso Alegre,17.7
+Naque,Timóteo,17.7
+Olímpio Noronha,São Lourenço,11.8
+Caxambu,Pouso Alegre,38.95
+Mariana,Martins Soares,66.1
+Governador Valadares,Guanhães,47.25
+Dom Cavati,Manhuaçu,38.99
+Cachoeira da Prata,São José da Lapa,22.45
+Poço Fundo,Pouso Alegre,22.45
+Guaxupé,Santana da Vargem,57.9
+Coronel Fabriciano,Manhuaçu,55.54
+Curvelo,Morro da Garça,13.0
+Pompéu,São Sebastião do Paraíso,92.22
+Itabirito,Manhumirim,79.25
+Formiga,Itapecerica,21.3
+Goianá,Rio Novo,3.55
+Governador Valadares,Itueta,31.95
+Minduri,São Vicente de Minas,7.1
+Congonhas,Dona Eusébia,65.1
+Manga,Mirabela,58.0
+Juiz de Fora,Manhumirim,91.15
+Dionísio,João Monlevade,18.95
+Itapecerica,Oliveira,18.95
+Dores de Guanhães,Ipatinga,39.1
+Monte Azul,Patos de Minas,156.42
+Bambuí,Ibiá,37.92
+Montes Claros,Pedras de Maria da Cruz,32.0
+Coronel Fabriciano,Juiz de Fora,132.75
+Araxá,Monte Azul,199.13
+Coronel Fabriciano,Tarumirim,28.45
+Carlos Chagas,Engenheiro Caldas,81.8
+Alfenas,Poço Fundo,16.6
+Salinas,Uberlândia,185.0
+Ipatinga,Rio Pomba,113.85
+Coimbra,Mariana,37.95
+Inconfidentes,Itajubá,37.95
+Ponte Nova,Santa Cruz do Escalvado,11.86
+Cataguases,Juiz de Fora,42.7
+Durandé,Rio Casca,35.6
+Juiz de Fora,Pedro Teixeira,17.8
+Senhora do Porto,Virgolândia,49.85
+Coluna,Timóteo,87.85
+Itabira,Santa Efigênia de Minas,65.3
+Carandaí,Rio Pomba,35.62
+Bocaiúva,Guanhães,117.55
+Alto Rio Doce,Divinésia,19.0
+Bicas,Rochedo de Minas,4.75
+Cambuí,Estiva,4.75
+Campanário,Novo Oriente de Minas,38.0
+Centralina,Fronteira,57.0
+Coimbra,Tabuleiro,28.5
+Coroaci,Senhora do Porto,42.75
+Felisburgo,Jequitinhonha,19.0
+Itabira,Santa Maria de Itabira,9.5
+Rochedo de Minas,São João Nepomuceno,4.75
+Tupaciguara,Uberlândia,14.25
+Ipatinga,Resplendor,54.65
+Ponte Nova,Tabuleiro,49.9
+Cambuquira,Olímpio Noronha,15.45
+Descoberto,Piraúba,10.7
+Leopoldina,Palma,10.7
+Monte Carmelo,Uberaba,49.95
+Alfredo Vasconcelos,Congonhas,25.0
+Belo Horizonte,Padre Paraíso,100.0
+Além Paraíba,Ipatinga,82.15
+Juiz de Fora,Tabuleiro,19.05
+Cássia,São Sebastião do Paraíso,14.29
+Alfenas,Nepomuceno,33.35
+Conselheiro Lafaiete,Rio Novo,58.37
+Coronel Fabriciano,Olhos-d'Água,152.5
+Capela Nova,Ressaquinha,14.3
+Engenheiro Caldas,São João do Oriente,7.15
+São João do Oriente,Sobrália,7.15
+Campos Altos,Santa Juliana,50.77
+Cataguases,Maripá de Minas,22.65
+Manhuaçu,Ouro Preto,65.6
+Bias Fortes,Juiz de Fora,25.05
+Santa Margarida,Urucânia,26.25
+Aimorés,Galiléia,23.15
+Araçuaí,Salinas,35.8
+Japonvar,Varzelândia,17.9
+Monte Sião,Pouso Alegre,28.65
+Conselheiro Pena,Ipatinga,44.17
+Lambari,Varginha,26.27
+Bertópolis,Teófilo Otoni,51.35
+Alvinópolis,Rio Piracicaba,10.75
+Guaraciaba,Ponte Nova,10.75
+Juiz de Fora,Santa Bárbara do Monte Verde,21.5
+Pirapetinga,Recreio,10.75
+Piraúba,Santa Bárbara do Tugúrio,21.5
+João Monlevade,Perdões,76.46
+Conselheiro Lafaiete,Piraúba,48.99
+Espera Feliz,João Monlevade,56.64
+Itabira,Novo Cruzeiro,137.45
+Catas Altas,Coronel Fabriciano,50.2
+Astolfo Dutra,Congonhas,63.35
+Pocrane,Rio Casca,65.75
+Frutal,Ituiutaba,43.05
+Guaxupé,Monte Belo,14.35
+Campos Gerais,Guaxupé,45.45
+São Gonçalo do Rio Preto,Presidente Juscelino,45.45
+Santa Maria de Itabira,Virgolândia,78.95
+Alterosa,Passos,35.9
+Itabirito,Rio Casca,50.26
+Muriaé,Palma,17.95
+Bicas,Leopoldina,19.15
+Itabirito,Martins Soares,79.0
+Gouveia,Inimutaba,26.35
+Alpercata,Manhuaçu,53.9
+Brazópolis,Paraisópolis,7.19
+Conselheiro Lafaiete,Ervália,52.75
+Novo Cruzeiro,São Pedro do Suaçuí,71.95
+Araguari,Uberlândia,9.6
+Bocaiúva,São José do Jacuri,88.8
+Centralina,Monte Alegre de Minas,12.0
+Felisburgo,Joaíma,12.0
+Inhaúma,Sete Lagoas,4.8
+Laranjal,Manhumirim,50.4
+Belo Horizonte,Inhaúma,28.8
+Brás Pires,Senador Firmino,7.2
+Cabo Verde,Muzambinho,8.4
+Conselheiro Lafaiete,Itabirito,21.6
+Coronel Murta,Salinas,21.6
+Crucilândia,Itatiaiuçu,16.8
+Divinolândia de Minas,Timóteo,43.2
+Guarani,Piraúba,3.6
+Inconfidentes,Monte Sião,14.4
+Manhuaçu,Simonésia,10.8
+Nepomuceno,Varginha,27.6
+Olímpio Noronha,Três Corações,21.6
+Papagaios,Pequi,8.4
+Alvorada de Minas,Belo Horizonte,72.05
+Guanhães,Malacacheta,64.85
+Muzambinho,Santana da Vargem,50.45
+Manhumirim,Ouro Preto,75.7
+Manhuaçu,Mariana,61.29
+Malacacheta,São João Evangelista,50.5
+Ponte Nova,Santana do Manhuaçu,49.3
+Galiléia,Ipatinga,38.5
+Governador Valadares,Marilac,18.05
+Janaúba,Montezuma,65.0
+Catuji,Ponto dos Volantes,14.45
+Lajinha,Mutum,14.45
+Água Boa,Guanhães,43.35
+Espinosa,Perdões,202.33
+Maravilhas,Matozinhos,27.7
+Guaxupé,Nepomuceno,67.45
+Bonfinópolis de Minas,Riachinho,13.25
+Divisa Nova,Poços de Caldas,26.5
+Divino,Manhuaçu,21.69
+Bom Jardim de Minas,Elói Mendes,77.15
+Boa Esperança,Campos Gerais,10.85
+Catas Altas da Noruega,Senador Firmino,21.7
+Bandeira do Sul,Varginha,42.2
+Ouro Preto,São João del Rei,41.0
+Carmo de Minas,Jesuânia,9.65
+Montes Claros,São João Evangelista,121.85
+Belo Horizonte,Santo Antônio do Rio Abaixo,59.6
+São João Evangelista,Senhora do Porto,18.1
+José Raydan,São Pedro do Suaçuí,8.45
+Juiz de Fora,São João Nepomuceno,22.95
+Belo Horizonte,Berilo,165.5
+Alfenas,Passos,50.74
+Bocaiúva,Carbonita,50.75
+Brás Pires,Catas Altas da Noruega,14.5
+Brás Pires,Ubá,14.5
+Guapé,Santana da Vargem,29.0
+Itabira,Sabinópolis,50.75
+Japonvar,São João da Ponte,7.25
+Mercês,Ubá,21.75
+Santo Antônio do Itambé,Serra Azul de Minas,7.25
+Timóteo,Ubaporanga,27.8
+Governador Valadares,Jacinto,110.0
+Abre Campo,Fervedouro,33.85
+Itabira,Setubinha,123.35
+Frei Inocêncio,Nanuque,58.05
+Gonzaga,Itabira,62.9
+Matozinhos,Papagaios,31.45
+Pedrinópolis,Perdões,130.67
+Abadia dos Dourados,Estrela do Sul,12.1
+Andrelândia,Bom Jardim de Minas,12.1
+Divinolândia de Minas,Gonzaga,6.05
+Itabira,Nova Era,12.1
+Bocaiúva,Coronel Fabriciano,167.0
+Paineiras,Três Marias,41.15
+Bom Despacho,Leandro Ferreira,16.95
+Confins,Sete Lagoas,10.9
+Curvelo,Monjolos,26.65
+Gonzaga,Sabinópolis,26.65
+Gonzaga,Santa Maria de Itabira,53.3
+Guarará,Juiz de Fora,15.75
+Divinópolis,Iguatama,36.35
+Divinolândia de Minas,Sabinópolis,20.6
+Coroaci,Santa Maria de Itabira,71.5
+Divinolândia de Minas,Olhos-d'Água,116.35
+Bela Vista de Minas,Ipaba,35.15
+Rio Pomba,Teixeiras,35.15
+Nova Serrana,São João del Rei,80.0
+Dores do Indaiá,Perdigão,40.01
+Belmiro Braga,Matias Barbosa,9.7
+Entre Rios de Minas,São Brás do Suaçuí,4.85
+Congonhal,Santa Rita de Caldas,14.55
+Ponte Nova,Santo Antônio do Grama,14.55
+Sabinópolis,Santa Efigênia de Minas,29.1
+Bandeira do Sul,Elói Mendes,36.4
+Bom Jardim de Minas,São Vicente de Minas,18.2
+Coroaci,Gonzaga,18.2
+Brasilândia de Minas,Presidente Olegário,49.75
+Alfenas,Boa Esperança,21.85
+Guanhães,Santa Efigênia de Minas,21.85
+Galiléia,Periquito,29.15
+Santa Vitória,Uberlândia,58.3
+Elói Mendes,Passos,65.59
+Arapuá,Luz,32.8
+Muriaé,Rio Pomba,48.6
+Bicas,Cataguases,27.95
+Ipanema,Itabirito,103.3
+Campos Altos,Formiga,47.4
+Carlos Chagas,Frei Inocêncio,47.4
+Itambacuri,Novo Oriente de Minas,31.6
+Itamarandiba,Timóteo,102.1
+Tabuleiro,Visconde do Rio Branco,23.1
+Guaxupé,São Sebastião do Paraíso,26.75
+Papagaios,Prudente de Morais,26.75
+Belo Horizonte,Fortuna de Minas,34.05
+Coronel Fabriciano,Rio Pomba,109.45
+Belo Horizonte,Santa Margarida,87.6
+Catuji,Teófilo Otoni,14.6
+Jesuânia,Varginha,29.2
+Juiz de Fora,Rio Preto,29.2
+Japonvar,Montalvânia,73.0
+Conselheiro Lafaiete,Guarani,52.33
+Franciscópolis,Guanhães,70.6
+Descoberto,Tocantins,17.05
+Senhora do Porto,Virginópolis,17.05
+Abadia dos Dourados,Uberlândia,29.23
+Boa Esperança,Muzambinho,47.5
+Cristiano Otoni,Ouro Branco,13.4
+Lajinha,Manhuaçu,25.59
+Janaúba,Perdões,171.84
+Guanhães,Timóteo,51.2
+Paraguaçu,Passos,58.54
+Belo Horizonte,Brás Pires,58.55
+Piraúba,Rio Pomba,6.1
+Água Boa,Setubinha,36.6
+Araçuaí,Leme do Prado,36.6
+Abaeté,Moema,36.62
+Belo Horizonte,Santa Bárbara,35.4
+Ipatinga,São José do Goiabal,35.4
+Francisco Sá,Montes Claros,14.65
+Sabinópolis,Senhora do Porto,14.65
+Carlos Chagas,Governador Valadares,52.5
+Maravilhas,Prudente de Morais,23.2
+Divinolândia de Minas,Montes Claros,146.55
+Alfenas,Monte Belo,17.1
+Caetanópolis,Matozinhos,17.1
+Ouro Fino,Pouso Alegre,17.1
+Rio Casca,Santa Margarida,19.55
+Belo Horizonte,Braúnas,88.0
+Centralina,Frutal,44.0
+Curral de Dentro,Montes Claros,66.0
+Itabirito,Manhuaçu,77.0
+São João del Rei,Três Marias,110.0
+Biquinhas,Três Marias,35.45
+Carmo de Minas,Maria da Fé,13.45
+Araguari,Guimarânia,58.7
+Carbonita,Coluna,29.35
+Belo Horizonte,Prudente de Morais,15.9
+Areado,Nepomuceno,44.05
+Bom Despacho,Quartel Geral,34.27
+Campos Gerais,Muzambinho,37.95
+Cambuquira,Carmo de Minas,22.05
+Conceição do Mato Dentro,Guanhães,29.4
+Desterro de Entre Rios,Entre Rios de Minas,12.25
+Guaxupé,Itaú de Minas,36.75
+Inhapim,Santa Rita de Minas,12.25
+Paraguaçu,Três Corações,24.5
+Itaobim,Ponto dos Volantes,4.9
+Belo Horizonte,Monte Azul,148.29
+Ipatinga,Santa Rita de Minas,30.65
+Muzambinho,Santo Antônio do Amparo,73.6
+Alfenas,Santo Antônio do Amparo,50.3
+Campestre,Elói Mendes,31.9
+Juiz de Fora,Alto Jequitibá,88.35
+Bicas,Recreio,29.45
+Bandeira do Sul,Cabo Verde,13.5
+Cachoeira da Prata,Papagaios,13.5
+Coimbra,Juiz de Fora,46.65
+Almenara,Engenheiro Caldas,126.45
+Lagoa Formosa,Rio Paranaíba,22.1
+Aiuruoca,Lima Duarte,34.4
+Belo Horizonte,Desterro de Entre Rios,49.15
+Catas Altas,Timóteo,49.15
+Santa Efigênia de Minas,Senhora do Porto,31.95
+Itabira,Ouro Preto,55.3
+Boa Esperança,Três Pontas,12.29
+Abaeté,Luz,27.04
+Mateus Leme,Pedra do Indaiá,29.5
+Romaria,Uberaba,44.25
+Boa Esperança,Carmo do Rio Claro,27.05
+Fervedouro,Laranjal,27.05
+Alvorada de Minas,Presidente Kubitschek,18.45
+Ervália,Viçosa,12.3
+Iapu,Tarumirim,12.3
+Lambari,Olímpio Noronha,6.15
+Inhapim,Manhuaçu,34.45
+Cataguases,Guarará,25.85
+Curral de Dentro,Medina,35.7
+Arcos,Pains,9.85
+Conselheiro Pena,Cuparaque,19.7
+Monte Belo,Santo Antônio do Amparo,66.5
+Ipatinga,Viçosa,83.75
+Caetanópolis,Prudente de Morais,13.55
+Caratinga,Dom Cavati,13.55
+Papagaios,São José da Varginha,13.55
+Rio Pomba,Timóteo,108.4
+Fernandes Tourinho,Iapu,17.25
+Muriaé,Porto Firme,34.5
+Ipatinga,Manhuaçu,52.99
+Monte Belo,Santana da Vargem,43.15
+Bertópolis,Campanário,65.35
+Guanhães,Senhora do Porto,7.4
+Indaiabira,São João do Paraíso,14.8
+Malacacheta,Minas Novas,59.2
+Divinolândia de Minas,Itabira,56.75
+Guanhães,Montes Claros,133.25
+Borda da Mata,Monte Sião,19.75
+Dom Silvério,São Domingos do Prata,16.05
+Bocaiúva,Divinolândia de Minas,130.9
+Curvelo,Datas,24.7
+Dom Cavati,São João do Manhuaçu,38.3
+Bambuí,Perdões,48.2
+Carlos Chagas,Teófilo Otoni,22.25
+Coimbra,Itaverava,40.8
+Diamantina,Senador Modestino Gonçalves,27.2
+Santa Maria de Itabira,Setubinha,113.75
+Iapu,Manhuaçu,42.05
+Itabira,Mariana,47.0
+Estrela do Sul,Patos de Minas,51.95
+Araxá,Carmo do Paranaíba,64.35
+Arcos,Japaraíba,9.9
+Astolfo Dutra,Leopoldina,14.85
+Iapu,Sobrália,14.85
+Manhuaçu,Timóteo,59.4
+Bom Jardim de Minas,Paraguaçu,84.15
+Conselheiro Lafaiete,Viçosa,40.85
+Itabira,Itabirito,66.85
+Presidente Juscelino,Serro,37.15
+Bom Despacho,Luz,16.1
+Olhos-d'Água,São João Evangelista,91.65
+Olhos-d'Água,Virginópolis,112.75
+Formiga,Oliveira,34.7
+Iapu,Timóteo,17.35
+São Gonçalo do Rio Preto,Gouveia,29.75
+Pocrane,Simonésia,29.75
+Pompéu,Sete Lagoas,29.75
+Espera Feliz,Laranjal,42.15
+Juiz de Fora,Visconde do Rio Branco,42.15
+Cambuquira,Jesuânia,12.4
+Cláudio,Divinópolis,12.4
+Dom Cavati,Santa Rita de Minas,18.6
+Iapu,Santa Rita de Minas,19.85
+Divinolândia de Minas,Santa Maria de Itabira,47.15
+Coimbra,Itabirito,54.6
+Ipatinga,Santa Bárbara do Leste,34.75
+Coronel Fabriciano,São Domingos do Prata,21.1
+Guaxupé,Santo Antônio do Amparo,84.4
+Lontra,Montalvânia,72.0
+Guanhães,Olhos-d'Água,103.05
+Capelinha,Presidente Juscelino,96.85
+Jequitinhonha,Teófilo Otoni,52.15
+Coronel Pacheco,Mercês,22.35
+Diamantina,Itamarandiba,44.7
+Minas Novas,Veredinha,14.9
+Boa Esperança,Guaxupé,54.65
+Alpercata,Ubaporanga,24.85
+Belo Horizonte,Três Pontas,99.4
+Governador Valadares,Santa Maria do Suaçuí,58.4
+Catas Altas da Noruega,Coimbra,34.8
+Lagoa Dourada,Prados,8.7
+São João del Rei,São Vicente de Minas,17.4
+Montes Claros,São José do Jacuri,104.4
+Coronel Fabriciano,Santa Rita de Minas,36.05
+Ouro Preto,Ressaquinha,36.05
+Cachoeira Dourada,Ituiutaba,19.9
+Curvelo,Três Marias,32.35
+Abre Campo,Itabirito,44.8
+Alvorada de Minas,Santo Antônio do Itambé,22.4
+Areado,Santo Antônio do Amparo,61.0
+Conselheiro Pena,Naque,34.87
+Malacacheta,Senhora do Porto,72.25
+Cláudio,Oliveira,14.95
+Belo Horizonte,Chapada do Norte,157.0
+Rio Casca,Timóteo,39.9
+Franciscópolis,São João Evangelista,62.35
+Ipatinga,Ubá,104.75
+Buenópolis,São Francisco,79.82
+Santana de Pirapama,Sete Lagoas,22.45
+Ipatinga,São João do Manteninha,72.35
+Conceição de Ipanema,Manhuaçu,14.97
+Coronel Pacheco,Ubá,24.95
+Araçuaí,Rubelita,25.7
+Barbacena,Congonhas,27.45
+Belo Horizonte,Pocrane,137.25
+Ponto dos Volantes,Teófilo Otoni,29.2
+Muzambinho,Nepomuceno,59.9
+Juiz de Fora,Recreio,42.45
+Araguari,Patos de Minas,72.45
+São José do Jacuri,Timóteo,79.95
+Almenara,Jequitinhonha,10.0
+Arinos,Pintópolis,30.0
+Bocaiúva,Francisco Dumont,15.0
+Bocaiúva,Montes Claros,10.0
+Campestre,Poços de Caldas,15.0
+Campos Altos,Rio Paranaíba,25.0
+Capelinha,Malacacheta,37.5
+Capitão Enéas,Janaúba,20.0
+Catas Altas da Noruega,Conselheiro Lafaiete,12.5
+Catuji,Padre Paraíso,6.25
+Catuti,Monte Azul,15.0
+Central de Minas,Divino das Laranjeiras,7.5
+Contagem,Itinga,120.0
+Coração de Jesus,São João da Lagoa,5.0
+Divinópolis,Leandro Ferreira,22.5
+Divisa Alegre,Salinas,30.0
+Dom Silvério,João Monlevade,22.5
+Governador Valadares,Itaobim,60.0
+Indianópolis,Uberlândia,15.0
+Itabirinha,Nova Belém,7.5
+Itacarambi,Januária,15.0
+Itamarandiba,Turmalina,37.5
+Itapagipe,Planura,26.25
+Japonvar,Manga,55.0
+Jequitinhonha,Rubim,20.0
+Juiz de Fora,Santos Dumont,10.0
+Manga,Montalvânia,15.0
+Miradouro,Muriaé,7.5
+Montalvânia,São João das Missões,25.0
+Pedra Azul,Teófilo Otoni,50.0
+Prata,Uberlândia,15.0
+Rio Casca,Viçosa,30.0
+Sabinópolis,Serro,15.0
+São Francisco,Urucuia,30.0
+Uberaba,Veríssimo,15.0
+Arapuá,Nova Serrana,48.8
+Itambacuri,Pavão,41.3
+Santa Bárbara do Leste,Timóteo,41.3
+Governador Valadares,Virginópolis,37.55
+Franciscópolis,Santa Maria de Itabira,107.65
+Bocaiúva,Capitão Enéas,30.05
+Itabira,Materlândia,60.1
+Manhuaçu,Ubaporanga,30.05
+Durandé,São João do Manhuaçu,26.3
+Montes Claros,Virginópolis,142.9
+Coluna,Montes Claros,96.55
+Formiga,Pimenta,12.54
+Bom Sucesso,Ritápolis,30.1
+Caxambu,Varginha,30.1
+Crisólita,Machacalis,15.05
+Santa Maria de Itabira,Sardoá,60.2
+Santa Rosa da Serra,São Gotardo,15.05
+Campanário,Crisólita,42.65
+Novo Cruzeiro,Santa Maria de Itabira,127.95
+Coronel Fabriciano,Santa Bárbara do Leste,40.15
+Barbacena,Santa Rita de Ibitipoca,22.6
+Itutinga,Lavras,11.3
+Juiz de Fora,São Vicente de Minas,52.75
+Juiz de Fora,Porto Firme,62.8
+Ibiá,Perdões,93.0
+Fervedouro,Ipatinga,60.35
+Crisólita,Itambacuri,50.3
+Durandé,Orizânia,31.45
+Abaeté,Três Marias,52.85
+Conceição das Pedras,Natércia,7.55
+Itumirim,Itutinga,7.55
+Rio Pomba,Tocantins,7.55
+Almenara,Itambacuri,75.54
+João Monlevade,Ouro Preto,47.85
+Barbacena,Capela Nova,20.15
+Conselheiro Lafaiete,Ouro Preto,20.15
+Datas,Presidente Juscelino,20.15
+Espinosa,Frutal,282.14
+Itueta,Naque,45.35
+Bocaiúva,Virginópolis,127.25
+Alfenas,Conceição da Aparecida,22.68
+Comendador Gomes,Frutal,12.6
+Congonhas,Cristiano Otoni,12.6
+Engenheiro Caldas,Iapu,12.6
+Teófilo Otoni,Três Corações,151.23
+Coronel Fabriciano,Viçosa,79.4
+Bom Sucesso,Oliveira,17.65
+Campos Altos,Perdizes,49.17
+Barbacena,São João Nepomuceno,47.91
+Dom Cavati,Santa Bárbara do Leste,22.7
+Abadia dos Dourados,Indianópolis,28.0
+Coromandel,Indianópolis,28.0
+Araxá,Janaúba,181.65
+Belo Oriente,Coluna,65.6
+Inhapim,Santa Bárbara do Leste,16.4
+Divinópolis,Perdões,42.9
+Montezuma,Porteirinha,53.0
+Gouveia,Itamarandiba,56.8
+Antônio Dias,Timóteo,10.1
+Candeias,Formiga,15.15
+Catas Altas,Santa Bárbara,5.05
+Catas Altas da Noruega,Itaverava,5.05
+Dores de Campos,Juiz de Fora,40.4
+Onça de Pitangui,Pitangui,5.05
+Santana do Jacaré,Santo Antônio do Amparo,10.1
+Crucilândia,São Joaquim de Bicas,24.0
+Iapu,Santa Bárbara do Leste,24.0
+Lontra,São João das Missões,48.0
+Catuji,Itaobim,18.95
+Minas Novas,Senador Modestino Gonçalves,56.85
+Bom Jardim de Minas,Três Corações,60.65
+Coluna,São Pedro do Suaçuí,13.9
+Contagem,Divinópolis,37.91
+Bocaiúva,São João Evangelista,106.15
+Patos de Minas,Presidente Olegário,10.11
+Guaxupé,Itamogi,22.75
+Catas Altas da Noruega,Senhora de Oliveira,8.85
+Capitão Enéas,Monte Azul,43.0
+Rio Doce,São Domingos do Prata,21.5
+Inconfidentes,Piranguinho,34.15
+Carmo de Minas,Pouso Alegre,37.95
+Engenheiro Caldas,Manhuaçu,45.54
+Espinosa,Patrocínio,199.91
+Juiz de Fora,Prados,45.55
+Machacalis,Pavão,20.25
+Jequitaí,Uberaba,151.9
+Juiz de Fora,Rio Casca,83.55
+Minas Novas,Teófilo Otoni,87.35
+Ipuiúna,Pouso Alegre,15.2
+Juatuba,Leandro Ferreira,30.4
+Santa Efigênia de Minas,Sardoá,3.8
+Itaverava,Porto Firme,22.8
+São João do Manteninha,Timóteo,81.1
+Coronel Fabriciano,Fervedouro,65.9
+Ipanema,Rio Casca,54.5
+Dom Joaquim,Guanhães,17.75
+Carandaí,Ouro Preto,31.7
+Morada Nova de Minas,Pompéu,45.65
+Santa Efigênia de Minas,Santa Maria de Itabira,55.8
+Governador Valadares,Sabinópolis,54.55
+Águas Formosas,Teófilo Otoni,30.45
+Itaguara,Itatiaiuçu,10.15
+São João Evangelista,Virginópolis,20.3
+Carbonita,Timóteo,118.0
+Fronteira,Uberlândia,60.91
+Raul Soares,Ubá,36.8
+Ipatinga,Itambacuri,63.45
+Alpinópolis,Monte Belo,33.0
+Montalvânia,Pedras de Maria da Cruz,66.0
+Ipatinga,Juiz de Fora,137.1
+Diamantina,Presidente Kubitschek,19.05
+Guarani,Rio Novo,6.35
+Minas Novas,São Pedro do Suaçuí,59.7
+Betim,Igaratinga,21.6
+Governador Valadares,Ubaporanga,30.5
+Papagaios,Sete Lagoas,24.15
+Muriaé,Piraúba,41.95
+Conceição da Aparecida,Passos,30.52
+Minas Novas,Poté,72.5
+Alfenas,Bom Jardim de Minas,91.58
+Pouso Alegre,Santa Rita do Sapucaí,6.36
+Conceição do Mato Dentro,Senhora do Porto,22.9
+Itabirito,Urucânia,45.85
+Corinto,São Francisco,99.4
+Arapuá,Belo Horizonte,81.6
+Arcos,Formiga,10.2
+Barbacena,Ouro Branco,28.05
+Brás Pires,Divinésia,12.75
+Campanário,Poté,30.6
+Cantagalo,São João Evangelista,5.1
+Capinópolis,Ipiaçu,12.75
+Coimbra,Teixeiras,10.2
+Fernandes Tourinho,Ipatinga,28.05
+Franciscópolis,Itabira,117.3
+Gouveia,Presidente Juscelino,12.75
+Itajubá,São José do Alegre,7.65
+Leandro Ferreira,Nova Serrana,7.65
+Mercês,Tabuleiro,12.75
+Orizânia,São João do Manhuaçu,5.1
+Rio Casca,Rio Pomba,61.2
+Santa Rita de Minas,Timóteo,38.25
+São Miguel do Anta,Viçosa,7.65
+Dores de Campos,Santos Dumont,26.8
+Muriaé,Orizânia,26.8
+Ibituruna,São João del Rei,21.7
+Juiz de Fora,Ponte Nova,68.95
+Coluna,Olhos-d'Água,66.4
+Caratinga,Manhuaçu,25.54
+São Francisco,Sete Lagoas,140.47
+Campanha,São Lourenço,25.55
+Cataguases,Leopoldina,5.11
+Campos Altos,Pedrinópolis,56.22
+Divinolândia de Minas,Governador Valadares,34.5
+Boa Esperança,Monte Belo,40.9
+Luz,Quartel Geral,20.45
+Maravilhas,Sete Lagoas,20.45
+Carmo de Minas,Santa Rita do Sapucaí,29.4
+Bom Jardim de Minas,Cambuquira,53.7
+Belo Horizonte,São Sebastião do Rio Preto,58.05
+Barbacena,Senhora dos Remédios,15.35
+Carmésia,Ferros,15.35
+Ouro Preto,Ubá,58.85
+Alpinópolis,Três Pontas,49.9
+Carmo de Minas,Três Corações,28.15
+Itambacuri,Padre Paraíso,40.95
+Astolfo Dutra,Mercês,19.2
+Campos Gerais,Perdões,25.6
+Mercês,Piraúba,12.8
+Abre Campo,Ipanema,46.1
+Dom Cavati,Timóteo,23.05
+Ipatinga,Tarumirim,23.05
+Monte Carmelo,Nova Ponte,23.05
+Ponte Nova,Rio Pomba,46.1
+Pocrane,Ponte Nova,79.4
+Porto Firme,Tocantins,33.3
+Pouso Alegre,São Lourenço,43.55
+Antônio Dias,João Monlevade,20.5
+Arapuá,Carmo do Paranaíba,10.25
+Caratinga,João Monlevade,61.5
+Itaú de Minas,Monte Santo de Minas,20.5
+Ponte Nova,Ubá,34.6
+Bertópolis,Itambacuri,73.05
+Seritinga,Três Corações,48.7
+Carandaí,São João del Rei,28.2
+Igarapé,Itapecerica,42.3
+Poços de Caldas,Serrania,28.2
+Bom Despacho,São Sebastião do Paraíso,82.05
+Lima Duarte,Paraguaçu,98.75
+Araporã,Uberlândia,25.65
+Carmésia,Itabira,33.35
+Buenópolis,Luislândia,74.4
+Borda da Mata,Jacutinga,17.96
+Divinópolis,Ibituruna,44.9
+Água Boa,Poté,34.65
+Campanário,Machacalis,57.75
+Carbonita,Presidente Juscelino,57.75
+Divino,Fervedouro,7.7
+Entre Rios de Minas,Resende Costa,15.4
+Luz,Monte Alegre de Minas,84.7
+Bela Vista de Minas,São Gonçalo do Rio Abaixo,11.55
+Campanha,Varginha,11.55
+Tabuleiro,Viçosa,35.95
+Coroaci,Itabira,77.05
+Liberdade,Olaria,20.55
+Campos Altos,Carmo do Paranaíba,33.4
+Alfredo Vasconcelos,Senhora dos Remédios,12.85
+Juiz de Fora,Seritinga,47.55
+Lavras,Oliveira,30.85
+Itabira,José Raydan,70.7
+Coimbra,Ouro Preto,45.0
+Montes Claros,São João do Paraíso,90.0
+Cambuquira,Seritinga,41.15
+Alfenas,Botelhos,23.15
+Córrego Danta,Medeiros,23.15
+Divinópolis,Ribeirão Vermelho,46.3
+Porto Firme,Visconde do Rio Branco,23.15
+Santa Bárbara do Tugúrio,Tocantins,23.15
+Manhumirim,Rio Casca,37.3
+Campanário,Padre Paraíso,47.6
+Coronel Fabriciano,Fernandes Tourinho,33.45
+Capelinha,Sete Lagoas,138.95
+Alfenas,Perdões,46.32
+Pouso Alegre,Silvianópolis,11.58
+Sardoá,Virgolândia,19.3
+Itapecerica,São Joaquim de Bicas,43.75
+Bela Vista de Minas,Caratinga,54.05
+Divisa Alegre,Medina,12.87
+Bela Vista de Minas,Ipatinga,30.9
+Carvalhos,Juiz de Fora,46.35
+Dores de Campos,Prados,5.15
+São Pedro do Suaçuí,Virginópolis,30.91
+Rio Pomba,Viçosa,32.2
+Mariana,Visconde do Rio Branco,48.95
+Itabirito,Viçosa,51.55
+Juiz de Fora,Muriaé,46.4
+Juiz de Fora,Paraguaçu,117.3
+Augusto de Lima,São Francisco,87.67
+Capelinha,Paraopeba,126.35
+Guarará,Leopoldina,18.05
+Piumhi,Vargem Bonita,18.05
+Mariana,Ubá,55.45
+Bom Sucesso,Santo Antônio do Amparo,6.45
+Conselheiro Pena,Resplendor,12.9
+Inhapim,São João do Manhuaçu,32.25
+Cachoeira da Prata,Pará de Minas,27.1
+Divinolândia de Minas,Senhora do Porto,20.65
+Açucena,Coluna,58.1
+Juiz de Fora,Timóteo,131.7
+Ipatinga,Salto da Divisa,193.7
+Campos Gerais,Monte Belo,31.0
+Careaçu,Heliodora,7.75
+Carmo de Minas,Olímpio Noronha,7.75
+Congonhas,São Brás do Suaçuí,7.75
+Formiga,Pedra do Indaiá,15.5
+Itajubá,Pouso Alegre,15.5
+Lajinha,Reduto,23.25
+Matutina,São Gotardo,7.75
+Ponte Nova,São Pedro dos Ferros,15.5
+Rio Preto,Santa Bárbara do Monte Verde,7.75
+São Domingos do Prata,São José do Goiabal,15.5
+Águas Formosas,Itambacuri,56.85
+Alfenas,Muzambinho,24.55
+Formiga,Tapiraí,33.6
+Monte Belo,Nepomuceno,53.0
+Araguari,Iraí de Minas,37.5
+Coimbra,Ponte Nova,19.4
+Almenara,Inhapim,139.7
+Moema,São Sebastião do Paraíso,77.62
+Governador Valadares,Manhuaçu,62.1
+Oliveira,Perdões,20.7
+Porteirinha,Riacho dos Machados,10.35
+Boa Esperança,Varginha,22.0
+Campos Gerais,Nepomuceno,22.0
+São Gonçalo do Rio Preto,Minas Novas,66.0
+Frutal,Monte Azul,282.14
+Carmo do Rio Claro,Três Pontas,46.6
+Almenara,Dom Cavati,133.35
+Águas Formosas,Campanário,49.2
+Coimbra,Piranga,25.9
+Reduto,Rio Casca,25.9
+Campos Altos,Cana Verde,68.65
+Andrelândia,Juiz de Fora,46.65
+Fervedouro,Leopoldina,31.1
+Jaíba,Janaúba,15.55
+Mariana,Urucânia,31.1
+Acaiaca,Ponte Nova,12.96
+Betim,Rio Manso,16.85
+Moema,Pitangui,33.7
+Araxá,Divinópolis,62.22
+Betim,Bonfim,20.75
+Itaúna,Pedra do Indaiá,23.35
+Juiz de Fora,Mar de Espanha,23.35
+Além Paraíba,Pirapetinga,10.38
+Jequitinhonha,Salto da Divisa,51.9
+Betim,Onça de Pitangui,25.96
+Campos Gerais,Santo Antônio do Amparo,38.95
+Barbacena,São Vicente de Minas,41.55
+Ouro Preto,São Geraldo,49.35
+Belo Horizonte,Rio Doce,66.25
+Francisco Sá,Teófilo Otoni,152.0
+Belo Horizonte,Ipanema,127.35
+Água Boa,Capelinha,13.0
+Antônio Prado de Minas,Eugenópolis,5.2
+Barbacena,Cristiano Otoni,11.7
+Caiana,Espera Feliz,2.6
+Cana Verde,Perdões,5.2
+Carmo da Mata,Oliveira,6.5
+Coroaci,Governador Valadares,20.8
+Diamantina,Gouveia,11.7
+Guanhães,Sabinópolis,7.8
+Itaobim,Padre Paraíso,13.0
+Lima Duarte,Olaria,5.2
+Malacacheta,Turmalina,54.6
+Miraí,Visconde do Rio Branco,14.3
+Belo Horizonte,Prados,58.55
+Campo Belo,Perdizes,109.32
+Ibiá,Lavras,101.52
+Lambari,Três Corações,15.62
+Planura,São Francisco de Sales,39.05
+Campos Gerais,Lavras,32.55
+Carbonita,Couto de Magalhães de Minas,28.65
+Itabira,Santa Maria do Suaçuí,78.15
+Capelinha,Poté,50.8
+Bambuí,Campo Belo,46.9
+Barão de Cocais,Rio Piracicaba,23.45
+Jacinto,Salto da Divisa,20.85
+Alpercata,Itambacuri,39.1
+Barbacena,São João del Rei,19.55
+Patos de Minas,Salinas,156.42
+Sabinópolis,Virginópolis,16.95
+Carmópolis de Minas,Desterro de Entre Rios,15.65
+Belo Horizonte,Passabém,55.3
+Belo Horizonte,Senador Modestino Gonçalves,122.62
+Bocaiúva,Coluna,80.9
+Almenara,Caratinga,148.8
+Alpercata,Santa Bárbara do Leste,36.55
+Divino,São João do Manhuaçu,11.75
+João Pinheiro,Mirabela,94.0
+Tabuleiro,Tocantins,11.75
+Iapu,João Monlevade,44.4
+Dores de Guanhães,Joanésia,20.9
+Fervedouro,Alto Jequitibá,20.9
+Miraí,Muriaé,10.45
+Barroso,Juiz de Fora,31.35
+Conceição do Pará,Moema,28.75
+Divinópolis,Pompéu,52.3
+Ouro Preto,Visconde do Rio Branco,52.3
+Itambacuri,Machacalis,65.4
+São Pedro do Suaçuí,Timóteo,73.25
+Abre Campo,Ouro Preto,47.1
+Areado,Muzambinho,15.7
+Barbacena,Carandaí,7.85
+Ibiá,Santa Juliana,47.1
+Coronel Fabriciano,Sobrália,30.1
+Brasilândia de Minas,Urucuia,43.2
+São Lourenço,Três Corações,35.35
+Alpercata,Inhapim,20.95
+Campanário,Caratinga,62.85
+Periquito,Timóteo,23.05
+Aimorés,Manhuaçu,47.15
+Alterosa,Muzambinho,19.65
+Inhapim,João Monlevade,52.4
+Juiz de Fora,Teixeiras,57.65
+Elói Mendes,Lima Duarte,91.75
+Ituiutaba,Iturama,55.05
+Abre Campo,Reduto,18.35
+Elói Mendes,Machado,17.05
+Arcos,Perdões,39.35
+Belo Horizonte,Jequitibá,32.8
+Cambuquira,Campanha,5.25
+Carbonita,Inimutaba,68.25
+Coimbra,Porto Firme,15.75
+Coroaci,Santa Efigênia de Minas,15.75
+Guarani,São João Nepomuceno,10.5
+Itaobim,Naque,105.0
+Itutinga,Nazareno,5.25
+Medina,Pedra Azul,10.5
+Monte Santo de Minas,São Sebastião do Paraíso,10.5
+Muriaé,Patrocínio do Muriaé,5.25
+Nova Era,São Domingos do Prata,5.25
+Piedade de Ponte Nova,Ponte Nova,10.5
+Riachinho,Unaí,42.0
+Bertópolis,Frei Inocêncio,93.2
+Inhapim,Timóteo,24.95
+Paraguaçu,Poços de Caldas,34.15
+Curral de Dentro,Itaobim,48.6
+Coimbra,Conselheiro Lafaiete,47.3
+Naque,Novo Oriente de Minas,78.85
+Cássia,Piumhi,36.8
+Dom Cavati,Ubaporanga,9.2
+Luminárias,São Bento Abade,9.2
+Mariana,São Geraldo,46.0
+Mariana,Viçosa,36.8
+Presidente Juscelino,Veredinha,110.4
+Sete Lagoas,Três Marias,55.2
+Belo Horizonte,Cláudio,31.55
+Juiz de Fora,Santana do Deserto,31.55
+Congonhas,Juiz de Fora,53.9
+Pouso Alegre,Santa Rita de Caldas,22.35
+Botelhos,Cabo Verde,7.89
+Água Boa,Itabira,86.8
+Espera Feliz,Juiz de Fora,86.8
+Monte Azul,Patrocínio,199.91
+Alfenas,Elói Mendes,17.1
+Brasília de Minas,Buenópolis,68.4
+Coroaci,Peçanha,17.1
+Itamarandiba,Presidente Juscelino,72.35
+João Monlevade,Ubaporanga,55.25
+Itamarandiba,São José do Jacuri,21.05
+Catas Altas,Nova Era,32.9
+Araxá,Salinas,181.65
+Caldas,Poços de Caldas,11.85
+Campos Gerais,Carmópolis de Minas,55.3
+Braúnas,Joanésia,7.9
+Congonhal,Ipuiúna,7.9
+Divinolândia de Minas,Virgolândia,31.6
+Boa Esperança,Santo Antônio do Amparo,28.97
+Alfenas,Lavras,46.1
+Divino,Martins Soares,34.25
+São Geraldo,Ubá,10.54
+Betim,Pequi,26.35
+Alfenas,Andradas,55.35
+Campanário,Dom Cavati,47.45
+Almenara,Felisburgo,29.0
+Itabira,Peçanha,63.3
+Belo Horizonte,Sete Lagoas,17.15
+Cambuquira,Olaria,60.7
+Uberlândia,Unaí,124.05
+Andrelândia,Minduri,13.2
+Juiz de Fora,Rochedo de Minas,19.8
+Luminárias,Três Corações,19.8
+Pedra Azul,Ponto dos Volantes,23.5
+Bom Jardim de Minas,Varginha,71.3
+Passos,Santana da Vargem,58.1
+Martins Soares,Ponte Nova,44.9
+Cantagalo,Itabira,60.75
+Itabira,Malacacheta,108.3
+Belo Horizonte,Franciscópolis,142.65
+Carmo do Paranaíba,Rio Paranaíba,15.85
+Itabirito,Mariana,15.85
+Carlos Chagas,Nanuque,10.57
+Ponte Nova,Visconde do Rio Branco,27.75
+Ressaquinha,São João del Rei,23.8
+Brasília de Minas,Sete Lagoas,126.95
+Ipatinga,Uberlândia,164.0
+Manhumirim,Ponte Nova,52.91
+Cristina,Pouso Alegre,34.4
+Belo Horizonte,Ritápolis,59.55
+Dores do Indaiá,Santa Rosa da Serra,39.7
+Belo Horizonte,Piranga,52.95
+Alterosa,Guaxupé,27.8
+Caratinga,Nova Era,60.9
+Belo Horizonte,Porto Firme,63.55
+Governador Valadares,Muriaé,76.8
+Botelhos,Muzambinho,15.89
+Almenara,Governador Valadares,100.65
+Capelinha,Peçanha,45.05
+Aiuruoca,Juiz de Fora,53.0
+Arcos,Lavras,47.7
+Barbacena,Desterro do Melo,10.6
+Belo Horizonte,Bonfim,29.15
+Congonhas,Desterro de Entre Rios,23.85
+Engenheiro Caldas,Inhapim,13.25
+Guiricema,Ubá,10.6
+Jesuânia,Três Corações,18.55
+Juiz de Fora,Mercês,31.8
+Monte Sião,Ouro Fino,10.6
+Presidente Kubitschek,Serro,10.6
+Malacacheta,Santa Maria de Itabira,98.15
+Paraopeba,São Francisco,127.35
+Capelinha,Itamarandiba,17.25
+Curvelo,Senador Modestino Gonçalves,69.0
+Belo Horizonte,Virgolândia,119.45
+Cordisburgo,Sete Lagoas,14.6
+Belo Horizonte,Entre Rios de Minas,38.5
+Machado,Varginha,23.9
+Timóteo,Viçosa,78.35
+Capelinha,Inimutaba,108.9
+Campos Altos,Perdões,77.05
+Perdizes,Perdões,123.57
+Itabira,Virginópolis,53.15
+Passos,Três Pontas,63.8
+Juiz de Fora,Nova Era,111.65
+Belo Horizonte,Nacip Raydan,122.3
+Minas Novas,Santa Maria do Suaçuí,45.2
+Nazareno,Oliveira,29.25
+Campo Belo,Uberlândia,146.3
+Ipuiúna,Santa Rita de Caldas,6.65
+Rio Novo,Rio Pomba,15.96
+Três Pontas,Varginha,10.64
+Itambacuri,Poté,23.95
+Lavras,Pouso Alegre,45.26
+Belo Horizonte,Matozinhos,10.65
+Mariana,Santa Bárbara,21.3
+Martinho Campos,Paineiras,21.3
+Belo Horizonte,Crucilândia,35.95
+Barão de Cocais,Mariana,25.3
+Bom Jardim de Minas,Minduri,25.3
+Sete Lagoas,Veredinha,151.8
+Belo Horizonte,Pitangui,39.95
+Itaguara,Itaúna,18.65
+Bertópolis,Naque,122.65
+Águas Formosas,Joaíma,16.0
+Cônego Marinho,Miravânia,20.0
+Felisburgo,Rio do Prado,8.0
+Governador Valadares,Santa Bárbara do Leste,44.0
+Guimarânia,Uberlândia,56.0
+Ingaí,Luminárias,8.0
+Jequitaí,São João da Lagoa,20.0
+Juiz de Fora,Liberdade,40.0
+Machacalis,Teófilo Otoni,40.0
+Mato Verde,Montezuma,40.0
+Nepomuceno,Três Pontas,16.0
+Novo Oriente de Minas,Pavão,8.0
+Prados,Santos Dumont,32.0
+Cabo Verde,Poços de Caldas,21.35
+Manhuaçu,Ponte Nova,40.04
+Abaeté,Morada Nova de Minas,26.7
+Cláudio,Itapecerica,13.35
+Conselheiro Pena,Coronel Fabriciano,62.75
+Bela Vista de Minas,Inhapim,45.4
+Bertópolis,Crisólita,22.7
+Ipatinga,Itanhomi,32.05
+Frei Inocêncio,Pavão,61.45
+Abre Campo,Martins Soares,24.05
+Bela Vista de Minas,Ubaporanga,48.1
+Carmo do Paranaíba,Uberaba,101.55
+Igaratinga,Perdigão,14.7
+Paraopeba,Veredinha,139.0
+São Pedro do Suaçuí,Turmalina,54.8
+Governador Valadares,Santa Efigênia de Minas,25.4
+Cambuquira,Conceição do Rio Verde,10.7
+Coronel Pacheco,Tocantins,21.4
+Itaúna,Mateus Leme,5.35
+Ipatinga,Ouro Preto,80.25
+Itabirito,Teixeiras,48.15
+Serra Azul de Minas,Serro,16.05
+Nova Era,Santa Bárbara,28.1
+Lagoa Formosa,Nova Serrana,80.3
+Belo Horizonte,Caratinga,97.7
+Belo Horizonte,Pequi,34.8
+Olaria,Varginha,80.35
+Belo Horizonte,Cordisburgo,37.5
+Capelinha,Curvelo,112.5
+Coronel Fabriciano,Muriaé,75.0
+Ilicínea,Varginha,32.15
+Andrelândia,Piedade do Rio Grande,20.1
+Divinópolis,Perdigão,13.4
+Ouro Preto,Viçosa,40.2
+Ipanema,Ponte Nova,68.36
+Caxambu,Olaria,42.9
+Divinópolis,Martinho Campos,42.9
+Itaobim,Salto da Divisa,72.4
+Divino das Laranjeiras,Mantena,22.8
+Guanhães,Santana do Paraíso,45.6
+Matipó,Ouro Preto,55.0
+Mirabela,São João das Missões,55.0
+Belo Horizonte,José Raydan,103.3
+Barão de Cocais,Nova Era,24.15
+Catuji,Salinas,96.6
+Governador Valadares,José Raydan,48.3
+Oliveira,Ribeirão Vermelho,24.15
+Engenheiro Caldas,Ubaporanga,16.1
+Teixeiras,Tocantins,26.85
+Paraguaçu,Perdões,45.66
+Santa Rita do Sapucaí,Três Corações,40.3
+Pompéu,São José da Varginha,30.9
+Belo Oriente,Ipatinga,10.75
+Juruaia,Nova Resende,10.75
+Lagoa Santa,Serro,64.55
+Capitólio,São José da Barra,13.45
+Iguatama,Lavras,53.8
+Elói Mendes,Juiz de Fora,110.3
+Leopoldina,Volta Grande,28.25
+Lima Duarte,Santa Rita de Jacutinga,28.25
+Muzambinho,Poços de Caldas,29.6
+Governador Valadares,Resplendor,30.95
+Águas Formosas,Bertópolis,16.15
+Dom Silvério,Rio Piracicaba,16.15
+Santana da Vargem,Varginha,16.15
+São João del Rei,São Tiago,16.15
+Naque,Padre Paraíso,86.15
+Coimbra,Tocantins,17.5
+Materlândia,Santa Maria de Itabira,50.65
+Argirita,Juiz de Fora,24.25
+Ipatinga,Itamarandiba,97.0
+Campanário,Ubaporanga,56.6
+Ouro Preto,Santa Bárbara,28.3
+Engenheiro Caldas,Santa Bárbara do Leste,29.65
+Betim,Japaraíba,60.65
+Além Paraíba,Muriaé,32.35
+Campanário,Fervedouro,97.05
+Uberaba,Unaí,145.6
+Cana Verde,Iguatama,39.1
+Luislândia,Paraopeba,121.35
+Naque,São João do Manteninha,51.25
+Periquito,São João do Manteninha,51.25
+Campo Florido,Frutal,25.65
+Dom Silvério,São Gonçalo do Rio Abaixo,32.4
+Dores de Guanhães,Santana do Paraíso,32.4
+Galiléia,Resplendor,16.2
+Iraí de Minas,Uberlândia,51.3
+Alterosa,Monte Belo,12.15
+Bonfim,Crucilândia,6.75
+Coroaci,Divinolândia de Minas,24.3
+Gouveia,Serro,21.6
+Lamim,Senhora de Oliveira,5.4
+Santa Efigênia de Minas,Virginópolis,12.15
+Guanhães,São Pedro do Suaçuí,21.61
+Pavão,Timóteo,108.05
+Crisólita,Naque,99.95
+Muriaé,Santa Bárbara do Tugúrio,56.75
+Ipatinga,Itaobim,100.0
+Cataguases,Santa Bárbara do Tugúrio,35.15
+Couto de Magalhães de Minas,Virgem da Lapa,67.6
+Guimarânia,Monte Carmelo,33.8
+Campos Gerais,Itaguara,62.2
+Betim,Crucilândia,28.4
+Formiga,Uberlândia,133.92
+Bonfinópolis de Minas,Urucuia,24.35
+Olaria,Santa Rita de Jacutinga,23.0
+Arantina,Minduri,21.65
+Catuji,Governador Valadares,64.95
+Cataguases,Muriaé,20.3
+Caxambu,Três Corações,20.3
+Conceição das Alagoas,Itapagipe,40.6
+Belo Horizonte,São Tiago,59.55
+Betim,Leandro Ferreira,36.55
+Araçuaí,Lagoa da Prata,195.0
+Campo Belo,Campos Altos,65.0
+Curral de Dentro,Francisco Sá,65.0
+Curvelo,Jaíba,130.0
+Jacinto,Jequitinhonha,31.15
+Alpercata,Dom Cavati,14.9
+Mariana,Rio Casca,32.51
+Perdões,Uberlândia,162.57
+Carbonita,Montes Claros,66.4
+Caratinga,Jequitinhonha,142.35
+Crisólita,Frei Inocêncio,70.5
+Ouro Branco,São João del Rei,35.25
+São Gonçalo do Rio Preto,Paraopeba,77.3
+Barão de Cocais,Ouro Preto,32.55
+Inhaúma,Pará de Minas,32.55
+Barbacena,Ewbank da Câmara,20.35
+Naque,Pavão,90.9
+Curvelo,Itamarandiba,86.85
+Capitão Enéas,Mato Verde,38.0
+Ipatinga,Mariana,73.3
+Dom Cavati,Padre Paraíso,95.05
+Cristina,Santa Rita do Sapucaí,25.8
+Pequi,Pompéu,25.8
+Águas Formosas,Governador Valadares,89.65
+Lagoa Santa,Santo Antônio do Itambé,73.35
+Minas Novas,Turmalina,8.15
+Frei Inocêncio,Machacalis,85.6
+Botelhos,Poços de Caldas,13.59
+Bonfim,Igarapé,14.95
+Carbonita,São Gonçalo do Rio Preto,29.9
+Ouro Preto,Teixeiras,36.7
+Campanário,Teófilo Otoni,13.6
+Crisólita,Teófilo Otoni,27.2
+Frei Inocêncio,São José do Divino,27.2
+São Bento Abade,São Thomé das Letras,6.8
+Divinópolis,Lavras,53.05
+Barão de Cocais,Belo Horizonte,31.3
+São João Evangelista,Timóteo,62.6
+Catuji,Inhapim,92.55
+Arcos,Tapiraí,24.5
+Inimutaba,Senador Modestino Gonçalves,65.35
+Juiz de Fora,Laranjal,40.85
+Areado,Guaxupé,23.15
+Belo Horizonte,Onça de Pitangui,35.41
+Aimorés,Periquito,61.3
+Carvalhópolis,Pouso Alegre,38.15
+Açucena,Divinolândia de Minas,16.35
+Carandaí,Cristiano Otoni,5.45
+Careaçu,Cordislândia,16.35
+Santa Maria de Itabira,Virginópolis,43.6
+Catuji,Ubaporanga,95.4
+Inimutaba,Itamarandiba,84.55
+Ressaquinha,Senhora dos Remédios,9.55
+Ipatinga,Santa Bárbara,54.6
+Belo Horizonte,Igaratinga,31.41
+Betim,Papagaios,38.25
+Belo Horizonte,Inhapim,87.45
+Arcos,Cana Verde,32.8
+Barão de Cocais,João Monlevade,16.4
+Barroso,Itutinga,28.7
+Carangola,Miradouro,16.4
+Congonhas,Santos Dumont,41.0
+Datas,Itamarandiba,57.4
+Lagoa da Prata,Pitangui,41.0
+Rio Casca,Ubá,49.2
+Manhuaçu,Orizânia,15.04
+Diamantina,Presidente Juscelino,27.35
+Governador Valadares,Timóteo,38.3
+Novo Oriente de Minas,Teófilo Otoni,19.15
+Coronel Fabriciano,São João do Manteninha,73.9
+Campos Altos,Lavras,84.85
+Coluna,Ipatinga,84.85
+Gouveia,Presidente Kubitschek,10.95
+Ponte Nova,Rio Casca,13.69
+Coronel Fabriciano,Engenheiro Caldas,28.75
+Ipatinga,Leopoldina,82.15
+Inhapim,Padre Paraíso,101.35
+Lavras,Uberlândia,172.57
+Machacalis,Naque,115.05
+Belo Horizonte,Coimbra,78.1
+Conceição das Alagoas,São Francisco de Sales,53.45
+Frei Inocêncio,Novo Oriente de Minas,53.45
+Belo Horizonte,Papagaios,46.6
+Bertópolis,Timóteo,139.8
+Padre Paraíso,Ubaporanga,104.2
+Monte Azul,Uberlândia,230.37
+Areado,Paraguaçu,19.2
+Alfenas,Bandeira do Sul,31.55
+Coromandel,Estrela do Sul,28.81
+Itaobim,Teófilo Otoni,32.93
+Água Boa,José Raydan,12.35
+Astolfo Dutra,Rio Pomba,12.35
+Bom Jardim de Minas,Santa Rita de Jacutinga,12.35
+Inconfidentes,Santa Rita do Sapucaí,24.7
+Nova Era,Ubaporanga,54.9
+Patos de Minas,Perdões,112.55
+Belo Horizonte,São João Evangelista,78.25
+Ipatinga,João Monlevade,32.95
+José Raydan,Minas Novas,50.8
+Pirapora,Várzea da Palma,13.73
+Brasília de Minas,Paraopeba,115.35
+Guanhães,Itabira,43.95
+Araxá,Teófilo Otoni,222.51
+Belo Horizonte,Bom Jesus do Amparo,23.35
+Moema,Quartel Geral,30.22
+Coronel Fabriciano,Divino das Laranjeiras,57.7
+São José do Jacuri,Senhora do Porto,34.35
+Ipatinga,Virginópolis,37.1
+Juiz de Fora,Miraí,53.6
+Central de Minas,Timóteo,81.1
+Bertópolis,Governador Valadares,105.85
+Leopoldina,Teófilo Otoni,148.49
+Andrelândia,Ibertioga,33.0
+Belo Horizonte,Malacacheta,137.5
+Bicas,Santana do Deserto,16.5
+Caratinga,Ubaporanga,5.5
+Durandé,Martins Soares,5.5
+Engenheiro Navarro,Francisco Dumont,11.0
+Itaguara,Ritápolis,30.25
+Josenópolis,Padre Carvalho,8.25
+Nanuque,Teófilo Otoni,33.0
+Paiva,Piraúba,16.5
+Porteirinha,Rio Pardo de Minas,33.0
+Pouso Alegre,São Gonçalo do Sapucaí,13.75
+Conselheiro Lafaiete,Mercês,38.51
+Águas Formosas,Frei Inocêncio,77.05
+Belo Horizonte,Minas Novas,148.6
+Itabirito,Santa Margarida,49.55
+Engenheiro Caldas,Ipatinga,23.4
+Machacalis,Timóteo,132.15
+Alfredo Vasconcelos,São João del Rei,20.65
+Bambuí,Luz,20.65
+Belo Horizonte,Ouro Preto,17.9
+Conceição do Pará,Lagoa da Prata,35.8
+Engenheiro Caldas,Nanuque,108.8
+Barbacena,Piraúba,30.3
+Iturama,Planura,55.1
+Divino das Laranjeiras,Naque,36.65
+Bambuí,Uberlândia,107.47
+Inhapim,Jequitinhonha,140.55
+Manhuaçu,Muriaé,41.34
+Ouro Preto,Urucânia,34.45
+Coluna,Senhora do Porto,44.1
+Salinas,Teófilo Otoni,119.9
+Campanário,Inhapim,53.75
+Divinópolis,Quartel Geral,57.92
+Madre de Deus de Minas,São João del Rei,16.55
+São Gotardo,Tiros,16.55
+Ouro Preto,Santa Rita de Minas,80.0
+Juiz de Fora,Varginha,103.45
+Baependi,Elói Mendes,46.9
+Central de Minas,Naque,44.15
+Central de Minas,Periquito,44.15
+Divinópolis,Nazareno,51.05
+Itambacuri,Ubaporanga,64.85
+Nova Era,Ouro Branco,82.8
+Além Paraíba,Astolfo Dutra,27.6
+Betim,Maravilhas,34.5
+Dom Cavati,Engenheiro Caldas,6.9
+Lagoa da Prata,São Sebastião do Paraíso,73.2
+Jacutinga,Pouso Alegre,26.25
+Belo Horizonte,Maravilhas,42.85
+Gouveia,Veredinha,74.65
+Águas Formosas,Naque,106.45
+Belo Horizonte,Belo Vale,27.65
+Araxá,Mato Verde,199.13
+Bicas,Mar de Espanha,8.3
+Carmo da Mata,Lavras,37.35
+Descoberto,Rochedo de Minas,8.3
+Divinópolis,Japaraíba,33.2
+Mariana,Ouro Preto,4.15
+Caratinga,Mariana,76.1
+Ipatinga,Muriaé,71.95
+Barão de Cocais,Ipatinga,50.65
+Patrocínio,Salinas,160.81
+Barbacena,Cataguases,44.3
+Divinópolis,Dores do Indaiá,49.84
+Coluna,Coronel Fabriciano,87.23
+Nova Era,Timóteo,18.0
+Barbacena,Ouro Preto,41.55
+Belo Horizonte,Guiricema,83.1
+Itabira,Senhora do Porto,36.01
+Nova Era,Ouro Preto,55.4
+Cachoeira de Minas,Paraisópolis,8.31
+Formiga,Piumhi,19.39
+Capelinha,São Pedro do Suaçuí,37.4
+Governador Valadares,Teófilo Otoni,33.25
+Luz,Medeiros,33.25
+Nova Ponte,Pará de Minas,121.92
+Augusto de Lima,Mirabela,58.2
+Campanário,Catuji,38.8
+Itabira,Timóteo,29.1
+Piumhi,São José da Barra,19.4
+Periquito,Poté,69.3
+Araújos,Pará de Minas,24.95
+Campos Altos,Sacramento,33.27
+Curvelo,Veredinha,124.8
+Ouro Preto,São Gonçalo do Rio Abaixo,41.6
+Machacalis,Novo Oriente de Minas,31.9
+Belo Horizonte,Poté,149.8
+Juiz de Fora,Oliveira,76.3
+Antônio Dias,Bela Vista de Minas,16.65
+Areado,Boa Esperança,33.3
+Bandeira do Sul,Campestre,5.55
+Itabirito,Ouro Preto,11.1
+Janaúba,Montalvânia,66.6
+Ritápolis,São João del Rei,5.55
+Santa Bárbara do Leste,São João do Manhuaçu,16.65
+Santa Maria do Suaçuí,São João Evangelista,22.2
+Grão Mogol,Montes Claros,30.25
+Iguatama,Uberlândia,116.57
+Pouso Alegre,Três Corações,27.76
+Caratinga,São João do Manhuaçu,23.6
+Belo Horizonte,São Domingos do Prata,41.65
+Manhuaçu,Santa Bárbara do Leste,18.05
+Naque,Poté,73.6
+Dores do Indaiá,Moema,22.22
+Águas Formosas,Timóteo,123.6
+Aiuruoca,Alagoa,25.0
+Buenópolis,Mirabela,50.0
+Itacambira,Montes Claros,25.0
+Japonvar,São João das Missões,50.0
+Paracatu,Pirapora,75.0
+Paracatu,Uberlândia,100.0
+Santa Bárbara do Tugúrio,Ubá,25.0
+Baependi,Minduri,19.45
+Cana Verde,Juiz de Fora,87.53
+Ouro Preto,Timóteo,75.05
+Jacinto,Timóteo,177.9
+Bertópolis,Novo Oriente de Minas,39.75
+Arcos,Juiz de Fora,125.1
+Formiga,Itaú de Minas,52.82
+São Geraldo,Tocantins,13.9
+Divisa Alegre,Padre Paraíso,38.93
+Capelinha,Datas,80.65
+Central de Minas,Coronel Fabriciano,66.75
+Muriaé,Teófilo Otoni,127.94
+Monte Carmelo,São Gotardo,86.23
+José Raydan,Turmalina,45.9
+Gouveia,Senador Modestino Gonçalves,38.95
+Engenheiro Caldas,Itaobim,79.3
+Alpercata,Engenheiro Caldas,8.35
+Alto Rio Doce,Ubá,25.05
+Caratinga,Iapu,16.7
+Desterro de Entre Rios,Passa Tempo,8.35
+Guaxupé,Muzambinho,8.35
+Mariana,Teixeiras,33.4
+Belo Horizonte,Monte Carmelo,126.65
+Lima Duarte,Varginha,84.9
+Belo Horizonte,São Sebastião do Paraíso,111.35
+Jequitinhonha,Ubaporanga,143.4
+Abre Campo,Simonésia,27.85
+Belo Horizonte,Itaverava,39.0
+Araxá,Porteirinha,211.73
+Belo Horizonte,Senhora de Oliveira,52.95
+Belo Horizonte,Guarani,85.01
+Águas Formosas,Novo Oriente de Minas,22.3
+Campanário,Leopoldina,133.8
+Governador Valadares,Ipatinga,25.09
+Carbonita,Ipatinga,112.95
+Coronel Fabriciano,Santa Bárbara,50.2
+Bocaiúva,Timóteo,168.75
+Juiz de Fora,Viçosa,54.4
+Inhapim,Itaobim,105.18
+Inconfidentes,Jacutinga,13.95
+Cachoeira Dourada,Uberlândia,58.6
+Caxambu,Lima Duarte,47.45
+Divino,Tombos,16.75
+Natalândia,Unaí,27.92
+Alpercata,São João do Oriente,18.15
+Carandaí,Ouro Branco,18.15
+Alfenas,Poços de Caldas,37.7
+Belo Horizonte,Martinho Campos,58.65
+Cordisburgo,Prudente de Morais,19.55
+Matipó,Santa Bárbara do Leste,20.95
+Caratinga,Engenheiro Caldas,22.35
+Caratinga,Raul Soares,22.35
+Itamogi,Passos,23.75
+Frei Inocêncio,Periquito,25.15
+Bocaiúva,Janaúba,54.5
+Montes Claros,Timóteo,184.5
+Água Boa,Turmalina,33.55
+Dom Cavati,Jequitinhonha,134.2
+Água Boa,Minas Novas,37.75
+Itaobim,Pedra Azul,19.3
+Belo Horizonte,Sardoá,103.5
+Itambacuri,Malacacheta,37.77
+Engenheiro Caldas,Jequitinhonha,127.3
+Bicas,Maripá de Minas,5.6
+Bom Despacho,Lagoa da Prata,18.2
+Coqueiral,Varginha,22.4
+Itaúna,Japaraíba,44.8
+Januária,Pedras de Maria da Cruz,5.6
+Rio Pomba,Ubá,12.6
+Alpercata,São João do Manhuaçu,53.2
+Andrelândia,Arantina,8.4
+Araçuaí,Coronel Murta,14.0
+Cambuquira,São Gonçalo do Sapucaí,15.4
+Cantagalo,Guanhães,16.8
+Ipatinga,Sobrália,26.6
+Jequitinhonha,Joaíma,7.0
+Lavras,Nepomuceno,7.0
+Ouro Preto,Santa Bárbara do Leste,78.4
+Piedade do Rio Grande,São Vicente de Minas,14.0
+Tabuleiro,Ubá,16.8
+Dom Cavati,Nanuque,114.85
+Contagem,Sete Lagoas,18.21
+Arcos,Uberlândia,127.5
+Araxá,Sacramento,16.82
+Ponte Nova,Simonésia,49.06
+Frei Inocêncio,Naque,29.45
+Carlos Chagas,Dom Cavati,98.2
+Manhuaçu,Santa Rita de Minas,18.24
+Araxá,Mantena,245.55
+Fervedouro,Frei Inocêncio,84.2
+Juiz de Fora,Pequeri,21.05
+Maravilhas,Pompéu,21.05
+Belo Horizonte,Santa Efigênia de Minas,99.65
+Perdões,Santana da Vargem,19.65
+Coronel Fabriciano,Galiléia,57.55
+Arcos,Itaúna,37.9
+Curvelo,Manga,154.45
+Almenara,Teófilo Otoni,67.4
+Conceição do Pará,Divinópolis,16.85
+Luz,Tapiraí,15.45
+Mariana,Santa Rita de Minas,73.05
+Teófilo Otoni,Ubaporanga,73.05
+Araxá,Itaobim,247.25
+Campanário,Malacacheta,44.4
+Pedra Azul,Salinas,54.8
+Divinópolis,Ritápolis,32.6
+Mariana,Matipó,50.6
+Ibiá,Mato Verde,185.55
+Belo Horizonte,Dores de Guanhães,71.7
+Guarda-Mor,Monte Carmelo,50.62
+Alfenas,Carmópolis de Minas,73.12
+Belo Horizonte,Ipaba,80.2
+Belo Horizonte,São Pedro dos Ferros,67.6
+Peçanha,São João Evangelista,8.45
+Coronel Fabriciano,Ouro Preto,76.05
+Belo Horizonte,Gonzaga,97.2
+Belo Horizonte,Brasília de Minas,152.16
+Belo Horizonte,Lajinha,101.45
+Inhapim,Itambacuri,62.0
+Oliveira,Três Marias,93.0
+Ouro Branco,Ressaquinha,22.55
+Belo Horizonte,Rio Casca,50.74
+Ipatinga,São José do Jacuri,73.3
+Guarda-Mor,Patos de Minas,49.35
+Montalvânia,Montes Claros,110.0
+Bom Jardim de Minas,Caxambu,33.85
+Belo Horizonte,Materlândia,94.5
+Formiga,Luz,53.6
+Campo Belo,Juiz de Fora,94.53
+Diamantina,Montes Claros,76.2
+Belo Horizonte,Cantagalo,94.55
+Campos Altos,Iguatama,31.05
+Juatuba,Onça de Pitangui,19.76
+Catas Altas,Ouro Preto,24.0
+Caratinga,Catuji,101.65
+Itueta,Periquito,57.9
+Baldim,Santana de Pirapama,16.95
+Fervedouro,Governador Valadares,67.8
+Nazareno,São João del Rei,16.95
+Nepomuceno,Santo Antônio do Amparo,16.95
+Caxambu,Cruzília,11.3
+Muriaé,Rosário da Limeira,11.3
+Tocantins,Visconde do Rio Branco,11.3
+Andradas,Machado,42.4
+Belo Horizonte,Coluna,114.5
+Santa Rita do Sapucaí,São Gonçalo do Sapucaí,25.45
+Bambuí,Divinópolis,45.25
+Manhuaçu,Mutum,33.94
+Alfenas,Areado,9.9
+Dona Eusébia,Santa Bárbara do Tugúrio,29.7
+Padre Paraíso,Salinas,87.7
+Fervedouro,Lajinha,48.1
+Piraúba,São João Nepomuceno,14.15
+Belo Horizonte,Peçanha,97.65
+Belo Horizonte,Veredinha,178.32
+Araçuaí,Diamantina,101.9
+Bom Jesus do Galho,João Monlevade,50.95
+Barbacena,Juiz de Fora,22.65
+Araçaí,Belo Horizonte,35.4
+Alpercata,Teófilo Otoni,48.15
+Itambacuri,Leopoldina,141.65
+Barbacena,Rio Pomba,25.5
+Buenópolis,Joaquim Felício,4.25
+Datas,Serro,17.0
+Divinolândia de Minas,Santa Efigênia de Minas,8.5
+Engenheiro Caldas,Santa Rita de Minas,25.5
+Entre Rios de Minas,Ouro Branco,17.0
+Itaúna,Piumhi,34.0
+Itaúna,Rio Manso,17.0
+Mercês,Santa Bárbara do Tugúrio,8.5
+Sacramento,Uberaba,25.5
+Malacacheta,Periquito,83.6
+Paracatu,Sete Lagoas,110.55
+Belo Horizonte,Teixeiras,69.45
+Paraopeba,Serro,69.45
+Carandaí,Tocantins,42.53
+Guanhães,Peçanha,19.85
+Lagoa da Prata,Luz,19.85
+Capitólio,Carmo do Rio Claro,29.78
+Itamarandiba,Senhora do Porto,58.15
+Itapecerica,Lagoa da Prata,26.95
+Arcos,Campos Altos,38.3
+Campanha,Três Corações,11.35
+Campo Belo,Perdões,11.35
+Caxambu,Conceição do Rio Verde,11.35
+Iturama,Uberaba,90.8
+Itamarandiba,Montes Claros,82.3
+Pouso Alegre,São José do Alegre,18.45
+Pará de Minas,Sacramento,88.02
+Lagoa da Prata,Pedra do Indaiá,14.2
+Alpinópolis,Ilicínea,21.3
+Sabinópolis,Santa Maria de Itabira,41.2
+Crisólita,Novo Oriente de Minas,17.05
+Engenheiro Caldas,Padre Paraíso,88.1
+Boa Esperança,Lavras,27.0
+Porto Firme,Ubá,29.85
+Córrego Danta,Juiz de Fora,162.05
+Caratinga,Itambacuri,71.1
+Mariana,Nova Era,48.35
+Abaeté,Divinópolis,51.2
+Bom Despacho,Pitangui,28.45
+Governador Valadares,Machacalis,98.2
+Belo Horizonte,São Sebastião do Oeste,48.4
+Estrela do Sul,Patrocínio,29.9
+Luz,Perdigão,27.06
+Bom Sucesso,São João del Rei,28.5
+Carmo do Rio Claro,Guaxupé,39.9
+Caxambu,São Vicente de Minas,28.5
+Conceição de Ipanema,Simonésia,14.25
+Governador Valadares,Pavão,74.1
+São Geraldo,Tabuleiro,25.65
+Alfenas,Divisa Nova,11.4
+Catas Altas,Mariana,17.1
+Congonhas,Lagoa Dourada,17.1
+Couto de Magalhães de Minas,São Gonçalo do Rio Preto,5.7
+Curral de Dentro,Padre Paraíso,68.4
+Curvelo,Pompéu,34.2
+Dom Cavati,Iapu,5.7
+Governador Valadares,Itabirinha,34.2
+Itaverava,Lamim,8.55
+Juatuba,Mateus Leme,2.85
+Laranjal,Rio Pomba,34.2
+Matipó,Santa Margarida,5.7
+Matozinhos,Prudente de Morais,2.85
+Belo Horizonte,Urucânia,67.0
+Abre Campo,Tombos,47.05
+Arcos,Mateus Leme,44.2
+Betim,Medeiros,82.7
+Cachoeira Dourada,Monte Alegre de Minas,38.5
+Guimarânia,Iraí de Minas,27.1
+Ibiá,Uberlândia,78.45
+Iguatama,Juiz de Fora,131.23
+Belo Horizonte,Luislândia,159.76
+Carmo do Rio Claro,Passos,24.25
+Belo Horizonte,Santa Maria do Suaçuí,107.0
+Dom Cavati,Itambacuri,55.65
+Itabirito,Ponte Nova,37.1
+Belo Horizonte,Fervedouro,102.75
+Ibiá,Janaúba,185.55
+Juiz de Fora,Três Corações,92.8
+Cordisburgo,Pedro Leopoldo,25.7
+Dores de Guanhães,Mesquita,25.7
+João Monlevade,Reduto,51.4
+Ipatinga,Ponte Nova,68.55
+Olhos-d'Água,Timóteo,154.25
+Capelinha,Guanhães,50.0
+Governador Valadares,Mathias Lobato,10.0
+Janaúba,Mato Verde,20.0
+Piranguinho,Santa Rita do Sapucaí,10.0
+Piraúba,Rio Novo,10.0
+Iguatama,Juatuba,54.3
+Mariana,Santa Bárbara do Leste,71.45
+Alpercata,Santa Rita de Minas,34.3
+Bom Jardim de Minas,Juiz de Fora,34.3
+Além Paraíba,Laranjal,25.73
+Catuji,Curral de Dentro,77.2
+Elói Mendes,Perdões,38.6
+Juiz de Fora,Perdões,85.8
+Pedralva,Pouso Alegre,22.88
+Coronel Fabriciano,Malacacheta,104.4
+Cristiano Otoni,Santos Dumont,30.05
+Araxá,Governador Valadares,197.5
+Oliveira,Santo Antônio do Amparo,11.45
+Belo Horizonte,Japaraíba,73.0
+Belo Horizonte,Caetanópolis,31.5
+Campos Altos,Dores do Indaiá,31.5
+Itaobim,Jacinto,51.55
+Malacacheta,Naque,87.35
+Divino das Laranjeiras,Nova Era,77.35
+Crisólita,Governador Valadares,83.1
+Guarani,Rio Pomba,10.03
+Água Boa,Santa Maria do Suaçuí,8.6
+Barbacena,Dona Eusébia,38.7
+Moema,Perdigão,17.2
+Ponte Nova,São Geraldo,21.5
+Pratápolis,São Sebastião do Paraíso,8.6
+Rio Pomba,São Geraldo,21.5
+São José do Goiabal,Timóteo,25.8
+Engenheiro Caldas,Itambacuri,48.75
+Alpinópolis,Guaxupé,48.78
+Caxambu,Juiz de Fora,66.0
+Alfenas,Itaguara,80.37
+Presidente Juscelino,Senador Modestino Gonçalves,54.55
+Alpinópolis,Carmo do Rio Claro,10.05
+Entre Rios de Minas,São João del Rei,20.1
+São Domingos do Prata,Timóteo,20.1
+Ibiá,Porteirinha,198.15
+Patos de Minas,Rio Paranaíba,31.6
+Frei Inocêncio,Ubaporanga,43.1
+Belo Horizonte,Dores de Campos,66.1
+Juiz de Fora,Teófilo Otoni,172.49
+Alfenas,Silvianópolis,28.75
+Arinos,Chapada Gaúcha,23.0
+Brasília de Minas,Mirabela,11.5
+Canápolis,Monte Alegre de Minas,17.25
+Caxambu,Minduri,23.0
+Conselheiro Lafaiete,Dores de Campos,34.5
+Coronel Fabriciano,Mantena,80.5
+Iguatama,Perdões,46.0
+Jaíba,Manga,23.0
+Campos Altos,Juatuba,64.7
+Pedralva,São Lourenço,20.13
+Mercês,Rio Novo,24.45
+Belo Horizonte,Visconde do Rio Branco,86.3
+Conceição das Alagoas,Iturama,70.5
+Inhapim,Nova Era,51.8
+Oliveira,Ritápolis,25.9
+Frutal,Uberaba,38.85
+Pirapora,São Francisco,77.7
+Baependi,Olaria,40.3
+Aimorés,João Monlevade,109.4
+Guanhães,São José do Jacuri,27.35
+Coronel Fabriciano,Mariana,69.1
+Ipatinga,Itabira,34.55
+Juiz de Fora,Miradouro,63.35
+Alvorada de Minas,Datas,23.05
+Janaúba,Manga,46.1
+Guanhães,Mesquita,38.9
+Congonhas,Resende Costa,31.7
+Couto de Magalhães de Minas,Montes Claros,63.4
+Igaratinga,Juatuba,15.85
+Monte Carmelo,Patos de Minas,47.55
+Arcos,Ibiá,54.77
+Alfenas,Carmo da Cachoeira,41.8
+Itambacuri,Jacinto,111.0
+Baependi,São Vicente de Minas,25.95
+Capinópolis,Uberlândia,51.9
+Lagoa da Prata,Nova Serrana,25.95
+Belo Horizonte,Raul Soares,72.1
+Minduri,Olaria,36.05
+Santo Antônio do Amparo,São João del Rei,36.05
+Itamogi,Itaú de Minas,18.75
+Caratinga,Padre Paraíso,98.1
+Abre Campo,Divino,30.3
+Bertópolis,Pavão,31.75
+Carmo do Rio Claro,Muzambinho,31.75
+Itaobim,João Monlevade,144.32
+Rio Casca,Tombos,54.85
+Frei Inocêncio,Leopoldina,125.6
+Cordisburgo,Matozinhos,23.1
+Guanhães,Joanésia,34.65
+Ibituruna,Oliveira,23.1
+Pirapora,Salinas,104.0
+Cambuquira,Juiz de Fora,86.7
+Crisólita,Timóteo,117.1
+Abaeté,Biquinhas,17.35
+Campanário,Jequitinhonha,86.75
+Nova Ponte,Romaria,17.35
+Papagaios,Pompéu,17.35
+Belo Horizonte,Resende Costa,56.4
+Almenara,Ubaporanga,159.1
+Belo Horizonte,Divinolândia de Minas,91.15
+Belo Horizonte,Guaxupé,143.25
+Alfenas,Campestre,27.5
+Divinópolis,Moema,30.4
+Mantena,Naque,63.7
+Guanhães,Santa Maria do Suaçuí,34.75
+Sete Lagoas,Unaí,139.0
+Central de Minas,Nova Era,84.85
+São Francisco de Sales,Uberaba,73.85
+Juiz de Fora,Santa Rita de Jacutinga,46.35
+Itamarandiba,Olhos-d'Água,52.15
+Itambacuri,Naque,46.95
+Capitão Enéas,Porteirinha,29.0
+Coqueiral,Santana da Vargem,5.8
+Cordisburgo,Curvelo,15.95
+Crisólita,Pavão,7.25
+Divinópolis,Piumhi,29.0
+Entre Rios de Minas,Lagoa Dourada,8.7
+Juatuba,Medeiros,76.85
+Juatuba,Pedra do Indaiá,34.8
+Lagoa Dourada,Resende Costa,8.7
+Matias Cardoso,Montes Claros,84.1
+Naque,Teófilo Otoni,55.1
+Perdigão,São Gonçalo do Pará,11.6
+Curvelo,Matias Cardoso,150.8
+Pouso Alegre,São Sebastião da Bela Vista,10.15
+Lavras,Uberaba,153.72
+Araxá,Lavras,116.02
+João Monlevade,Novo Oriente de Minas,121.85
+Serro,Sete Lagoas,78.35
+Nova Era,Novo Oriente de Minas,113.25
+Belo Horizonte,Mariana,34.85
+Olaria,Três Corações,69.7
+São Gonçalo do Rio Preto,Sete Lagoas,90.05
+Juiz de Fora,Lavras,79.9
+Araguari,Uberaba,42.14
+Coronel Fabriciano,Poté,90.1
+Caratinga,Ouro Preto,87.2
+Rio Paranaíba,Uberlândia,52.34
+Belo Horizonte,Salto da Divisa,261.75
+Coromandel,Santa Juliana,48.0
+Estrela do Sul,Guarda-Mor,61.1
+Arantina,São Vicente de Minas,14.55
+Senador Modestino Gonçalves,Turmalina,56.75
+Governador Valadares,Inhapim,27.65
+Carbonita,Gouveia,50.95
+Belo Horizonte,Rio Novo,91.72
+Governador Valadares,Mendes Pimentel,24.75
+José Raydan,Senhora do Porto,36.4
+Coronel Fabriciano,Salto da Divisa,198.05
+Dona Eusébia,Leopoldina,11.65
+Abre Campo,Mariana,43.7
+Coronel Fabriciano,Dom Cavati,21.85
+Divinópolis,Pitangui,21.85
+Rio Doce,Rio Piracicaba,21.85
+Baependi,Paraguaçu,53.9
+Belo Horizonte,Turmalina,148.6
+Capelinha,Setubinha,20.4
+Padre Paraíso,Ponto dos Volantes,10.2
+Capelinha,Diamantina,69.95
+Bertópolis,Nova Era,158.85
+Belo Horizonte,Virginópolis,87.45
+Belo Horizonte,Bom Jesus do Galho,86.0
+Buenópolis,Montalvânia,151.6
+Inimutaba,Veredinha,128.3
+Cássia,Juatuba,100.6
+Piranguinho,Três Corações,53.95
+Areado,Monte Belo,8.75
+Bela Vista de Minas,São Domingos do Prata,8.75
+Curvelo,Martinho Campos,43.75
+Ipanema,Muriaé,70.0
+Lavras,Nova Serrana,70.0
+Machado,Serrania,8.75
+Matutina,Tiros,8.75
+Nova Serrana,Três Marias,70.0
+Perdões,Santo Antônio do Amparo,8.75
+Rubim,Teófilo Otoni,70.0
+Belo Horizonte,Laranjal,109.4
+Ipatinga,Montes Claros,179.45
+Coronel Fabriciano,Ponte Nova,64.2
+Bertópolis,João Monlevade,167.85
+Campo Belo,Uberaba,128.47
+Biquinhas,Paineiras,5.84
+Frei Inocêncio,Malacacheta,58.4
+Inhapim,Nanuque,121.2
+Juatuba,Lagoa da Prata,48.2
+João Monlevade,Mariana,40.9
+Bicas,Governador Valadares,131.5
+Catuji,Itambacuri,32.15
+São Gotardo,Serra do Salitre,35.08
+Belo Horizonte,Tombos,112.55
+Fervedouro,Inhapim,48.25
+Francisco Sá,Pedra Azul,96.5
+Abaeté,Paineiras,11.7
+Botelhos,Divisa Nova,11.7
+Cruzília,Minduri,11.7
+Iguatama,Itaúna,46.8
+Itajubá,Pedralva,11.7
+Campanário,Naque,40.95
+Capelinha,Turmalina,17.55
+Caratinga,Timóteo,35.1
+Inhapim,Teófilo Otoni,70.2
+Recreio,Volta Grande,17.55
+Curvelo,Montalvânia,175.55
+Bom Sucesso,Divinópolis,39.5
+João Monlevade,Raul Soares,36.6
+Frei Inocêncio,Itaobim,61.5
+Miraí,Ubá,20.5
+São Gonçalo do Rio Preto,Turmalina,65.9
+Curral de Dentro,Teófilo Otoni,99.6
+Itamarandiba,São João Evangelista,39.55
+Pará de Minas,Pompéu,39.55
+Nova Era,São João do Manteninha,92.0
+Coronel Pacheco,Rio Pomba,14.65
+Divino das Laranjeiras,São João do Manteninha,14.65
+Luz,Sacramento,52.77
+São João do Paraíso,Sete Lagoas,202.3
+Perdões,Uberaba,143.67
+Alpinópolis,Muzambinho,41.05
+Baependi,Varginha,41.05
+Belo Horizonte,Rio Piracicaba,41.05
+Central de Minas,João Monlevade,93.85
+Formiga,Juiz de Fora,115.85
+Carandaí,Congonhas,17.6
+Ibertioga,Santa Rita de Ibitipoca,8.8
+Itatiaiuçu,Rio Manso,8.8
+Planura,Uberaba,30.8
+Bambuí,Juiz de Fora,143.8
+Perdões,Varginha,33.75
+Belo Horizonte,São João Nepomuceno,99.82
+Belo Horizonte,Dionísio,52.85
+Campanário,Ipatinga,55.2
+Coronel Fabriciano,Iapu,16.15
+Muriaé,São Francisco do Glória,16.15
+Nova Era,Salto da Divisa,207.05
+Conselheiro Lafaiete,São João del Rei,39.65
+Governador Valadares,São Gonçalo do Rio Abaixo,70.49
+Belo Horizonte,Itueta,142.45
+Baependi,Cambuquira,23.5
+Jequitinhonha,Ponto dos Volantes,23.5
+Juiz de Fora,Rio Pomba,23.5
+Ouro Branco,São Brás do Suaçuí,11.75
+Bocaiúva,Porteirinha,66.1
+Fervedouro,Teófilo Otoni,105.78
+Carlos Chagas,Fervedouro,152.8
+Frutal,Janaúba,282.14
+Betim,Campos Altos,70.55
+Carmo da Cachoeira,Nepomuceno,14.7
+Conceição do Mato Dentro,Congonhas do Norte,22.05
+Jaíba,Montalvânia,44.1
+Belo Horizonte,Bertópolis,202.9
+Barroso,Conselheiro Lafaiete,30.9
+João Monlevade,São Domingos do Prata,10.3
+São Geraldo,Viçosa,10.3
+Congonhas,Entre Rios de Minas,13.25
+Poço Fundo,Silvianópolis,13.25
+Santa Maria de Itabira,Senhora do Porto,26.5
+Itamarandiba,Sete Lagoas,111.9
+Belo Horizonte,Muzambinho,136.94
+Itutinga,Juiz de Fora,64.79
+Carlos Chagas,Inhapim,104.55
+Carandaí,Juiz de Fora,38.3
+Cristina,Piranguinho,19.15
+Aiuruoca,Madre de Deus de Minas,41.25
+Bela Vista de Minas,Timóteo,25.05
+Lassance,Pirapora,25.05
+Frutal,Porteirinha,294.74
+Carmo da Cachoeira,Paraguaçu,30.95
+Medeiros,Pará de Minas,70.75
+Araxá,Perdões,106.17
+Bom Despacho,Martinho Campos,17.7
+Bonfim,Piedade dos Gerais,8.85
+Campo Florido,Pirajuba,8.85
+Coimbra,Ervália,5.9
+Igarapé,Rio Manso,11.8
+Conselheiro Lafaiete,Tiradentes,39.85
+Ituiutaba,Pará de Minas,188.92
+Buenópolis,Manga,135.8
+Barbacena,Divinópolis,62.0
+Araújos,Betim,39.86
+Matipó,Santa Rita de Minas,25.1
+Caxambu,Elói Mendes,44.3
+Janaúba,Uberlândia,230.4
+Canápolis,Uberlândia,35.45
+Coronel Fabriciano,Jacinto,177.3
+Araxá,Arcos,67.97
+Itambacuri,Itaobim,49.65
+Coronel Fabriciano,Ubaporanga,26.6
+Juiz de Fora,Tiradentes,50.25
+Carmópolis de Minas,Ritápolis,23.65
+João Monlevade,São Pedro dos Ferros,32.52
+Dom Cavati,Leopoldina,88.7
+Montes Claros,Perdões,144.88
+Bom Despacho,Curvelo,62.1
+Coroaci,Nacip Raydan,10.35
+Lavras,Santana da Vargem,20.7
+Formiga,Lavras,38.45
+Catas Altas da Noruega,Porto Firme,17.75
+Nova Serrana,Sacramento,76.92
+Papagaios,Pará de Minas,22.2
+Divino,Miradouro,14.8
+Cássia,Divinópolis,65.13
+Belo Horizonte,Simonésia,109.55
+Juiz de Fora,Maripá de Minas,19.25
+Lavras,Varginha,38.5
+São Domingos do Prata,São Gonçalo do Rio Abaixo,19.25
+Itabira,São Pedro do Suaçuí,65.16
+Pedro Leopoldo,Várzea da Palma,87.38
+Coroaci,Sardoá,11.85
+Malacacheta,Poté,11.85
+Formiga,Mateus Leme,35.56
+Guiricema,Muriaé,20.75
+Belo Horizonte,Medeiros,96.35
+Machacalis,Nova Era,151.2
+Alfenas,Varginha,23.73
+Belo Horizonte,Novo Oriente de Minas,163.15
+Campestre,Serrania,13.35
+Guarda-Mor,Vazante,13.35
+Iguatama,Mateus Leme,53.4
+João Monlevade,Machacalis,160.2
+Arcos,Luz,44.5
+Frutal,Pirajuba,17.8
+Indaiabira,Taiobeiras,8.9
+Belo Horizonte,Candeias,74.2
+Itajubá,Poços de Caldas,44.52
+Bom Despacho,Conceição do Pará,23.75
+Canápolis,Ituiutaba,23.75
+Coronel Fabriciano,Inhapim,23.75
+Governador Valadares,São João do Oriente,23.75
+Água Boa,Santa Maria de Itabira,77.2
+Lima Duarte,São Vicente de Minas,34.15
+Araçuaí,Couto de Magalhães de Minas,89.1
+Belo Horizonte,Sacramento,115.85
+Barbacena,Piedade do Rio Grande,25.25
+João Monlevade,São João do Manteninha,101.0
+Perdões,Pirapora,109.93
+Piumhi,São Sebastião do Paraíso,44.57
+Itabira,Santa Bárbara,20.8
+Coronel Fabriciano,Itueta,78.75
+Belo Horizonte,Lamim,47.55
+Santana da Vargem,Santo Antônio do Amparo,26.75
+Caratinga,Matipó,28.25
+Lassance,Pedro Leopoldo,75.85
+São Pedro do Suaçuí,Senhora do Porto,28.26
+Aimorés,Itueta,5.95
+Frei Inocêncio,Ipatinga,41.65
+Aimorés,Belo Horizonte,151.75
+Baependi,Bom Jardim de Minas,31.25
+Divino das Laranjeiras,João Monlevade,86.35
+Ipatinga,São Pedro do Suaçuí,65.51
+Aiuruoca,Minduri,41.7
+Carmo do Paranaíba,Nova Serrana,71.5
+Água Boa,São Pedro do Suaçuí,20.86
+Central de Minas,Mantena,14.9
+Coimbra,Visconde do Rio Branco,7.45
+Coluna,São José do Jacuri,7.45
+Corinto,Porteirinha,119.2
+Couto de Magalhães de Minas,Senador Modestino Gonçalves,14.9
+Padre Paraíso,Salto da Divisa,90.9
+Carlos Chagas,Muriaé,169.9
+Pirapora,São Romão,62.6
+Piracema,São Joaquim de Bicas,23.85
+São João Evangelista,São José do Jacuri,16.4
+Cantagalo,Santa Maria de Itabira,50.7
+Machado,Silvianópolis,17.9
+Araxá,Formiga,77.57
+Elói Mendes,Santo Antônio do Amparo,46.25
+Santa Maria de Itabira,Santa Maria do Suaçuí,68.65
+Lagoa Santa,Serra Azul de Minas,80.6
+Juatuba,Pequi,20.9
+Itabirito,Visconde do Rio Branco,53.75
+Carmo da Cachoeira,Elói Mendes,23.9
+Juiz de Fora,Ubá,35.85
+Francisco Sá,Sete Lagoas,119.55
+Formiga,Uberaba,115.07
+Bom Despacho,Pompéu,26.9
+Jequitinhonha,Naque,124.05
+Belo Horizonte,Santa Rita do Sapucaí,128.55
+Areado,Belo Horizonte,119.59
+Baependi,Lima Duarte,44.85
+Água Boa,Belo Horizonte,121.1
+Nova Era,Pavão,127.1
+Belo Horizonte,Belo Oriente,80.75
+Caratinga,Frei Inocêncio,49.35
+Dom Cavati,Ipatinga,16.45
+João Monlevade,Pavão,136.1
+Belo Horizonte,Piranguinho,137.6
+Argirita,Recreio,17.95
+Formiga,Passos,49.37
+Juiz de Fora,Minduri,59.85
+Perdizes,Santa Juliana,11.97
+Juiz de Fora,Uberaba,233.42
+Araxá,Campo Belo,92.77
+Curvelo,Virgem da Lapa,131.7
+Igarapé,Piracema,22.45
+Laranjal,Santa Bárbara do Tugúrio,46.4
+Itabira,São João Evangelista,52.4
+Biquinhas,Martinho Campos,26.95
+Conceição dos Ouros,Paraisópolis,5.99
+Belo Horizonte,Unaí,161.75
+Abre Campo,Carangola,40.45
+Belo Horizonte,Viçosa,73.45
+Diamantina,Virgem da Lapa,89.95
+Belo Horizonte,Monte Belo,131.93
+Aiuruoca,Cruzília,30.0
+Alvarenga,Inhapim,15.0
+Andradas,Campestre,27.0
+Araçaí,Cordisburgo,3.0
+Barbacena,Conselheiro Lafaiete,18.0
+Boa Esperança,Ilicínea,13.5
+Caratinga,São Pedro dos Ferros,27.0
+Carmópolis de Minas,Oliveira,12.0
+Congonhas,São João del Rei,33.0
+Corinto,Três Marias,36.0
+Coromandel,Uberlândia,30.0
+Fervedouro,Muriaé,15.0
+Frutal,São Francisco de Sales,28.5
+Ipanema,Santana do Manhuaçu,13.5
+Ipanema,Simonésia,18.0
+Ipatinga,Periquito,16.5
+Japaraíba,Santo Antônio do Monte,13.5
+Juatuba,Pratápolis,96.0
+Morada Nova de Minas,Paineiras,15.0
+Naque,Salto da Divisa,181.5
+Nova Serrana,Pitangui,12.0
+Bicas,Nanuque,225.05
+Corinto,Mirabela,72.05
+Campanário,Muriaé,118.6
+Diamantina,Turmalina,54.05
+Frei Inocêncio,Muriaé,105.1
+Águas Formosas,João Monlevade,151.65
+Monte Carmelo,Paracatu,76.58
+Águas Formosas,Nova Era,142.65
+Belo Horizonte,Setubinha,157.7
+Aiuruoca,Olaria,36.05
+Bocaiúva,Ipatinga,163.75
+Capelinha,José Raydan,28.55
+Belo Horizonte,Coroaci,109.7
+Japaraíba,Juatuba,54.1
+Itaú de Minas,Piumhi,34.57
+Ibiá,Pedrinópolis,46.6
+Janaúba,Patos de Minas,156.4
+Belo Horizonte,Itajubá,142.9
+Bambuí,Mateus Leme,61.7
+Alfenas,Juiz de Fora,123.13
+João Monlevade,Timóteo,28.6
+Santa Maria do Suaçuí,Turmalina,42.15
+Carmo do Paranaíba,Monte Carmelo,75.27
+Coluna,Itamarandiba,13.55
+Santa Bárbara do Leste,Ubaporanga,13.55
+Aimorés,Nova Era,102.4
+Bom Despacho,Juiz de Fora,129.53
+Bambuí,Iguatama,12.05
+Belo Vale,Congonhas,12.05
+Couto de Magalhães de Minas,Gouveia,24.1
+Divinópolis,Igaratinga,12.05
+Matipó,Urucânia,24.1
+Ouro Preto,Santos Dumont,54.23
+Belo Horizonte,Mutum,122.05
+Jequitibá,Santana de Pirapama,10.55
+Jequitibá,Sete Lagoas,10.55
+Resende Costa,São Brás do Suaçuí,21.1
+Além Paraíba,Santa Bárbara do Tugúrio,60.3
+Lajinha,Miradouro,54.27
+Arantina,Lima Duarte,19.6
+Itaúna,Lagoa da Prata,39.2
+Mutum,Rio Casca,58.8
+Inhapim,Muriaé,64.85
+Caxambu,Madre de Deus de Minas,36.2
+Fervedouro,Rio Casca,42.25
+Bambuí,Lavras,66.4
+Frei Inocêncio,Ponto dos Volantes,57.35
+Baependi,Juiz de Fora,63.4
+Abre Campo,Matipó,7.55
+Cordisburgo,Paraopeba,7.55
+Mercês,Rio Pomba,7.55
+Monte Carmelo,Romaria,7.55
+Três Corações,Três Pontas,21.14
+Corinto,Curvelo,13.6
+Coluna,Itabira,80.1
+Itambacuri,Jequitinhonha,80.1
+Congonhas,Prados,33.25
+Belo Horizonte,Tarumirim,92.2
+Bocaiúva,Monte Azul,90.7
+Dom Cavati,João Monlevade,50.5
+Crisólita,João Monlevade,145.15
+Lagoa da Prata,Mateus Leme,43.85
+Abadia dos Dourados,Monte Carmelo,12.1
+Antônio Dias,Nova Era,12.1
+Betim,Pitangui,30.25
+Carmo do Rio Claro,Monte Belo,24.2
+Lagoa Dourada,São Brás do Suaçuí,12.1
+Martinho Campos,Morada Nova de Minas,36.3
+Crisólita,Nova Era,136.15
+Abaeté,Belo Horizonte,68.09
+Belo Horizonte,Francisco Sá,139.21
+Durandé,João Monlevade,68.1
+Formiga,São Sebastião do Paraíso,63.56
+Itamarandiba,Santa Maria de Itabira,84.75
+Paraopeba,Taiobeiras,161.95
+Timóteo,Ubá,98.4
+Belo Horizonte,Itamarandiba,128.7
+Durandé,Manhumirim,10.6
+Luz,Moema,10.6
+Coronel Fabriciano,Ubá,99.95
+Janaúba,Patrocínio,199.9
+Biquinhas,Pompéu,36.35
+Conceição da Barra de Minas,São João del Rei,15.15
+Caratinga,Juiz de Fora,109.1
+Arcos,São João del Rei,78.8
+Bandeira do Sul,Machado,19.7
+Carmo do Cajuru,Mateus Leme,19.7
+Belo Horizonte,Manhumirim,103.05
+Jacinto,Naque,160.65
+Juiz de Fora,Luz,139.45
+Nova Serrana,Quartel Geral,43.97
+Itaúna,Passos,78.86
+Abre Campo,Santa Bárbara do Leste,27.3
+Betim,Pedra do Indaiá,40.95
+Cambuquira,Lambari,9.1
+Caratinga,Inhapim,9.1
+Coqueiral,Nepomuceno,9.1
+Dom Cavati,Fervedouro,54.6
+Madre de Deus de Minas,São Vicente de Minas,9.1
+Novorizonte,Salinas,9.1
+Campos Altos,Juiz de Fora,162.3
+Frutal,Prata,24.27
+Alpinópolis,Santana da Vargem,44.0
+Igarapé,Oliveira,34.9
+Pirapora,Urucuia,169.95
+Ilicínea,Passos,30.05
+Araújos,Juatuba,33.4
+Ribeirão Vermelho,Santo Antônio do Amparo,12.15
+Abre Campo,Manhuaçu,19.75
+Machado,Santo Antônio do Amparo,60.78
+Andrelândia,Olaria,22.8
+Bertópolis,Machacalis,7.6
+Divino,Orizânia,7.6
+Juiz de Fora,São Domingos do Prata,106.4
+Dom Cavati,Teófilo Otoni,63.85
+Carangola,Rio Casca,48.65
+Frei Inocêncio,Salto da Divisa,152.05
+Mateus Leme,Passos,85.15
+Juiz de Fora,Nova Serrana,117.1
+Barbacena,Mercês,18.25
+Belo Horizonte,Novo Cruzeiro,171.9
+Dom Cavati,Governador Valadares,21.3
+Divinópolis,Juiz de Fora,105.0
+Campanário,Juiz de Fora,172.0
+Jacinto,Padre Paraíso,70.05
+Olaria,São Vicente de Minas,28.95
+Augusto de Lima,Mato Verde,120.4
+Andrelândia,São Vicente de Minas,6.1
+Camanducaia,Cambuí,6.1
+Conselheiro Lafaiete,Muriaé,73.2
+Itaguara,Itapecerica,27.45
+Japaraíba,Pedra do Indaiá,21.35
+Nanuque,Naque,109.8
+Nova Era,Ponte Nova,42.7
+Belo Horizonte,São Francisco,164.76
+Augusto de Lima,Monte Azul,129.7
+Barroso,Lavras,41.2
+Paraopeba,Presidente Kubitschek,61.05
+Salto da Divisa,Teófilo Otoni,122.1
+Bom Despacho,Sacramento,67.17
+Frei Inocêncio,Teófilo Otoni,27.49
+Laranjal,Piraúba,30.55
+Alpercata,Sobrália,11.0
+Capitólio,Guaxupé,68.75
+Itapecerica,Juatuba,41.25
+Jaíba,Montes Claros,55.0
+Indaiabira,Sete Lagoas,192.55
+Arcos,Uberaba,105.47
+Juatuba,Papagaios,32.1
+Pedro Leopoldo,Pirapora,100.9
+Betim,Itapecerica,47.4
+Fervedouro,Itambacuri,110.1
+Campos Altos,São Gotardo,18.35
+Patos de Minas,Vazante,36.7
+Nepomuceno,Três Corações,26.0
+Água Boa,São João Evangelista,30.6
+Itaú de Minas,Juatuba,91.8
+Peçanha,Santa Maria de Itabira,53.55
+Bicas,Dom Cavati,110.2
+Capelinha,Santa Maria de Itabira,93.4
+Capitão Enéas,Espinosa,49.0
+Ibiá,Pratinha,12.25
+Tabuleiro,Teixeiras,36.75
+Carbonita,Curvelo,82.7
+João Monlevade,Salto da Divisa,226.7
+Belo Horizonte,Lagoa da Prata,64.35
+Arcos,Bambuí,18.4
+Belo Oriente,João Monlevade,46.0
+Coimbra,São Geraldo,4.6
+Coronel Fabriciano,Frei Inocêncio,46.0
+Dom Cavati,Laranjal,82.8
+São Gonçalo do Rio Preto,Senador Modestino Gonçalves,9.2
+Luislândia,Mirabela,18.4
+Betim,Ritápolis,50.6
+Betim,São Tiago,50.6
+Paraopeba,Turmalina,124.2
+Belo Horizonte,Cana Verde,67.47
+Governador Valadares,Poté,56.75
+Araçuaí,Curvelo,144.2
+Iapu,Ipatinga,10.74
+Guarda-Mor,Presidente Olegário,39.9
+Bocaiúva,Mato Verde,81.35
+Inhapim,Juiz de Fora,118.2
+Capelinha,Itabira,102.85
+Conselheiro Pena,Periquito,41.45
+Itaú de Minas,Itaúna,82.9
+Lagamar,Paracatu,47.6
+Leopoldina,Santa Bárbara do Tugúrio,38.4
+Abre Campo,Belo Horizonte,66.05
+João Pinheiro,Urucuia,73.75
+João Pinheiro,Lagoa Grande,18.45
+Maravilhas,Pará de Minas,18.45
+Pará de Minas,Pequi,12.3
+Ponte Nova,Santa Bárbara do Leste,49.2
+Belo Horizonte,Cássia,113.79
+Mantena,Periquito,59.05
+Capitólio,Itaú de Minas,27.68
+Arinos,Riachinho,32.3
+Couto de Magalhães de Minas,Itamarandiba,32.3
+Além Paraíba,Belo Horizonte,124.6
+Belo Horizonte,Capelinha,138.45
+Jequitinhonha,Nova Era,158.45
+Jacinto,Teófilo Otoni,100.0
+Estrela do Sul,Paracatu,86.16
+Belo Horizonte,Ponte Nova,55.41
+Itaúna,São Sebastião do Paraíso,92.35
+Astolfo Dutra,Barbacena,36.95
+Capinópolis,Monte Alegre de Minas,30.8
+Careaçu,São Gonçalo do Sapucaí,7.7
+Juiz de Fora,Olaria,23.1
+Juiz de Fora,Tocantins,30.8
+Gouveia,Virgem da Lapa,101.65
+Ponte Nova,Timóteo,63.15
+Bambuí,Itaúna,55.45
+Minas Novas,Sete Lagoas,143.25
+Betim,São José da Varginha,24.65
+Cássia,Itaúna,90.91
+Guanhães,Itamarandiba,50.85
+Araújos,Belo Horizonte,49.31
+Barão de Cocais,Coronel Fabriciano,46.25
+Espinosa,Janaúba,37.0
+Montes Claros,Uberaba,185.0
+São João do Paraíso,Taiobeiras,18.5
+Bambuí,Uberaba,92.51
+Belo Horizonte,Piraúba,78.64
+Belo Horizonte,Dona Eusébia,92.55
+Betim,Iguatama,63.25
+Rio Casca,Santa Bárbara do Leste,35.5
+Frei Inocêncio,Jacinto,131.2
+Mariana,Ponte Nova,21.61
+Couto de Magalhães de Minas,Diamantina,12.35
+Araxá,Iguatama,60.22
+Guarani,Mercês,18.53
+Belo Horizonte,Presidente Kubitschek,94.2
+Ipatinga,São Gonçalo do Rio Abaixo,43.25
+Belo Horizonte,Janaúba,148.29
+Catas Altas,Itabira,29.35
+Buenópolis,Francisco Sá,60.25
+Central de Minas,Ipatinga,77.25
+Ipatinga,Mantena,77.25
+Belo Horizonte,Virgem da Lapa,176.45
+Campo Belo,Santo Antônio do Amparo,17.0
+Augusto de Lima,Porteirinha,105.1
+Barbacena,Tiradentes,18.55
+Curvelo,Nova Serrana,74.2
+Perdizes,Uberaba,43.3
+Ritápolis,São Joaquim de Bicas,46.4
+São Joaquim de Bicas,São Tiago,46.4
+Augusto de Lima,Espinosa,140.75
+Coronel Fabriciano,Jequitinhonha,146.95
+Capelinha,Santa Maria do Suaçuí,24.75
+Carlos Chagas,Juiz de Fora,222.75
+Itambacuri,Muriaé,126.85
+Montes Claros,Varjão de Minas,111.4
+Belo Horizonte,Ferros,57.25
+Guanhães,José Raydan,29.4
+Campos Altos,Ibiá,18.57
+Cássia,Pimenta,49.53
+Campanário,Periquito,38.7
+Belo Horizonte,Galiléia,119.2
+Frei Inocêncio,Inhapim,40.25
+Bambuí,Juatuba,68.15
+Belo Horizonte,Mercês,71.25
+Araxá,Paracatu,120.82
+Brasilândia de Minas,Buritis,79.0
+Belo Horizonte,Campos Altos,83.65
+Itaú de Minas,Pimenta,40.28
+Andrelândia,São João del Rei,35.65
+Arceburgo,Guaxupé,12.4
+Argirita,Maripá de Minas,6.2
+Belo Horizonte,São José da Varginha,34.1
+Cambuquira,Caxambu,18.6
+Conceição de Ipanema,Taparuba,12.4
+Conceição do Pará,Perdigão,12.4
+Fronteira,Frutal,12.4
+Paraisópolis,Piranguinho,13.95
+Paraopeba,Presidente Juscelino,34.1
+Pedra do Indaiá,Santo Antônio do Monte,6.2
+Pouso Alto,São Sebastião do Rio Verde,3.1
+Sete Lagoas,Turmalina,134.85
+Inimutaba,Minas Novas,106.96
+Belo Horizonte,Mantena,144.2
+Patos de Minas,Unaí,91.55
+Buritis,Urucuia,43.45
+Betim,Oliveira,40.35
+Iguatama,Luz,37.25
+Almenara,Campanário,102.45
+Carlos Chagas,Naque,93.15
+Astolfo Dutra,Santa Bárbara do Tugúrio,27.95
+Lagoa Dourada,Ouro Branco,24.85
+Governador Valadares,Salto da Divisa,164.65
+Almenara,Nova Era,181.75
+Itambacuri,Juiz de Fora,180.2
+Pará de Minas,Perdigão,21.75
+Buenópolis,Monte Azul,121.2
+Engenheiro Caldas,Teófilo Otoni,59.05
+Capelinha,Carbonita,38.85
+Congonhas,Dores de Campos,38.85
+Belo Horizonte,Itapecerica,57.5
+Lavras,Santo Antônio do Amparo,18.65
+Araxá,Rio Paranaíba,55.95
+Buenópolis,Mato Verde,111.9
+Carbonita,Paraopeba,93.25
+Araguari,Unaí,183.4
+João Monlevade,Mantena,108.8
+Presidente Kubitschek,Sete Lagoas,69.95
+Caxambu,Paraguaçu,51.3
+Ipatinga,Olhos-d'Água,149.25
+Igarapé,Itaguara,15.55
+Inconfidentes,Pouso Alegre,15.55
+João Pinheiro,Vazante,46.65
+Araújos,Moema,14.0
+Belo Horizonte,Boa Esperança,84.0
+Iraí de Minas,Uberaba,28.0
+Janaúba,Monte Azul,28.0
+Belo Horizonte,Conceição do Pará,42.01
+Capelinha,São Gonçalo do Rio Preto,51.35
+Dona Eusébia,Muriaé,32.68
+Capinópolis,Ituiutaba,12.45
+Durandé,Miradouro,46.7
+Guanhães,Ipatinga,46.7
+Buenópolis,Taiobeiras,121.5
+Alpercata,Caratinga,29.6
+Belo Horizonte,Inimutaba,60.76
+Córrego Danta,Juatuba,57.65
+Augusto de Lima,Janaúba,93.5
+Ponte Nova,São Domingos do Prata,37.4
+Juiz de Fora,Uberlândia,250.92
+Curvelo,Espinosa,168.35
+Belo Horizonte,São Gonçalo do Sapucaí,106.0
+Senador Modestino Gonçalves,Sete Lagoas,93.55
+Belo Horizonte,Mirabela,135.66
+Brasilândia de Minas,Patos de Minas,74.85
+Mantena,Nova Era,99.8
+Itamarandiba,Paraopeba,102.95
+Alpercata,Juiz de Fora,140.4
+Betim,Martinho Campos,46.8
+Carmo do Cajuru,Juatuba,23.4
+Itabira,São José do Jacuri,68.65
+Belo Horizonte,Datas,84.26
+Congonhas,Ressaquinha,21.85
+Buenópolis,Jaíba,112.4
+Machado,Perdões,56.2
+Divinópolis,Oliveira,20.3
+São Gonçalo do Rio Preto,Itamarandiba,26.55
+Candeias,Juatuba,59.35
+Couto de Magalhães de Minas,Paraopeba,65.6
+Jacinto,Nova Era,196.85
+Governador Valadares,Laranjal,106.24
+Jequitaí,Patrocínio,121.87
+Augusto de Lima,Francisco Sá,68.75
+Conselheiro Lafaiete,Santos Dumont,31.25
+Frei Inocêncio,Nova Módica,12.5
+Itacarambi,Pedras de Maria da Cruz,25.0
+João Monlevade,Martins Soares,56.25
+Pará de Minas,São Gonçalo do Pará,12.5
+Santana da Vargem,Três Pontas,6.25
+Bocaiúva,Espinosa,101.65
+Almenara,Salto da Divisa,37.55
+Corinto,Várzea da Palma,29.73
+Periquito,Resplendor,57.9
+Belo Horizonte,São José do Jacuri,104.85
+Itambacuri,Periquito,46.95
+Teixeiras,Visconde do Rio Branco,15.65
+Belo Horizonte,Iapu,79.85
+Campanário,Coronel Fabriciano,59.5
+Lagoa da Prata,Pará de Minas,39.15
+Belo Horizonte,Santa Maria de Itabira,43.85
+Paraguaçu,Santo Antônio do Amparo,53.25
+Curvelo,Minas Novas,111.2
+Capelinha,Senador Modestino Gonçalves,42.3
+Belo Horizonte,Moeda,18.8
+Cruzília,São Vicente de Minas,18.8
+Frei Inocêncio,Padre Paraíso,61.1
+Inhaúma,Pequi,18.8
+Materlândia,Sabinópolis,9.4
+Santa Rita de Minas,Ubaporanga,9.4
+Augusto de Lima,Brasília de Minas,73.65
+Almenara,Coronel Fabriciano,163.0
+Piranguinho,São Gonçalo do Sapucaí,36.05
+Paraopeba,Senador Modestino Gonçalves,84.65
+Buritis,João Pinheiro,109.75
+João Monlevade,Periquito,47.05
+Jequitaí,Patos de Minas,103.51
+Ponte Nova,Santa Rita de Minas,53.35
+Capitólio,Muzambinho,61.2
+Conselheiro Lafaiete,Laranjal,84.74
+Belo Horizonte,João Pinheiro,113.0
+Betim,Piracema,28.25
+Itambacuri,Salto da Divisa,131.85
+Barbacena,Muriaé,75.35
+Andrelândia,Madre de Deus de Minas,15.7
+Nova Era,Resplendor,94.2
+Minas Novas,Paraopeba,136.6
+Belo Horizonte,São Pedro do Suaçuí,100.5
+Frutal,Iturama,45.54
+Ibiá,Juiz de Fora,177.46
+Braúnas,Guanhães,26.7
+Betim,Moema,45.55
+Alfenas,Baependi,62.83
+Bonfinópolis de Minas,Brasilândia de Minas,18.85
+Rio Casca,Simonésia,37.7
+Além Paraíba,Barbacena,70.69
+Jacinto,João Monlevade,205.85
+Arinos,Urucuia,11.0
+Francisco Sá,Grão Mogol,22.0
+Raul Soares,Rio Casca,11.0
+Araçuaí,Gouveia,113.15
+Carbonita,Sete Lagoas,103.75
+Iguatama,São João del Rei,84.9
+Carlos Chagas,Ipatinga,105.35
+Abre Campo,Santa Rita de Minas,31.45
+Itabira,Itamarandiba,94.35
+Abre Campo,Caratinga,34.6
+Catuji,Jequitinhonha,37.75
+Belo Horizonte,Campestre,135.3
+Alfenas,Belo Horizonte,111.72
+Corinto,Francisco Sá,80.25
+Nova Ponte,Paracatu,113.3
+Buenópolis,Janaúba,85.0
+Campanário,João Monlevade,88.15
+Além Paraíba,Paiva,55.1
+Buenópolis,Espinosa,132.25
+Mirabela,Paraopeba,102.35
+Bambuí,Medeiros,12.6
+Bom Jardim de Minas,Lima Duarte,15.75
+Camanducaia,Itapeva,3.15
+Campina Verde,Comendador Gomes,28.35
+Caratinga,Santa Rita de Minas,3.15
+Coimbra,Viçosa,6.3
+Engenheiro Caldas,Sobrália,3.15
+Inhapim,Ubaporanga,3.15
+Itabirinha,Mendes Pimentel,9.45
+Itueta,Resplendor,3.15
+Jesuânia,Lambari,3.15
+Juatuba,Maravilhas,28.35
+Juatuba,Tapiraí,63.0
+Maripá de Minas,Recreio,25.2
+Curvelo,Taiobeiras,151.23
+Cássia,Formiga,53.57
+Buritis,Riachinho,45.7
+Iguatama,Uberaba,97.72
+João Monlevade,Lajinha,63.05
+Belo Horizonte,Divino das Laranjeiras,121.4
+Frei Inocêncio,Poté,44.15
+Araçuaí,Governador Valadares,113.55
+Astolfo Dutra,Muriaé,37.85
+Itaguara,São Joaquim de Bicas,17.35
+Campo Florido,Planura,15.78
+Nova Serrana,Perdões,47.35
+Patrocínio,Rio Paranaíba,37.88
+João Monlevade,Padre Paraíso,135.75
+Minas Novas,Presidente Juscelino,96.3
+Carbonita,Diamantina,41.05
+Governador Valadares,Malacacheta,71.05
+Curvelo,Mato Verde,148.45
+Caratinga,Ponte Nova,56.86
+Jequitinhonha,Padre Paraíso,31.6
+Manhuaçu,Rio Casca,28.44
+Pedralva,Piranguinho,7.9
+Juatuba,Passos,88.5
+Itabira,Juiz de Fora,145.41
+Inhapim,Leopoldina,85.35
+Caratinga,Muriaé,56.9
+Medina,Montes Claros,98.0
+Formiga,São João del Rei,69.55
+Bambuí,Betim,74.3
+Governador Valadares,Leopoldina,107.5
+Aiuruoca,Alfenas,72.73
+Araçaí,Sete Lagoas,12.65
+Rio Pomba,São João Nepomuceno,23.72
+Lagoa Formosa,Monte Carmelo,68.0
+Buritis,Sete Lagoas,208.8
+Barão de Cocais,Timóteo,41.15
+Couto de Magalhães de Minas,Sete Lagoas,80.75
+Cruzeiro da Fortaleza,Patos de Minas,19.0
+José Raydan,Santa Maria de Itabira,61.75
+São Francisco do Glória,Vieiras,4.75
+Engenheiro Caldas,Juiz de Fora,131.45
+Belo Horizonte,Felixlândia,49.1
+Belo Horizonte,Dom Cavati,85.55
+Poços de Caldas,Santo Antônio do Amparo,91.89
+Couto de Magalhães de Minas,Minas Novas,57.05
+Belo Horizonte,Carangola,109.35
+Antônio Carlos,Bias Fortes,15.85
+Corinto,Sete Lagoas,47.55
+Lagamar,Presidente Olegário,19.02
+Madre de Deus de Minas,Minduri,15.85
+Caratinga,Carlos Chagas,114.15
+Rio Casca,Santa Rita de Minas,39.65
+Nova Era,Padre Paraíso,120.55
+Araçaí,Prudente de Morais,17.45
+Araxá,Ipatinga,180.9
+Abaeté,Nova Serrana,38.1
+Dom Cavati,Inhapim,6.35
+Oliveira,Passa Tempo,19.05
+Juiz de Fora,Nova Ponte,228.61
+Engenheiro Caldas,Leopoldina,100.05
+Caratinga,Governador Valadares,34.95
+Belo Horizonte,Resplendor,143.0
+Luz,Santa Rosa da Serra,28.6
+Periquito,Teófilo Otoni,57.2
+Ponte Nova,Tocantins,38.15
+Monte Carmelo,Nova Serrana,117.64
+Fervedouro,Juiz de Fora,69.95
+Pedra Azul,Timóteo,155.8
+Aiuruoca,Bom Jardim de Minas,23.85
+Bocaiúva,Couto de Magalhães de Minas,47.7
+Cantagalo,Peçanha,3.18
+Sete Lagoas,Taiobeiras,181.26
+Betim,Candeias,65.2
+Belo Horizonte,Dom Silvério,57.25
+Belo Horizonte,São Geraldo,82.7
+Bom Despacho,Três Marias,70.0
+Juiz de Fora,Lima Duarte,17.5
+Couto de Magalhães de Minas,Curvelo,54.1
+Augusto de Lima,Taiobeiras,133.7
+Congonhas,Tocantins,57.3
+Arantina,Juiz de Fora,38.2
+Caratinga,Rio Casca,43.0
+Inhapim,Laranjal,76.45
+Barbacena,Visconde do Rio Branco,44.62
+Belo Horizonte,Dores do Indaiá,74.9
+Cláudio,Itaguara,12.75
+Juiz de Fora,São João del Rei,51.0
+Martins Soares,Mutum,25.5
+Pimenta,São Sebastião do Paraíso,51.0
+Itaobim,Montes Claros,110.0
+Diamantina,Perdões,145.13
+Betim,Córrego Danta,63.8
+Belo Horizonte,Central de Minas,132.4
+Divino,Rio Casca,38.29
+Belo Horizonte,Tiradentes,75.0
+Corinto,Engenheiro Navarro,43.1
+Inhapim,Ponto dos Volantes,114.3
+Dom Cavati,Juiz de Fora,124.55
+Curvelo,Várzea da Palma,44.73
+Betim,Dores do Indaiá,65.5
+Bicas,Inhapim,103.85
+Belo Horizonte,Campos Gerais,97.5
+Iturama,Prata,52.75
+Betim,Lagoa da Prata,54.35
+Bom Despacho,Santa Juliana,102.0
+Belo Horizonte,Divino,100.75
+Belo Horizonte,Senhora do Porto,70.37
+Guarda-Mor,Uberlândia,95.96
+Ipatinga,Pedra Azul,150.35
+Almenara,Naque,145.6
+Arantina,Olaria,14.4
+Arapuá,São Gotardo,16.0
+Baependi,Três Corações,30.4
+Campos Altos,Pará de Minas,57.6
+Caratinga,Santa Bárbara do Leste,6.4
+Diamantina,Inimutaba,38.4
+Engenheiro Caldas,Governador Valadares,14.4
+Inhapim,Tarumirim,16.0
+Itacarambi,Mirabela,48.0
+Guarda-Mor,Uberaba,115.25
+Medeiros,Nova Serrana,57.65
+Dom Cavati,Itaobim,100.94
+Elói Mendes,Itaguara,68.9
+Barbacena,Guiricema,48.07
+Leopoldina,Miradouro,28.85
+Belo Horizonte,Lagoa Dourada,46.5
+Belo Horizonte,Itaú de Minas,107.44
+Araguari,Ibiá,80.18
+Medina,Timóteo,141.15
+Belo Horizonte,São João do Manteninha,139.55
+Curvelo,Monte Azul,157.25
+Itaguara,Poços de Caldas,112.35
+João Pinheiro,Patos de Minas,48.15
+Conselheiro Pena,Nova Era,81.9
+João Monlevade,Manhuaçu,51.4
+Nova Serrana,Pompéu,38.55
+Itambacuri,João Monlevade,96.4
+Ipatinga,Ouro Branco,112.5
+Mercês,São João Nepomuceno,32.16
+Betim,Tapiraí,69.15
+Coronel Pacheco,Tabuleiro,9.65
+Guaranésia,São Pedro da União,9.65
+Carmo da Cachoeira,Três Pontas,33.79
+Barroso,Congonhas,35.4
+Belo Horizonte,Indaiabira,218.86
+Divinópolis,São João del Rei,51.5
+Barroso,Belo Horizonte,66.0
+Buenópolis,Porteirinha,96.6
+Conquista,Sacramento,8.05
+Paracatu,Vazante,38.65
+Igarapé,Ritápolis,45.1
+Igarapé,São Tiago,45.1
+Pirapora,Uberaba,154.64
+Capitão Enéas,Curvelo,96.65
+Nanuque,Periquito,106.35
+Cana Verde,Igarapé,54.8
+Belo Horizonte,Ubaporanga,90.3
+Campestre,Santo Antônio do Amparo,77.4
+Jaíba,Matias Cardoso,19.35
+Ipatinga,Medina,135.55
+Dom Cavati,Frei Inocêncio,33.9
+Campos Altos,Nova Serrana,45.2
+Congonhas,Rio Pomba,50.05
+Belo Horizonte,Conselheiro Pena,125.95
+Betim,Conceição do Pará,32.3
+Iturama,São Francisco de Sales,16.15
+Corinto,Janaúba,106.6
+Araçaí,Matozinhos,21.0
+Coronel Fabriciano,Pedra Azul,155.15
+Ibiá,Perdizes,38.8
+Ibiá,São Gotardo,19.4
+Rio Paranaíba,Uberaba,87.3
+Mirabela,São João da Ponte,14.55
+Dom Cavati,Muriaé,71.15
+Cristiano Otoni,São João del Rei,32.35
+Belo Horizonte,Ibiá,80.88
+Ipatinga,São João Evangelista,55.0
+Frei Inocêncio,Jequitinhonha,100.3
+Araújos,Igaratinga,22.65
+Carmópolis de Minas,Paraguaçu,67.95
+Corinto,Perdões,134.29
+Ouro Preto,Rio Casca,40.45
+Lagamar,Patos de Minas,29.13
+Belo Horizonte,Rio Pomba,76.07
+Joaquim Felício,Porteirinha,95.5
+Divinópolis,Nova Serrana,12.95
+Ipaba,Medina,129.5
+Poços de Caldas,Pouso Alegre,38.85
+Medeiros,Tapiraí,21.05
+Galiléia,Naque,29.15
+Carmo da Mata,Divinópolis,16.2
+Divinolândia de Minas,Ipatinga,38.9
+Monte Alegre de Minas,Uberaba,58.35
+Jequitinhonha,João Monlevade,175.1
+Astolfo Dutra,Belo Horizonte,90.8
+Frei Inocêncio,João Monlevade,74.6
+Carbonita,Datas,51.9
+Bambuí,Belo Horizonte,84.35
+Patrocínio,Serra do Salitre,14.6
+Aiuruoca,Elói Mendes,64.9
+João Monlevade,Resplendor,100.6
+Cambuquira,Lima Duarte,68.15
+Belo Horizonte,Pouso Alegre,124.95
+Gouveia,Minas Novas,81.15
+Conselheiro Pena,João Monlevade,90.9
+Couto de Magalhães de Minas,Turmalina,48.7
+Lassance,Paraopeba,51.95
+Abaeté,Betim,58.45
+Governador Valadares,Pedra Azul,121.8
+Betim,Luz,53.6
+Abadia dos Dourados,Araguari,42.24
+Águas Formosas,Crisólita,6.5
+Belo Horizonte,Carmo do Cajuru,39.0
+Carlos Chagas,Nova Era,123.5
+Janaúba,Joaquim Felício,82.9
+Augusto de Lima,Luislândia,79.65
+Araguari,Patrocínio,50.41
+Curvelo,Engenheiro Navarro,58.55
+Carmo do Paranaíba,Luz,45.55
+Barbacena,Ubá,39.05
+Itaguara,Paraguaçu,74.85
+Itaobim,Nova Era,146.45
+Belo Horizonte,Itabirito,17.9
+Belo Horizonte,Pedra do Indaiá,50.45
+Luz,São Gotardo,32.55
+Belo Horizonte,Córrego Danta,73.25
+Mirabela,Sete Lagoas,113.95
+Iguatama,Pedrinópolis,53.4
+Iguatama,Santa Juliana,53.4
+Belo Horizonte,Jeceaba,37.45
+Três Marias,Urucuia,117.25
+Buenópolis,Engenheiro Navarro,22.8
+Lassance,Várzea da Palma,11.4
+Nova Era,Pedra Azul,174.3
+Curvelo,Joaquim Felício,39.1
+Leopoldina,Muriaé,19.55
+Porto Firme,Rio Pomba,39.1
+Rio Pomba,Santa Bárbara do Tugúrio,16.3
+Itambacuri,Nova Era,83.15
+Capelinha,Senhora do Porto,66.85
+Bandeira do Sul,Paraguaçu,29.35
+Campina Verde,Iturama,29.35
+Caratinga,Fervedouro,39.15
+Areado,Conceição da Aparecida,13.05
+Carmópolis de Minas,Elói Mendes,62.0
+João Monlevade,Mutum,86.5
+Juatuba,Santo Antônio do Monte,42.45
+Lassance,Sete Lagoas,62.05
+Belo Horizonte,Jesuânia,111.05
+Belo Horizonte,Piumhi,73.5
+Divinópolis,Itapecerica,19.6
+Itajubá,Lavras,78.4
+Nepomuceno,Santana da Vargem,9.8
+Barbacena,Tocantins,32.67
+Minduri,São João del Rei,35.95
+Coronel Fabriciano,Medina,140.55
+Araxá,Montes Claros,156.9
+João Monlevade,Ouro Branco,78.45
+Belo Horizonte,Paraguaçu,111.2
+Leopoldina,Santa Bárbara do Leste,67.05
+Belo Horizonte,Brasilândia de Minas,157.0
+Belo Horizonte,Iguatama,73.6
+Juatuba,Luz,47.45
+Belo Horizonte,Durandé,101.45
+João Monlevade,Pedra Azul,183.3
+Campina Verde,Campo Florido,49.1
+Juiz de Fora,São João do Manhuaçu,80.2
+Itabira,Viçosa,88.4
+Belo Horizonte,Tapiraí,78.6
+Campo Florido,Prata,26.2
+Cristiano Otoni,Dores de Campos,26.2
+Belo Horizonte,Naque,80.25
+Betim,Cana Verde,60.6
+Curvelo,São Francisco,113.02
+Ouro Branco,São Gonçalo do Rio Abaixo,68.8
+Belo Horizonte,Lambari,108.12
+Santa Bárbara,Timóteo,49.15
+Governador Valadares,Padre Paraíso,73.75
+Buenópolis,Capitão Enéas,60.65
+Engenheiro Navarro,Montes Claros,22.95
+Caratinga,Nanuque,131.15
+Coluna,Santa Maria de Itabira,70.5
+Água Comprida,Uberaba,14.76
+Monte Alegre de Minas,Santa Vitória,36.1
+Capelinha,São João Evangelista,45.95
+Divinésia,Dores do Turvo,9.85
+Betim,Carmo do Cajuru,29.55
+Cataguases,Congonhas,68.95
+Dores do Indaiá,Juatuba,59.1
+Patrocínio,Uberaba,59.1
+Ituiutaba,Uberaba,83.74
+Alpinópolis,Alterosa,21.35
+Iapu,Nova Era,42.7
+Belo Horizonte,Mateus Leme,11.5
+Campanário,Frei Inocêncio,11.5
+Dores do Indaiá,Pará de Minas,49.3
+Arcos,Belo Horizonte,65.75
+Divinópolis,Pedra do Indaiá,13.15
+Coronel Fabriciano,Itaobim,126.9
+Araguari,Belo Horizonte,179.22
+Corinto,Taiobeiras,144.7
+Medina,Nova Era,159.5
+Lassance,Prudente de Morais,65.8
+Naque,Nova Era,36.2
+Pirapora,Ponto Chique,37.85
+Perdões,São João del Rei,39.5
+Santa Maria de Itabira,São José do Jacuri,59.25
+Brasília de Minas,Curvelo,103.7
+Belo Horizonte,Carbonita,133.36
+São Gotardo,Uberlândia,98.8
+Paraopeba,Pirapora,75.75
+Curral de Dentro,Pedra Azul,28.0
+Nova Era,Rio Casca,28.0
+Formiga,Perdões,29.65
+Belo Horizonte,Leandro Ferreira,49.45
+Gouveia,Turmalina,72.55
+Divinópolis,Uberlândia,148.42
+Brasilândia de Minas,Sete Lagoas,138.55
+Alfredo Vasconcelos,Ressaquinha,3.3
+Bom Despacho,Dores do Indaiá,26.4
+Coronel Murta,Virgem da Lapa,13.2
+Ponte Nova,Viçosa,13.2
+Araxá,Tapira,19.8
+Bambuí,Lagoa da Prata,29.7
+Belo Horizonte,Elói Mendes,103.95
+Cachoeira Dourada,Uberaba,99.0
+Guiricema,Miraí,9.9
+Lagamar,Vazante,9.9
+Santa Rita do Sapucaí,São José do Alegre,9.9
+Frei Inocêncio,Juiz de Fora,158.45
+Belo Horizonte,Formiga,61.07
+Pirapora,Sete Lagoas,85.85
+Coronel Fabriciano,Teófilo Otoni,74.3
+Pará de Minas,Patrocínio,99.12
+Belo Horizonte,Serro,104.08
+Belo Horizonte,São Brás do Suaçuí,33.05
+Belo Horizonte,Jaíba,198.31
+Juiz de Fora,Ouro Branco,61.15
+Patrocínio,Pirapora,99.17
+Carmópolis de Minas,Santana da Vargem,46.3
+Diamantina,Minas Novas,69.45
+Alpercata,Frei Inocêncio,18.2
+Oliveira,São Tiago,16.55
+Curvelo,Luislândia,107.6
+Arinos,Bonfinópolis de Minas,29.8
+Bonfinópolis de Minas,Felixlândia,59.6
+Corinto,Pirapora,44.7
+Divinópolis,Lagoa da Prata,29.8
+Ibiá,Uberaba,59.6
+Caxambu,São João del Rei,56.3
+Comendador Gomes,Uberlândia,49.68
+Araxá,Santa Juliana,26.5
+Pará de Minas,São Gotardo,66.25
+Sete Lagoas,Várzea da Palma,72.9
+Bom Despacho,Juatuba,34.8
+Guimarânia,Patrocínio,8.29
+Curvelo,Pirapora,59.7
+Frei Inocêncio,Itambacuri,19.9
+Augusto de Lima,Capitão Enéas,69.65
+Muriaé,Santa Bárbara do Leste,48.1
+Belo Horizonte,Tocantins,86.25
+Belo Horizonte,Juiz de Fora,84.6
+Coronel Fabriciano,João Monlevade,28.2
+Almenara,Frei Inocêncio,116.15
+Governador Valadares,Itambacuri,26.55
+Abre Campo,Rio Casca,8.3
+Governador Valadares,Jequitinhonha,112.9
+Belo Horizonte,Gouveia,79.7
+Ibiaí,São Francisco,53.15
+Córrego Danta,São Gotardo,29.9
+Itamarandiba,Veredinha,36.55
+Córrego Danta,Dores do Indaiá,21.6
+Bicas,Caratinga,94.75
+Borda da Mata,Inconfidentes,6.65
+Carmo do Paranaíba,Lagoa Formosa,13.3
+Ferros,Santa Maria de Itabira,13.3
+Miradouro,São Francisco do Glória,6.65
+São Gonçalo do Rio Preto,Veredinha,64.85
+Engenheiro Caldas,Muriaé,81.5
+Bonfinópolis de Minas,João Pinheiro,49.9
+Bom Jesus do Galho,São Pedro dos Ferros,18.3
+Três Corações,Varginha,11.65
+Conselheiro Lafaiete,Tocantins,51.6
+Belo Horizonte,Ubá,91.55
+Patrocínio,São Gotardo,49.94
+Belo Horizonte,Itabira,34.96
+Campo Belo,Carmópolis de Minas,36.63
+Brasília de Minas,Corinto,88.25
+Salinas,Sete Lagoas,169.85
+Pará de Minas,Uberlândia,146.57
+Jequitaí,Uberlândia,169.89
+Belo Horizonte,Manhuaçu,99.94
+Carmópolis de Minas,Varginha,56.65
+Bocaiúva,Itamarandiba,66.65
+Ouro Branco,Timóteo,106.65
+Arapuá,Patos de Minas,28.33
+Alagoa,Itamonte,20.0
+Almenara,Mata Verde,20.0
+Araçuaí,Berilo,20.0
+Araçuaí,José Gonçalves de Minas,30.0
+Arapuá,Lagoa Formosa,20.0
+Barão de Cocais,São Gonçalo do Rio Abaixo,10.0
+Barbacena,Bias Fortes,20.0
+Buritis,Felixlândia,180.0
+Canápolis,Centralina,10.0
+Cristiano Otoni,Ressaquinha,10.0
+Espinosa,Mamonas,10.0
+Frei Inocêncio,Governador Valadares,10.0
+Grupiara,Uberlândia,30.0
+Itutinga,Santos Dumont,50.0
+José Gonçalves de Minas,Virgem da Lapa,20.0
+Juatuba,Pará de Minas,10.0
+Lavras,Três Marias,120.0
+Mamonas,Monte Azul,10.0
+Martinho Campos,Pompéu,10.0
+Martinho Campos,Três Marias,60.0
+São Gonçalo do Abaeté,Varjão de Minas,10.0
+Santa Maria de Itabira,São João Evangelista,43.35
+Belo Horizonte,Sabinópolis,85.05
+Alvorada de Minas,Lagoa Santa,60.05
+Itajubá,Três Corações,55.05
+João Monlevade,Medina,168.5
+Bambuí,Nova Serrana,45.05
+Leandro Ferreira,Pitangui,13.35
+Conselheiro Lafaiete,Rio Pomba,43.39
+Juiz de Fora,Santa Bárbara do Leste,101.8
+Capitólio,Monte Belo,50.07
+Belo Horizonte,Passos,105.15
+Bocaiúva,Diamantina,60.1
+Belo Horizonte,Piracema,38.4
+Barbacena,Itutinga,36.75
+Uberaba,Vazante,113.6
+Araçuaí,Coronel Fabriciano,157.05
+Arinos,Unaí,46.8
+Aiuruoca,Varginha,53.5
+Bela Vista de Minas,Belo Horizonte,41.8
+Aiuruoca,Paraguaçu,71.9
+Bicas,Juiz de Fora,15.05
+Engenheiro Navarro,Mirabela,45.15
+Coromandel,Monte Carmelo,17.4
+Arcos,Juatuba,50.2
+Lavras,Piranguinho,75.3
+Itaguara,Santana da Vargem,53.55
+Diamantina,José Gonçalves de Minas,73.65
+Datas,Minas Novas,80.35
+Guarda-Mor,Patrocínio,56.94
+Igarapé,Passa Tempo,30.15
+Boa Esperança,Guapé,20.1
+Frei Gaspar,Ouro Verde de Minas,6.7
+Madre de Deus de Minas,Piedade do Rio Grande,6.7
+Belo Horizonte,Matias Cardoso,217.76
+Alfenas,Caxambu,60.33
+Araguari,Nova Serrana,140.78
+Nova Era,Teófilo Otoni,95.55
+Francisco Sá,Paraopeba,110.65
+Curvelo,Pedro Leopoldo,43.6
+Belo Horizonte,Poços de Caldas,151.08
+Fervedouro,Santa Bárbara do Leste,31.9
+Belo Horizonte,Lagoa Formosa,119.22
+Betim,São Gonçalo do Pará,28.55
+Pedrinópolis,Uberaba,36.95
+Campanha,São Gonçalo do Sapucaí,10.08
+Cruzília,São João del Rei,47.05
+Datas,Sete Lagoas,62.2
+Bicas,Santa Bárbara do Leste,87.45
+Frei Inocêncio,Nova Era,65.6
+Bocaiúva,Januária,70.65
+São José do Alegre,São Lourenço,23.55
+Baependi,São João del Rei,53.85
+Belo Horizonte,Oliveira,53.85
+Araçuaí,Paraopeba,156.55
+Córrego Danta,Luz,10.1
+Nova Era,São Gonçalo do Rio Abaixo,15.15
+Santo Antônio do Amparo,Varginha,40.4
+Itaúna,Pimenta,43.78
+Bocaiúva,Lontra,50.52
+Cruzília,Madre de Deus de Minas,26.95
+Belo Horizonte,Campanário,123.0
+Ipatinga,Padre Paraíso,102.8
+Belo Horizonte,Buritis,235.95
+Lavras,Santa Rita do Sapucaí,64.05
+Senador Modestino Gonçalves,Veredinha,55.65
+Carlos Chagas,João Monlevade,138.3
+Bom Jesus do Galho,Rio Casca,25.3
+Baependi,Madre de Deus de Minas,33.75
+Engenheiro Caldas,Frei Inocêncio,27.0
+Lima Duarte,Três Corações,74.25
+Nova Ponte,Santa Juliana,13.5
+Leopoldina,São João do Manhuaçu,48.95
+Paracatu,Uberaba,141.81
+Belo Horizonte,Ribeirão Vermelho,72.6
+Araçuaí,Sete Lagoas,165.5
+Além Paraíba,Dona Eusébia,30.4
+Belo Horizonte,São João del Rei,60.8
+Coronel Fabriciano,Ouro Branco,108.1
+Buritis,Uberaba,125.07
+Arinos,João Pinheiro,79.45
+Capitão Enéas,Corinto,81.15
+Belo Horizonte,Passa Tempo,45.65
+Argirita,Leopoldina,10.15
+Belo Horizonte,Machado,121.8
+Lavras,Três Corações,30.45
+Leopoldina,Recreio,10.15
+São João Evangelista,São Pedro do Suaçuí,10.15
+Araxá,Pará de Minas,88.02
+Belo Horizonte,Matipó,81.25
+Mariana,Ouro Branco,35.55
+Araxá,Patos de Minas,47.4
+Moema,Uberlândia,123.6
+Coronel Fabriciano,Itinga,140.95
+Itapagipe,Uberaba,61.0
+Boa Esperança,Nepomuceno,16.95
+Guanhães,Santa Maria de Itabira,33.9
+Ipatinga,Nanuque,122.05
+Barão de Cocais,Itabira,20.35
+Curvelo,Janaúba,122.1
+Governador Valadares,Juiz de Fora,145.85
+Paraopeba,São João do Paraíso,193.4
+Conquista,Uberaba,20.36
+Ipanema,Manhuaçu,27.15
+Luz,Uberaba,88.27
+Nanuque,Nova Era,146.0
+Itaguara,Varginha,64.55
+Bocaiúva,Sete Lagoas,91.8
+Carangola,Fervedouro,10.2
+Carangola,Juiz de Fora,81.6
+Guanhães,Virginópolis,10.2
+Lagoa Formosa,Pará de Minas,91.8
+Ponte Nova,Teixeiras,10.2
+Alpinópolis,Passos,15.3
+Augusto de Lima,Buenópolis,8.5
+Boa Esperança,Campo do Meio,17.0
+Bom Despacho,Moema,8.5
+Candeias,Mateus Leme,51.0
+Carmo da Mata,São Tiago,23.8
+Corinto,Joaquim Felício,25.5
+Itaúna,Santo Antônio do Monte,30.6
+João Monlevade,Naque,44.2
+Mirabela,São Francisco,30.6
+Carmópolis de Minas,Poços de Caldas,105.45
+Araújos,Luz,25.52
+Gouveia,Sete Lagoas,57.85
+Araxá,São Gotardo,40.85
+Belo Horizonte,Conceição do Rio Verde,108.95
+Belo Horizonte,Diamantina,98.76
+Paineiras,Pompéu,30.65
+Arinos,Belo Horizonte,212.9
+João Monlevade,Nanuque,155.0
+Araxá,Bambuí,51.12
+Aiuruoca,São João del Rei,61.35
+Alpinópolis,Capitólio,20.45
+Romaria,Uberlândia,20.45
+Machado,Poços de Caldas,30.68
+Araçuaí,Ipatinga,151.75
+Cristina,São José do Alegre,15.35
+Barbacena,Iguatama,102.35
+Bom Despacho,Uberlândia,127.95
+Juatuba,Martinho Campos,40.95
+Juiz de Fora,Ressaquinha,35.85
+Arcos,Betim,56.35
+Galiléia,Nova Era,75.15
+Além Paraíba,Mercês,52.95
+Curvelo,Presidente Kubitschek,41.0
+Itacarambi,Japonvar,41.0
+Matipó,Ponte Nova,30.75
+Nova Ponte,Pedrinópolis,20.5
+Montes Claros,Sete Lagoas,105.95
+Belo Horizonte,Campo Belo,64.95
+Belo Horizonte,Carmo do Paranaíba,111.1
+Águas Formosas,Machacalis,8.55
+Mariana,São Gonçalo do Rio Abaixo,34.2
+Perdigão,Pitangui,17.1
+Pirajuba,Planura,8.55
+Bambuí,Pará de Minas,58.15
+Belo Horizonte,Santo Antônio do Monte,58.15
+Bambuí,São João del Rei,97.5
+Ipatinga,Nova Era,23.95
+Belo Horizonte,Santa Bárbara do Tugúrio,65.01
+Governador Valadares,Periquito,15.4
+Betim,Passa Tempo,35.95
+Pimenta,Piumhi,6.85
+Presidente Olegário,Vazante,27.4
+Belo Horizonte,Rio Paranaíba,95.9
+Caratinga,Laranjal,68.5
+Governador Valadares,Sobrália,18.84
+Belo Horizonte,Bom Despacho,51.4
+Paraopeba,Virgem da Lapa,145.65
+Corinto,Luislândia,94.25
+Belo Horizonte,Riachinho,190.25
+Estrela do Sul,Ibiá,59.99
+Coromandel,Patrocínio,24.0
+Araxá,Ituiutaba,102.9
+Juatuba,Piumhi,60.05
+Pedrinópolis,Uberlândia,41.18
+Belo Horizonte,Corinto,68.66
+Arinos,Sete Lagoas,185.4
+Durandé,Reduto,15.45
+Guimarânia,Patos de Minas,15.45
+Pequeri,Santana do Deserto,10.3
+Laranjal,Santa Bárbara do Leste,60.1
+Galiléia,João Monlevade,84.15
+Areado,Perdões,77.3
+Carmópolis de Minas,São Joaquim de Bicas,24.05
+Barão de Cocais,Ouro Branco,61.85
+Espinosa,Paraopeba,180.45
+Belo Horizonte,Pratápolis,122.05
+Frutal,Uberlândia,61.89
+Além Paraíba,Rio Pomba,44.7
+Datas,Paraopeba,53.3
+Carmo da Cachoeira,Pouso Alegre,48.15
+Curvelo,Porteirinha,134.15
+Curvelo,Serro,51.6
+Betim,Formiga,51.62
+Prata,Uberaba,51.62
+Laranjal,Miradouro,20.65
+Presidente Olegário,Unaí,82.6
+Uberaba,Uberlândia,34.42
+Carmo da Cachoeira,Varginha,24.1
+Juatuba,Pitangui,24.1
+Espinosa,Sete Lagoas,189.4
+Presidente Juscelino,Sete Lagoas,43.05
+Juatuba,São Gonçalo do Pará,22.4
+Diamantina,Sete Lagoas,68.95
+Alterosa,Capitólio,41.4
+Iguatama,Lagoa da Prata,17.25
+Felício dos Santos,São Gonçalo do Rio Preto,6.9
+João Monlevade,São Gonçalo do Rio Abaixo,6.9
+Morada Nova de Minas,Paraopeba,55.2
+Viçosa,Visconde do Rio Branco,13.8
+Juatuba,Pimenta,53.5
+Barbacena,Santa Bárbara do Tugúrio,10.36
+Araxá,Oliveira,107.07
+Itacarambi,Lontra,38.0
+Ipatinga,Ponto dos Volantes,115.75
+Belo Horizonte,Nova Ponte,153.8
+Engenheiro Navarro,Paraopeba,72.6
+Araújos,Dores do Indaiá,36.31
+Itapecerica,Itaúna,29.4
+Muriaé,São João do Manhuaçu,29.4
+Pará de Minas,Patos de Minas,98.6
+Conceição das Alagoas,Frutal,25.95
+Coronel Fabriciano,Nova Era,17.3
+Nova Serrana,Uberaba,114.22
+Paraopeba,Pompéu,22.5
+Governador Valadares,Ponto dos Volantes,78.94
+Entre Rios de Minas,Prados,19.05
+Belo Horizonte,Muriaé,107.4
+Nova Serrana,Tapiraí,39.85
+Belo Horizonte,Pompéu,55.45
+Belo Horizonte,Lassance,86.65
+Joaquim Felício,Sete Lagoas,67.6
+Coronel Fabriciano,Periquito,20.8
+Governador Valadares,Naque,20.8
+Juiz de Fora,Leopoldina,31.2
+Patos de Minas,Serra do Salitre,26.0
+Congonhas,Leopoldina,76.3
+Belo Horizonte,Itinga,204.65
+Patos de Minas,Pirapora,81.57
+Betim,Santo Antônio do Monte,48.6
+Passos,Piumhi,24.3
+Campina Verde,Uberlândia,52.08
+Coronel Fabriciano,Itambacuri,67.75
+Janaúba,Paraopeba,135.5
+Montes Claros,Patos de Minas,135.55
+Almenara,Catuji,52.15
+Campestre,Machado,15.65
+Divinópolis,Três Marias,80.0
+Iraí de Minas,Patos de Minas,40.0
+Belo Horizonte,Carmo da Cachoeira,81.75
+Uberaba,Varjão de Minas,125.28
+Janaúba,Sete Lagoas,144.45
+Belo Horizonte,Mato Verde,201.9
+Belo Horizonte,Pirapora,113.14
+Capitólio,Mateus Leme,63.71
+Belo Horizonte,Nova Serrana,38.3
+Capitão Enéas,Joaquim Felício,57.45
+Engenheiro Navarro,Januária,78.35
+Cristiano Otoni,Tiradentes,31.35
+Iapu,Ubaporanga,10.45
+Areado,Capitólio,45.3
+Ouro Branco,Santa Bárbara,57.5
+Belo Horizonte,Cristiano Otoni,36.6
+Pará de Minas,Uberaba,125.52
+Capitão Enéas,Paraopeba,115.15
+Belo Horizonte,Capitão Enéas,150.05
+Nova Serrana,Patos de Minas,87.25
+Capitólio,Formiga,26.88
+Campos Altos,Luz,20.95
+Carmópolis de Minas,Igarapé,22.7
+Bom Sucesso,Igarapé,47.15
+Curvelo,Salinas,146.7
+Gouveia,Paraopeba,48.9
+Porteirinha,Sete Lagoas,155.45
+Barbacena,Paiva,15.72
+Montes Claros,Paraopeba,94.35
+Capitão Enéas,Sete Lagoas,124.1
+Luz,Perdizes,50.0
+Santa Maria de Itabira,São Pedro do Suaçuí,55.95
+Augusto de Lima,Joaquim Felício,14.0
+Bom Despacho,Divinópolis,24.5
+Buenópolis,Sete Lagoas,63.0
+Capinópolis,Uberaba,91.0
+Francisco Sá,Salinas,42.0
+Ipatinga,Naque,12.25
+Itamarandiba,Senador Modestino Gonçalves,19.25
+Ituiutaba,Monte Alegre de Minas,21.0
+Janaúba,Matias Cardoso,35.0
+Japonvar,Lontra,3.5
+Lagoa da Prata,Moema,8.75
+Paraopeba,Unaí,126.0
+Patos de Minas,Patrocínio,21.0
+Belo Horizonte,Urucuia,201.35
+Juiz de Fora,Orizânia,84.05
+Corinto,Salinas,133.1
+Curvelo,Januária,136.65
+Ipatinga,Itinga,135.25
+Carlos Chagas,Periquito,89.35
+Barbacena,Uberlândia,220.87
+Divinópolis,Luz,38.57
+Nova Serrana,Santa Juliana,101.72
+Passos,Pimenta,36.83
+Belo Horizonte,Pimenta,71.92
+Betim,Itaguara,21.05
+João Pinheiro,Riachinho,63.15
+Ubá,Viçosa,21.05
+Pará de Minas,Rio Paranaíba,80.7
+Engenheiro Navarro,Lontra,59.65
+Corinto,Paraopeba,36.85
+Abre Campo,Urucânia,15.8
+Belo Horizonte,São Gonçalo do Abaeté,122.9
+Curvelo,Mirabela,103.6
+Belo Horizonte,Carlos Chagas,173.85
+Araguari,Monte Carmelo,31.61
+Itabirito,Ubá,70.25
+Leopoldina,Rio Pomba,28.1
+Catuji,Francisco Sá,137.0
+Patrocínio,Varjão de Minas,40.4
+Capitólio,Juatuba,67.1
+Carmo da Mata,Itapecerica,12.65
+Coromandel,Romaria,24.6
+Guarda-Mor,Nova Ponte,87.89
+Barbacena,Leopoldina,52.75
+Cabeceira Grande,Unaí,21.1
+Além Paraíba,Piraúba,38.7
+Belo Horizonte,São Gonçalo do Rio Abaixo,28.15
+Araújos,Divinópolis,17.6
+Ituiutaba,Uberlândia,42.25
+Carmo da Mata,Formiga,33.45
+Campina Verde,Uberaba,73.96
+Pirapora,Uberlândia,147.93
+Capitólio,Itaúna,57.42
+Paracatu,Presidente Olegário,38.75
+Ponto Chique,São Francisco,38.75
+Caratinga,Leopoldina,74.0
+Augusto de Lima,Salinas,121.6
+Elói Mendes,Paraguaçu,7.05
+Curvelo,Lontra,118.1
+Campanário,Engenheiro Caldas,40.55
+Nova Ponte,Patrocínio,31.74
+Belo Horizonte,Ituiutaba,216.95
+Alpercata,Campanário,31.75
+Belo Horizonte,Congonhas,24.7
+Campo Belo,Itaguara,35.3
+Carmo da Cachoeira,Lavras,17.65
+Betim,Carmópolis de Minas,28.25
+Riachinho,Sete Lagoas,169.5
+Indaiabira,Paraopeba,183.65
+Coronel Fabriciano,São Gonçalo do Rio Abaixo,38.85
+Cristiano Otoni,Piraúba,44.15
+Diamantina,Paraopeba,60.05
+Boa Esperança,Coqueiral,10.6
+Borda da Mata,Ouro Fino,10.6
+Buenópolis,Salinas,113.1
+Igarapé,Santo Antônio do Amparo,40.65
+Conselheiro Lafaiete,Leopoldina,70.7
+Belo Horizonte,Santana da Vargem,84.9
+Augusto de Lima,Januária,109.7
+Congonhas,Muriaé,95.55
+Engenheiro Navarro,Sete Lagoas,84.95
+Belo Horizonte,Carmo da Mata,53.1
+Belo Horizonte,São Lourenço,127.45
+Monte Azul,Paraopeba,169.95
+Mato Verde,Paraopeba,161.1
+Sete Lagoas,Urucuia,180.6
+Belo Horizonte,São Gonçalo do Rio Preto,113.32
+Divino das Laranjeiras,Governador Valadares,21.25
+Ipatinga,Ubaporanga,21.25
+Mato Verde,Sete Lagoas,170.0
+Paracatu,Paraopeba,122.25
+Campestre,Paraguaçu,24.83
+Belo Horizonte,Divinópolis,37.25
+Governador Valadares,Itinga,113.55
+Barbacena,Madre de Deus de Minas,31.95
+Belo Oriente,Governador Valadares,28.4
+Fervedouro,Miradouro,7.1
+Bom Jardim de Minas,Olaria,10.65
+Cachoeira da Prata,Maravilhas,10.65
+Onça de Pitangui,Pará de Minas,10.65
+Estrela do Sul,Uberlândia,35.53
+Juatuba,Nova Serrana,23.1
+Campina Verde,Ituiutaba,32.0
+Januária,Mirabela,32.0
+Nova Serrana,Pará de Minas,12.45
+Belo Horizonte,Várzea da Palma,99.63
+Bambuí,Campos Altos,21.35
+Capitólio,Cássia,37.37
+Belo Horizonte,Nepomuceno,74.75
+Carmo da Mata,Cláudio,8.9
+Guaxupé,Juiz de Fora,128.19
+Betim,Bom Despacho,40.95
+Lavras,Santos Dumont,64.1
+Martinho Campos,Paraopeba,32.05
+Bom Jesus do Galho,Raul Soares,14.25
+Luislândia,Uberlândia,114.01
+João Monlevade,Teófilo Otoni,101.55
+Ibiaí,Pirapora,24.95
+Arcos,Barbacena,96.25
+Belo Horizonte,Couto de Magalhães de Minas,106.95
+Barbacena,Luz,110.55
+Leopoldina,Piraúba,21.4
+Aiuruoca,Caxambu,16.05
+Betim,Pará de Minas,16.05
+Coronel Fabriciano,Naque,16.05
+Belo Horizonte,Bonfinópolis de Minas,183.75
+João Pinheiro,Presidente Olegário,39.25
+Augusto de Lima,Lontra,91.0
+Arcos,Divinópolis,28.55
+Barbacena,Candeias,74.95
+Coronel Fabriciano,Padre Paraíso,107.1
+Pedralva,Santa Rita do Sapucaí,14.28
+Itapecerica,Mateus Leme,35.7
+Nova Serrana,Oliveira,35.7
+Governador Valadares,Medina,107.15
+Capelinha,Couto de Magalhães de Minas,57.15
+Capitólio,Pimenta,14.29
+Belo Horizonte,Santos Dumont,71.45
+Coqueiral,Lavras,19.65
+Itaguara,Oliveira,19.65
+Betim,Santo Antônio do Amparo,46.45
+Curvelo,Leme do Prado,107.25
+Central de Minas,São João do Manteninha,7.15
+Mantena,São João do Manteninha,7.15
+Itapagipe,Iturama,30.4
+Paraopeba,Salinas,160.95
+Corinto,Januária,121.65
+Ibiá,Luz,37.57
+Morada Nova de Minas,Sete Lagoas,69.85
+Belo Horizonte,Conselheiro Lafaiete,30.45
+Belo Horizonte,Campanha,103.9
+Comendador Gomes,Prata,21.5
+Francisco Sá,Padre Paraíso,129.0
+Curvelo,Pedras de Maria da Cruz,130.8
+Augusto de Lima,Curvelo,25.1
+Abaeté,Sete Lagoas,53.79
+Lima Duarte,Minduri,41.25
+Januária,Sete Lagoas,159.8
+Bambuí,Barbacena,114.95
+Januária,Paraopeba,150.9
+Juatuba,Perdigão,30.55
+Governador Valadares,João Monlevade,64.7
+Belo Horizonte,Santana do Riacho,34.15
+Belo Horizonte,Moema,53.95
+Botumirim,Grão Mogol,18.0
+Itaguara,Passa Tempo,14.4
+Japonvar,Mirabela,9.0
+Lagoa da Prata,Santo Antônio do Monte,9.0
+Santa Bárbara do Leste,Santa Rita de Minas,3.6
+Divinópolis,Itaúna,10.8
+João Monlevade,Tombos,79.25
+Campo Belo,Igarapé,50.45
+Betim,Nova Serrana,28.85
+Bonfinópolis de Minas,Unaí,64.92
+João Pinheiro,Sete Lagoas,108.2
+Nova Ponte,Patos de Minas,54.1
+Serra do Salitre,Uberaba,58.44
+Manhumirim,Matipó,23.45
+Curvelo,Turmalina,102.85
+Lavras,Santa Juliana,122.0
+Coronel Fabriciano,Governador Valadares,36.1
+Igarapé,Perdões,50.55
+Diamantina,Veredinha,83.05
+Divinópolis,Mateus Leme,16.25
+Ituiutaba,Luz,151.67
+Barbacena,Laranjal,61.4
+Corinto,Lontra,102.95
+Pará de Minas,Pitangui,14.45
+Betim,Campo Belo,56.0
+Datas,Veredinha,93.95
+Buenópolis,Januária,101.2
+Belo Horizonte,Varginha,99.4
+Dores do Indaiá,Nova Serrana,36.15
+Estrela do Sul,Nova Serrana,121.15
+Barbacena,Belo Horizonte,54.25
+Belo Horizonte,Lavras,75.95
+Engenheiro Navarro,Pedras de Maria da Cruz,72.35
+Campanário,Itaobim,67.4
+Carangola,João Monlevade,74.3
+Barbacena,Formiga,87.0
+Lontra,Mirabela,14.5
+Araxá,João Monlevade,163.15
+Moema,Pará de Minas,27.2
+Belo Horizonte,Três Marias,87.05
+Araxá,Nova Ponte,39.9
+Joaquim Felício,Paraopeba,59.85
+Araguari,Paracatu,108.85
+Conselheiro Lafaiete,Juiz de Fora,50.8
+Curvelo,Perdões,123.39
+Ibertioga,Madre de Deus de Minas,18.15
+Belo Horizonte,Ponto dos Volantes,183.75
+Barbacena,Uberaba,203.37
+Abre Campo,João Monlevade,32.7
+Francisco Sá,Itaobim,109.0
+Guapé,Ilicínea,10.9
+Lagoa Formosa,Luz,54.5
+Betim,Perdões,56.35
+Coromandel,Iraí de Minas,40.0
+Belo Horizonte,Capitólio,86.56
+Betim,Carmo da Mata,43.65
+Governador Valadares,Mantena,43.65
+Carmópolis de Minas,São Tiago,23.65
+Lavras,Pedrinópolis,130.3
+Buritis,Formoso,36.4
+Engenheiro Navarro,Joaquim Felício,18.2
+Guarda-Mor,Iraí de Minas,76.44
+Barbacena,Cana Verde,58.25
+Belo Horizonte,Carandaí,43.7
+Patrocínio,Santa Juliana,32.79
+Campanário,Ponto dos Volantes,60.5
+Engenheiro Caldas,Ponto dos Volantes,97.0
+Dom Cavati,Ponto dos Volantes,107.95
+Belo Horizonte,Uberaba,153.25
+Araxá,Nova Serrana,76.72
+Belo Horizonte,Bom Sucesso,65.8
+Conceição das Alagoas,Planura,16.45
+João Pinheiro,Paracatu,32.9
+Buritis,Três Marias,153.55
+Belo Horizonte,Cambuquira,98.8
+Augusto de Lima,Pedras de Maria da Cruz,104.3
+Santa Rita do Sapucaí,São Lourenço,36.6
+Itambacuri,Ponto dos Volantes,53.85
+Paraopeba,Porteirinha,146.55
+Brasilândia de Minas,João Pinheiro,27.5
+Buenópolis,Lontra,82.5
+Careaçu,Pouso Alegre,11.0
+Espinosa,Monte Azul,11.0
+Itaú de Minas,São Sebastião do Paraíso,11.0
+Juiz de Fora,São Geraldo,44.0
+Nova Era,Viçosa,55.0
+Patos de Minas,São Gotardo,38.5
+Santos Dumont,São João del Rei,33.0
+Belo Horizonte,Carmópolis de Minas,36.69
+Pedras de Maria da Cruz,Sete Lagoas,154.1
+Betim,Perdigão,36.7
+Corinto,Pedras de Maria da Cruz,115.65
+Ipatinga,Teófilo Otoni,71.6
+Barbacena,Lavras,51.45
+Barbacena,Nova Serrana,88.2
+Belo Horizonte,Catas Altas da Noruega,44.1
+Carmo de Minas,Cristina,7.35
+Paraopeba,Pedras de Maria da Cruz,145.2
+Araxá,João Pinheiro,110.28
+Além Paraíba,Cristiano Otoni,80.9
+Inhapim,Ipatinga,18.4
+Belo Horizonte,Engenheiro Navarro,110.43
+Belo Horizonte,Três Corações,92.05
+Catas Altas,Ouro Branco,53.4
+Japonvar,Paraopeba,139.95
+Martinho Campos,Pará de Minas,33.15
+Barbacena,Bom Despacho,99.45
+Buenópolis,Paraopeba,55.25
+João Pinheiro,Três Marias,44.2
+Patos de Minas,Varjão de Minas,22.1
+Belo Horizonte,Martins Soares,105.0
+Belo Horizonte,Ressaquinha,47.9
+Uberlândia,Varjão de Minas,88.46
+Coroaci,Virgolândia,14.75
+Curvelo,Lassance,33.2
+Itabirito,Matipó,66.4
+Lontra,Sete Lagoas,142.05
+Governador Valadares,Sardoá,22.15
+Felixlândia,Sete Lagoas,33.25
+Martinho Campos,Sete Lagoas,44.35
+Lontra,Paraopeba,133.15
+Betim,Bom Sucesso,55.5
+Conceição de Ipanema,Ipanema,7.4
+Frutal,Planura,11.1
+Guanhães,Materlândia,16.65
+Guanhães,São João Evangelista,11.1
+Januária,Lontra,18.5
+Juatuba,São José da Varginha,18.5
+Mirabela,Montes Claros,22.2
+Riachinho,Urucuia,11.1
+Ituiutaba,Nova Serrana,177.62
+Luz,Uberlândia,109.27
+Buenópolis,Montes Claros,44.45
+Barbacena,Campos Altos,133.4
+Monsenhor Paulo,Varginha,22.25
+Além Paraíba,Congonhas,92.75
+Belo Horizonte,Luz,63.07
+Augusto de Lima,Engenheiro Navarro,31.55
+Barbacena,Santos Dumont,14.85
+Belo Horizonte,Morada Nova de Minas,89.1
+Leopoldina,Maripá de Minas,14.85
+Divinópolis,São Tiago,40.85
+Belo Horizonte,Teófilo Otoni,130.0
+Belo Horizonte,Bocaiúva,118.96
+Cristiano Otoni,Muriaé,83.65
+Além Paraíba,Leopoldina,18.6
+Barbacena,Campo Belo,67.0
+Governador Valadares,Nova Era,55.85
+Bambuí,Tapiraí,7.45
+Carmo da Mata,Itaguara,22.35
+Conceição das Alagoas,Uberaba,22.35
+Pirajuba,Uberaba,37.25
+Nova Ponte,Uberlândia,24.22
+Estrela do Sul,Pará de Minas,124.89
+Araxá,Belo Horizonte,111.85
+São Gotardo,Uberaba,78.35
+Poços de Caldas,Varginha,52.25
+Araçaí,Paraopeba,5.6
+Buenópolis,Curvelo,33.6
+Buenópolis,Pedras de Maria da Cruz,95.2
+Inhaúma,Maravilhas,16.8
+Coromandel,Perdizes,44.82
+Curvelo,Sete Lagoas,31.75
+Conceição do Pará,Juatuba,26.15
+Belo Horizonte,Paraopeba,29.9
+Bom Despacho,Patrocínio,49.0
+Abre Campo,Ponte Nova,22.45
+Guarda-Mor,Lagamar,22.45
+Campos Altos,São João del Rei,116.0
+São João del Rei,Uberaba,187.11
+Carmo da Mata,São Joaquim de Bicas,39.3
+Belo Horizonte,Paracatu,163.0
+Campanário,Itambacuri,7.5
+Capitólio,Piumhi,7.5
+Córrego Danta,Perdizes,72.0
+Córrego Danta,Santa Juliana,72.0
+Januária,Japonvar,22.5
+Laranjal,Muriaé,11.25
+Santos Dumont,Tiradentes,30.0
+Caratinga,Itaobim,130.25
+Curvelo,Gouveia,30.05
+Nova Serrana,Uberlândia,135.27
+Araxá,Luz,50.77
+Belo Horizonte,Estrela do Sul,159.9
+Carbonita,Itamarandiba,15.05
+Buritis,Paraopeba,195.7
+Belo Horizonte,Presidente Juscelino,71.51
+Igaratinga,São Gonçalo do Pará,11.3
+Araxá,Juiz de Fora,192.22
+Fervedouro,São João do Manhuaçu,13.2
+Alfredo Vasconcelos,Belo Horizonte,54.7
+Belo Horizonte,Buenópolis,88.66
+Araguari,Coromandel,52.85
+Lavras,Perdizes,131.42
+Coimbra,Rio Pomba,24.55
+Boa Esperança,Passos,48.35
+Córrego Danta,Santa Rosa da Serra,26.45
+Lavras,São Gonçalo do Sapucaí,41.59
+Itaguara,São Tiago,30.25
+Barbacena,Nova Ponte,198.52
+Divinópolis,Santo Antônio do Monte,20.8
+Carmo da Cachoeira,Santo Antônio do Amparo,22.7
+Curvelo,Montes Claros,79.45
+Além Paraíba,Conselheiro Lafaiete,87.05
+Caratinga,Ponto dos Volantes,123.4
+Abadia dos Dourados,Coromandel,10.6
+Carmo da Cachoeira,Três Corações,13.25
+Pará de Minas,Tapiraí,53.0
+Coromandel,Pedrinópolis,56.79
+Augusto de Lima,Sete Lagoas,54.9
+Itabirito,São Geraldo,60.6
+Felixlândia,Paracatu,102.35
+Belo Horizonte,Itaúna,24.65
+Itaobim,Ubaporanga,124.05
+Barbacena,Perdões,56.95
+Barroso,Cristiano Otoni,22.8
+Boa Esperança,Santana da Vargem,7.6
+Carmópolis de Minas,Passa Tempo,7.6
+Iapu,Inhapim,7.6
+Ibertioga,Piedade do Rio Grande,11.4
+Manhuaçu,Manhumirim,11.4
+Pedrinópolis,Perdizes,11.41
+Ponto dos Volantes,Ubaporanga,117.15
+Elói Mendes,Poços de Caldas,45.65
+Divinópolis,São Sebastião do Paraíso,85.65
+Ouro Branco,Santos Dumont,47.61
+São Gonçalo do Rio Abaixo,Timóteo,36.25
+Belo Horizonte,Perdões,66.79
+Mirabela,Patis,11.45
+Augusto de Lima,Belo Horizonte,80.15
+Ipatinga,Visconde do Rio Branco,95.45
+Almenara,Ponto dos Volantes,37.8
+Araguari,Pará de Minas,147.08
+Belo Horizonte,Periquito,80.25
+Belo Horizonte,Coronel Fabriciano,64.2
+Oliveira,São João del Rei,34.4
+Coronel Fabriciano,Ponto dos Volantes,121.6
+Carmo da Mata,Ribeirão Vermelho,30.6
+Três Marias,Unaí,103.3
+Almenara,Padre Paraíso,46.0
+Araçuaí,Virgem da Lapa,11.5
+Bom Despacho,Nova Serrana,11.5
+Córrego Danta,Nova Serrana,34.5
+João Pinheiro,Paraopeba,92.1
+Argirita,Guarará,9.6
+Felixlândia,Riachinho,132.55
+Belo Horizonte,Joaquim Felício,94.15
+Ibertioga,São Vicente de Minas,26.9
+Nova Ponte,Perdizes,26.9
+Belo Horizonte,Patos de Minas,126.85
+Betim,Cláudio,34.6
+Abadia dos Dourados,Guarda-Mor,25.0
+Coromandel,Guarda-Mor,25.0
+Luz,Patrocínio,55.0
+Divinópolis,Pimenta,34.63
+Abaeté,Pompéu,19.25
+Iraí de Minas,Patrocínio,19.25
+Itabira,São Gonçalo do Rio Abaixo,11.55
+Bocaiúva,Japonvar,52.0
+Congonhas,Ubá,59.75
+Belo Horizonte,Santo Antônio do Amparo,57.84
+Iturama,Uberlândia,81.0
+Nova Serrana,São Gotardo,57.9
+Ipaba,Itaobim,115.9
+Curvelo,Paraopeba,21.25
+Francisco Sá,Medina,97.0
+Pirapora,Varjão de Minas,57.97
+Argirita,Bicas,11.6
+Janaúba,Porteirinha,11.6
+Aiuruoca,Cambuquira,36.75
+Araxá,Uberaba,38.7
+Ituiutaba,Santa Juliana,81.29
+Araxá,São João del Rei,147.12
+Coromandel,Vazante,34.85
+Açucena,Belo Oriente,7.75
+Porteirinha,Serranópolis de Minas,15.5
+Augusto de Lima,Montes Claros,54.3
+Rio Paranaíba,Serra do Salitre,23.28
+João Monlevade,Matipó,42.7
+Paracatu,Unaí,31.07
+Inimutaba,Turmalina,122.35
+Mirabela,Pedras de Maria da Cruz,27.2
+Araxá,Barbacena,163.22
+Couto de Magalhães de Minas,Veredinha,70.0
+Patos de Minas,Uberlândia,70.1
+Aiuruoca,Três Corações,42.85
+Brasilândia de Minas,Felixlândia,101.3
+Betim,Juatuba,5.85
+Tocantins,Viçosa,23.4
+Coromandel,Paracatu,57.35
+Paraopeba,Riachinho,152.2
+Capitólio,Passos,23.44
+Guapé,Passos,37.9
+Carmo do Paranaíba,Patos de Minas,21.5
+Guaxupé,Varginha,70.38
+Curvelo,Francisco Sá,93.85
+Betim,Itaúna,15.65
+Abaeté,Bom Despacho,25.44
+Belo Horizonte,São Gotardo,95.9
+Araguari,Guarda-Mor,82.23
+Abaeté,Martinho Campos,9.79
+Bocaiúva,Pedras de Maria da Cruz,64.65
+Divinópolis,Juatuba,21.55
+Lavras,São João del Rei,31.35
+Felixlândia,Unaí,129.45
+Felixlândia,João Pinheiro,70.7
+Tupaciguara,Uberaba,47.15
+Fervedouro,Manhuaçu,23.59
+Rio Paranaíba,São Gotardo,11.8
+São Domingos do Prata,Viçosa,49.2
+Fervedouro,João Monlevade,67.7
+Divinópolis,Itaú de Minas,74.91
+Carmo da Mata,Igarapé,37.85
+Araguari,Estrela do Sul,21.7
+Aimorés,Resplendor,11.85
+Dores do Indaiá,Luz,11.85
+Carmópolis de Minas,Itaguara,7.9
+Araxá,Bom Despacho,67.17
+Almenara,Itaobim,32.4
+Cristina,Pedralva,11.88
+Perdizes,Uberlândia,47.53
+Ouro Preto,Ponte Nova,25.75
+Curvelo,Presidente Juscelino,15.85
+Formiga,Juatuba,41.63
+Carmo da Mata,São João del Rei,41.65
+Betim,Divinópolis,27.8
+Bocaiúva,Paraopeba,79.45
+Andrelândia,Barbacena,47.7
+Cachoeira Dourada,Capinópolis,7.95
+Campanário,Governador Valadares,23.85
+Bonfinópolis de Minas,Três Marias,83.5
+Bambuí,Pedrinópolis,68.0
+Bambuí,Santa Juliana,68.0
+Campo Florido,Uberaba,23.86
+Campina Verde,Prata,23.88
+Formiga,Itaúna,31.84
+Divino,João Monlevade,65.7
+Oliveira,Santa Juliana,88.0
+Governador Valadares,São João do Manteninha,35.85
+Bocaiúva,Guaraciama,8.0
+Conselheiro Lafaiete,Lamim,16.0
+Gonzaga,Santa Efigênia de Minas,3.2
+Iraí de Minas,Nova Ponte,12.0
+João Pinheiro,Unaí,60.0
+Lontra,Pedras de Maria da Cruz,12.0
+Machado,Paraguaçu,10.0
+Patrocínio,Pedrinópolis,30.0
+Belo Horizonte,Timóteo,64.05
+Curvelo,Diamantina,42.15
+Capitão Andrade,Governador Valadares,12.05
+Alfenas,Paraguaçu,10.05
+Buenópolis,Japonvar,82.5
+Desterro de Entre Rios,São Brás do Suaçuí,16.1
+Joaquim Felício,Montes Claros,40.3
+Itaobim,Medina,12.9
+Carandaí,Conselheiro Lafaiete,12.1
+Araxá,Uberlândia,60.55
+Paraopeba,Sete Lagoas,10.1
+Divino,Muriaé,24.25
+Bambuí,Perdizes,67.92
+Corinto,Lassance,18.2
+Brasilândia de Minas,Paraopeba,121.45
+Nova Ponte,Uberaba,28.35
+Prados,São Brás do Suaçuí,24.3
+Presidente Juscelino,Turmalina,111.4
+Belo Horizonte,Caxambu,121.55
+Belo Horizonte,Pará de Minas,24.37
+Ibiá,Patrocínio,30.47
+Teixeiras,Ubá,24.4
+Nova Era,Ubá,77.3
+Corinto,Montes Claros,65.15
+São João del Rei,Uberlândia,224.01
+Araxá,Pedrinópolis,24.45
+Conceição do Pará,Leandro Ferreira,8.15
+Ilicínea,Santana da Vargem,16.3
+Moema,Nova Serrana,16.3
+Abadia dos Dourados,Paracatu,64.45
+Pirapora,Porteirinha,106.06
+Divinópolis,Pratápolis,81.6
+Capitólio,Divinópolis,48.97
+Abaeté,Paraopeba,40.85
+Luz,Patos de Minas,61.3
+Buritis,Unaí,49.17
+Conselheiro Lafaiete,Ressaquinha,16.4
+Itaobim,Jequitinhonha,18.45
+Itapagipe,São Francisco de Sales,14.35
+Belo Horizonte,Frei Inocêncio,106.65
+Central de Minas,Governador Valadares,28.75
+Coromandel,Nova Ponte,55.45
+Belo Horizonte,Itambacuri,131.45
+Belo Horizonte,Perdigão,49.31
+Belo Horizonte,Leopoldina,107.05
+Espinosa,Porteirinha,35.0
+Itaúna,Juatuba,10.3
+Conceição do Pará,Pará de Minas,16.5
+Japonvar,Pedras de Maria da Cruz,16.5
+Paracatu,Patrocínio,82.16
+Belo Horizonte,São Gonçalo do Pará,41.3
+Arapuá,Rio Paranaíba,12.4
+Coromandel,Uberaba,86.8
+Riachinho,Três Marias,105.45
+Cláudio,São Joaquim de Bicas,28.95
+Caxambu,Guaxupé,91.17
+Belo Horizonte,Patrocínio,130.57
+Divinópolis,Formiga,20.8
+Ibiá,Pará de Minas,70.81
+Bom Sucesso,Carmópolis de Minas,25.0
+Bom Sucesso,Itaguara,31.25
+Campos Altos,Uberaba,68.75
+Coração de Jesus,Montes Claros,25.0
+Francisco Badaró,Teófilo Otoni,100.0
+Pintópolis,Urucuia,25.0
+Juiz de Fora,Santa Juliana,219.4
+Campos Altos,Uberlândia,106.38
+Eugenópolis,Patrocínio do Muriaé,8.35
+Martinho Campos,Onça de Pitangui,25.05
+João Monlevade,Juiz de Fora,137.85
+Araxá,Ibiá,21.0
+Carmo do Cajuru,Itaúna,12.6
+Iraí de Minas,Monte Carmelo,12.6
+Martinho Campos,Nova Serrana,29.4
+Bom Jesus da Penha,São Pedro da União,8.4
+Guapé,São José da Barra,26.6
+Lagoa Formosa,Patos de Minas,8.45
+Iraí de Minas,Paracatu,101.45
+Divino,Durandé,38.05
+João Pinheiro,Pirapora,38.09
+Bocaiúva,Joaquim Felício,25.4
+Campos Altos,Córrego Danta,19.05
+Belo Horizonte,Santa Juliana,133.5
+São Domingos do Prata,Ubá,72.05
+Belo Horizonte,Juatuba,14.85
+Belo Horizonte,Cataguases,98.0
+Paracatu,Três Marias,76.8
+Guarda-Mor,Paracatu,25.61
+Belo Horizonte,Curvelo,55.51
+Paraopeba,Três Marias,51.25
+Conselheiro Lafaiete,Ubá,55.55
+Engenheiro Caldas,Tarumirim,8.55
+Matipó,Rio Casca,17.1
+Paraguaçu,Varginha,12.85
+Santa Bárbara,São Gonçalo do Rio Abaixo,12.85
+Belo Horizonte,Perdizes,135.0
+Pará de Minas,São José da Varginha,8.6
+Ibiá,Monte Carmelo,55.98
+Paracatu,Perdizes,110.0
+Carmo da Mata,Santo Antônio do Amparo,19.85
+Andrelândia,Lima Duarte,28.05
+Bom Despacho,Pará de Minas,25.9
+Divinópolis,Santa Juliana,119.0
+Belo Oriente,Periquito,13.0
+Belo Horizonte,Governador Valadares,102.14
+Araxá,Perdizes,17.4
+Belo Oriente,Naque,8.7
+Felixlândia,Urucuia,143.65
+Abaeté,Juatuba,52.3
+Ituiutaba,Perdizes,215.0
+Augusto de Lima,Paraopeba,46.0
+Bocaiúva,Curvelo,65.75
+Luz,Pará de Minas,35.24
+Coluna,Virginópolis,44.1
+Augusto de Lima,Corinto,11.05
+Rio Casca,Urucânia,8.85
+Estrela do Sul,Monte Carmelo,11.07
+Martinho Campos,Pitangui,19.94
+Itaguara,Perdões,35.46
+Buenópolis,Corinto,20.0
+Espinosa,Mato Verde,20.0
+Alfenas,Machado,13.38
+Janaúba,Pirapora,103.98
+Aiuruoca,Baependi,13.45
+Monte Carmelo,Patrocínio,27.0
+Passos,São José da Barra,11.25
+São Gonçalo do Sapucaí,Três Corações,18.0
+Araxá,Campos Altos,31.55
+Felixlândia,Três Marias,27.05
+Mariana,Piranga,27.1
+Carmo da Mata,Perdões,27.2
+Campanha,Lambari,11.37
+Cláudio,Igarapé,27.3
+Diamantina,Olhos-d'Água,45.6
+Bocaiúva,Corinto,50.3
+João Monlevade,Rio Casca,27.45
+Medina,Salinas,55.0
+Araxá,Pirapora,127.12
+Carmo da Mata,Ritápolis,34.55
+Itaobim,Salinas,67.9
+Patrocínio,Perdizes,20.81
+Barbacena,Santana do Garambéu,27.75
+Felixlândia,Paraopeba,27.85
+Coimbra,Ubá,13.95
+Biquinhas,Morada Nova de Minas,9.3
+Santa Juliana,Uberlândia,36.28
+Belo Horizonte,Ouro Branco,32.75
+Presidente Bernardes,Ubá,23.4
+Carmópolis de Minas,Perdões,28.2
+Abaeté,Pitangui,28.39
+Abaeté,Pará de Minas,42.59
+Couto de Magalhães de Minas,Olhos-d'Água,33.2
+Barão de Cocais,Catas Altas,14.25
+Rio Casca,São Domingos do Prata,23.75
+Patos de Minas,Perdizes,70.0
+Córrego Danta,Pará de Minas,47.65
+Contagem,Itaúna,28.6
+Carmo do Rio Claro,Santana da Vargem,40.6
+Alpinópolis,Boa Esperança,35.9
+Monte Azul,Porteirinha,24.0
+Campestre,Varginha,36.15
+Contagem,Mateus Leme,19.3
+João Monlevade,Viçosa,82.4
+Augusto de Lima,Bocaiúva,38.8
+Manhuaçu,Martins Soares,12.24
+Luislândia,Sete Lagoas,132.95
+Brasilândia de Minas,Três Marias,74.55
+Araçuaí,Francisco Badaró,25.0
+Mato Verde,Porteirinha,15.0
+João Monlevade,Nova Era,10.1
+Turmalina,Veredinha,15.35
+Cachoeira da Prata,Sete Lagoas,10.25
+Bocaiúva,Buenópolis,30.9
+Patos de Minas,Uberaba,125.0
+Conceição do Pará,Nova Serrana,15.8
+Luz,Santa Juliana,75.77
+Alvorada de Minas,Serro,13.6
+Alpercata,Governador Valadares,10.94
+Cachoeira da Prata,Fortuna de Minas,2.8
+Carangola,Divino,17.9
+Cachoeira da Prata,Inhaúma,3.05
+Capelinha,Veredinha,19.4
+Mato Verde,Monte Azul,14.05
+Araxá,Patrocínio,68.41
+Patrocínio,Uberlândia,100.0
+Pedrinópolis,Santa Juliana,5.6
