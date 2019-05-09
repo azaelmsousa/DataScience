@@ -1,6 +1,8 @@
 # DataScience
 Project for the subject of Data Science in Health.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/azaelmsousa/DataScience/master)
+
 # Objective
 The objective of this project is to study different approaches of data science in the context of the spread of dengue at the state of Minas Gerais, Brazil.
 
