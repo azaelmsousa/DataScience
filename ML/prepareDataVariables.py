@@ -8,7 +8,7 @@ def getArgs():
     parser.add_argument("end_week", action='store', type=int, help="End week.")
     parser.add_argument("start_year", action='store', type=int, help="Start year.")
     parser.add_argument("end_year", action='store', type=int, help="End year.")
-    parser.add_argument("out_path", action='store', type=str, help="Path to the output dir. Example: ../data/info_dengue/")
+    parser.add_argument("out_path", action='store', type=str, help="Path to the output csv. Example: ../data/info_dengue.csv")
     return parser.parse_args()
 
 if __name__ == "__main__":
@@ -38,16 +38,15 @@ if __name__ == "__main__":
 	    				'ew_start='+str(start_week)+'&ew_end='+str(end_week) +
 	    				'50&ey_start='+str(start_year)+'&ey_end='+str(end_year))
 		df = pd.read_csv('%s?%s' % (url,search_filter))
-		headers = ','.join(list(df.columns.values))
-		#print(df.shape)
+		headers = ','.join(list(df.columns.values[[5,6,7,9]]))
+		df = df.values[:,[5,6,7,9]]
 		if (df.shape[0] > 0):
-			#data.append(df.values)
-			np.savetxt(args.out_path+"/"+str(name)+".csv",df,fmt='%s',delimiter=',',header=headers, comments='')
+			data.append(df)
 
-	#info_dengue = np.concatenate(data)
+	info_dengue = np.concatenate(data)
 
-	#print("- Writing output file")
-	#np.savetxt(args.out_path,info_dengue,fmt='%s',delimiter=',',header=headers, comments='')
+	print("- Writing output file")
+	np.savetxt(args.out_path,info_dengue,fmt='%s',delimiter=',',header=headers, comments='')
 
 
 
