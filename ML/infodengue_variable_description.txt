@@ -1,0 +1,6 @@
+data_iniSE      -> Data de início da semana epidemiológica
+SE              -> Semana epidemiológica
+casos           -> Casos
+p_rt1           -> Probabilidade do número reprodutivo ser maior que 1 
+p_inc100k       -> incidência por 100K habitantes
+nivel           -> nível do alerta
