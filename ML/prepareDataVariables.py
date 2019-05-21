@@ -8,6 +8,7 @@ def getArgs():
     parser.add_argument("end_week", action='store', type=int, help="End week.")
     parser.add_argument("start_year", action='store', type=int, help="Start year.")
     parser.add_argument("end_year", action='store', type=int, help="End year.")
+    parser.add_argument("freq", action='store', type=int, help="Path to csv containing the frequency of arrival.")
     parser.add_argument("out_path", action='store', type=str, help="Path to the output csv. Example: ../data/info_dengue.csv")
     return parser.parse_args()
 
