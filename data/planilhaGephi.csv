@@ -1,0 +1,826 @@
+Id,Label,timeset,modularity_class,pageranks
+Campo Belo,Campo Belo,,6,0.002153
+Santa Juliana,Santa Juliana,,6,0.002113
+Bonfinópolis de Minas,Bonfinópolis de Minas,,0,0.000982
+Sete Lagoas,Sete Lagoas,,0,0.006259
+Pedrinópolis,Pedrinópolis,,6,0.001303
+Mato Verde,Mato Verde,,0,0.001717
+Pai Pedro,Pai Pedro,,0,0.000649
+Belo Horizonte,Belo Horizonte,,0,0.031683
+Rio Acima,Rio Acima,,0,0.000508
+Capim Branco,Capim Branco,,0,0.000541
+Pedro Leopoldo,Pedro Leopoldo,,0,0.00142
+Raposos,Raposos,,0,0.000508
+Nova Lima,Nova Lima,,0,0.000615
+Gonzaga,Gonzaga,,4,0.00106
+Governador Valadares,Governador Valadares,,3,0.007744
+Pará de Minas,Pará de Minas,,6,0.003763
+Perdizes,Perdizes,,6,0.001987
+Porteirinha,Porteirinha,,0,0.002527
+Estrela Dalva,Estrela Dalva,,5,0.000513
+Volta Grande,Volta Grande,,5,0.000707
+Florestal,Florestal,,0,0.000447
+Juatuba,Juatuba,,6,0.003584
+Betim,Betim,,6,0.005051
+Brumadinho,Brumadinho,,0,0.000974
+Formiga,Formiga,,6,0.00339
+Buritis,Buritis,,0,0.001339
+Marilac,Marilac,,4,0.000485
+Virgolândia,Virgolândia,,4,0.001196
+Guaxupé,Guaxupé,,2,0.002467
+Juruaia,Juruaia,,2,0.000453
+Monte Alegre de Minas,Monte Alegre de Minas,,6,0.00153
+Nova Serrana,Nova Serrana,,6,0.003968
+Orizânia,Orizânia,,3,0.001139
+Santa Margarida,Santa Margarida,,3,0.001181
+Cônego Marinho,Cônego Marinho,,0,0.00043
+Januária,Januária,,0,0.002528
+Pirapetinga,Pirapetinga,,5,0.000628
+Eugenópolis,Eugenópolis,,3,0.000769
+Tombos,Tombos,,3,0.001048
+Icaraí de Minas,Icaraí de Minas,,0,0.000259
+Săo Francisco,Săo Francisco,,0,0.002269
+Itaobim,Itaobim,,3,0.002826
+Mata Verde,Mata Verde,,3,0.000815
+Juramento,Juramento,,0,0.000528
+Montes Claros,Montes Claros,,0,0.006596
+Manga,Manga,,0,0.001423
+Miravânia,Miravânia,,0,0.000522
+Nova Porteirinha,Nova Porteirinha,,0,0.000366
+Confins,Confins,,0,0.000362
+Esmeraldas,Esmeraldas,,0,0.000374
+Contagem,Contagem,,3,0.000806
+Santana do Manhuaçu,Santana do Manhuaçu,,3,0.001253
+Săo José do Mantimento,Săo José do Mantimento,,3,0.000461
+Berilo,Berilo,,3,0.000643
+Virgem da Lapa,Virgem da Lapa,,3,0.001095
+Araújos,Araújos,,6,0.000961
+Perdigăo,Perdigăo,,6,0.001156
+Taparuba,Taparuba,,3,0.000681
+Bugre,Bugre,,3,0.000306
+Ipatinga,Ipatinga,,3,0.007208
+Congonhas,Congonhas,,5,0.002522
+Jeceaba,Jeceaba,,5,0.000473
+Passos,Passos,,2,0.003942
+Săo Joăo Batista do Glória,Săo Joăo Batista do Glória,,2,0.000399
+Itatiaiuçu,Itatiaiuçu,,0,0.00065
+Carangola,Carangola,,3,0.002234
+Faria Lemos,Faria Lemos,,3,0.000258
+Claro dos Poçőes,Claro dos Poçőes,,0,0.000249
+Chapada do Norte,Chapada do Norte,,3,0.000661
+Delfim Moreira,Delfim Moreira,,1,0.000496
+Itajubá,Itajubá,,1,0.003881
+Marmelópolis,Marmelópolis,,1,0.000496
+Astolfo Dutra,Astolfo Dutra,,5,0.001712
+Rodeiro,Rodeiro,,5,0.00054
+Baldim,Baldim,,0,0.0008
+Funilândia,Funilândia,,0,0.000487
+Patrocínio,Patrocínio,,6,0.002806
+Muriaé,Muriaé,,5,0.005318
+Pedra Dourada,Pedra Dourada,,3,0.000634
+Caparaó,Caparaó,,3,0.000621
+Espera Feliz,Espera Feliz,,3,0.001433
+Pedra do Anta,Pedra do Anta,,5,0.000337
+Teixeiras,Teixeiras,,5,0.001414
+Manhuaçu,Manhuaçu,,3,0.003816
+Reduto,Reduto,,3,0.00158
+Almenara,Almenara,,3,0.003128
+Bandeira,Bandeira,,3,0.000247
+Patos de Minas,Patos de Minas,,6,0.003637
+Săo Gonçalo do Abaeté,Săo Gonçalo do Abaeté,,6,0.000403
+Săo Joăo do Manhuaçu,Săo Joăo do Manhuaçu,,3,0.00136
+Rio Manso,Rio Manso,,0,0.000632
+Mantena,Mantena,,3,0.001233
+Nova Belém,Nova Belém,,3,0.000395
+Dona Eusébia,Dona Eusébia,,5,0.001335
+Ubá,Ubá,,5,0.003972
+Nova Módica,Nova Módica,,3,0.000533
+Săo José do Divino,Săo José do Divino,,3,0.000533
+Andradas,Andradas,,2,0.000967
+Jacutinga,Jacutinga,,1,0.001029
+Cataguases,Cataguases,,5,0.002483
+Cambuí,Cambuí,,1,0.001869
+Gonçalves,Gonçalves,,1,0.001087
+Alto Caparaó,Alto Caparaó,,3,0.000545
+Alto Jequitibá,Alto Jequitibá,,3,0.000908
+Chapada Gaúcha,Chapada Gaúcha,,0,0.000554
+Itacarambi,Itacarambi,,0,0.001181
+Muzambinho,Muzambinho,,2,0.002318
+Nova Resende,Nova Resende,,2,0.000453
+Córrego do Bom Jesus,Córrego do Bom Jesus,,1,0.000336
+Arinos,Arinos,,0,0.001423
+Gameleiras,Gameleiras,,0,0.000259
+Monte Azul,Monte Azul,,0,0.001817
+Senador Amaral,Senador Amaral,,1,0.000341
+Manhumirim,Manhumirim,,3,0.002046
+Carrancas,Carrancas,,5,0.00034
+Lavras,Lavras,,6,0.00434
+Arcos,Arcos,,6,0.002093
+Santa Maria do Salto,Santa Maria do Salto,,3,0.000375
+"Águas Vermelhas",Águas Vermelhas,,3,0.000381
+Divisa Alegre,Divisa Alegre,,3,0.001157
+Caranaíba,Caranaíba,,5,0.000426
+Cristiano Otoni,Cristiano Otoni,,5,0.001781
+Mar de Espanha,Mar de Espanha,,5,0.001212
+Senador Cortes,Senador Cortes,,5,0.000354
+Caputira,Caputira,,3,0.000248
+Itutinga,Itutinga,,5,0.000952
+Itaú de Minas,Itaú de Minas,,2,0.001725
+Pratápolis,Pratápolis,,2,0.00088
+Conceiçăo das Pedras,Conceiçăo das Pedras,,1,0.000684
+Pedralva,Pedralva,,1,0.001157
+Leme do Prado,Leme do Prado,,4,0.000527
+Minas Novas,Minas Novas,,4,0.002134
+Montalvânia,Montalvânia,,0,0.001792
+Ipanema,Ipanema,,3,0.001594
+Rio do Prado,Rio do Prado,,3,0.000704
+Nacip Raydan,Nacip Raydan,,4,0.001196
+Săo Joăo do Pacuí,Săo Joăo do Pacuí,,0,0.000568
+Coraçăo de Jesus,Coraçăo de Jesus,,0,0.000646
+Cruzília,Cruzília,,1,0.001065
+Săo Thomé das Letras,Săo Thomé das Letras,,1,0.000666
+Săo Joăo das Missőes,Săo Joăo das Missőes,,0,0.000812
+Pescador,Pescador,,3,0.000533
+Rio Pardo de Minas,Rio Pardo de Minas,,0,0.00058
+Taiobeiras,Taiobeiras,,0,0.001523
+Martins Soares,Martins Soares,,3,0.00152
+Cipotânea,Cipotânea,,5,0.000512
+Desterro do Melo,Desterro do Melo,,5,0.000512
+Barroso,Barroso,,5,0.001223
+Carandaí,Carandaí,,5,0.00126
+Leopoldina,Leopoldina,,5,0.003416
+Poté,Poté,,4,0.001199
+Teófilo Otoni,Teófilo Otoni,,3,0.00552
+Açucena,Açucena,,4,0.001127
+Guanhăes,Guanhăes,,4,0.003611
+Itabirinha,Itabirinha,,3,0.000653
+Passabém,Passabém,,4,0.000637
+Săo Sebastiăo do Rio Preto,Săo Sebastiăo do Rio Preto,,4,0.000637
+Mamonas,Mamonas,,0,0.000459
+Arceburgo,Arceburgo,,2,0.000793
+Monte Santo de Minas,Monte Santo de Minas,,2,0.000793
+Caiana,Caiana,,3,0.000329
+Caratinga,Caratinga,,3,0.003886
+Piedade de Caratinga,Piedade de Caratinga,,3,0.000314
+Divinópolis,Divinópolis,,6,0.004747
+Săo Sebastiăo do Oeste,Săo Sebastiăo do Oeste,,6,0.000448
+Córrego Fundo,Córrego Fundo,,6,0.000381
+Guiricema,Guiricema,,5,0.000623
+Visconde do Rio Branco,Visconde do Rio Branco,,5,0.001769
+Săo Pedro da Uniăo,Săo Pedro da Uniăo,,2,0.000533
+Pedra Bonita,Pedra Bonita,,3,0.000397
+Ibiraci,Ibiraci,,2,0.000491
+Capelinha,Capelinha,,4,0.00274
+Delta,Delta,,6,0.000258
+Uberaba,Uberaba,,6,0.005672
+Săo Gonçalo do Pará,Săo Gonçalo do Pará,,6,0.000703
+Ibiracatu,Ibiracatu,,0,0.000282
+Varzelândia,Varzelândia,,0,0.001057
+Monte Formoso,Monte Formoso,,3,0.000244
+Padre Paraíso,Padre Paraíso,,3,0.002488
+Raul Soares,Raul Soares,,3,0.001068
+Vermelho Novo,Vermelho Novo,,3,0.000437
+Antônio Prado de Minas,Antônio Prado de Minas,,3,0.000549
+Abre Campo,Abre Campo,,3,0.00208
+Sericita,Sericita,,3,0.00025
+Coronel Xavier Chaves,Coronel Xavier Chaves,,5,0.000345
+Resende Costa,Resende Costa,,5,0.000777
+Guidoval,Guidoval,,5,0.000252
+Itanhomi,Itanhomi,,3,0.000698
+Tarumirim,Tarumirim,,3,0.001052
+Caeté,Caeté,,0,0.000699
+Taquaraçu de Minas,Taquaraçu de Minas,,0,0.000725
+Wenceslau Braz,Wenceslau Braz,,1,0.000285
+Oratórios,Oratórios,,3,0.000263
+Ponte Nova,Ponte Nova,,3,0.004968
+Coronel Murta,Coronel Murta,,3,0.000784
+Alto Rio Doce,Alto Rio Doce,,5,0.000932
+Rubelita,Rubelita,,3,0.00043
+Salinas,Salinas,,0,0.003439
+Sacramento,Sacramento,,6,0.001126
+Serra do Salitre,Serra do Salitre,,6,0.000677
+Cristália,Cristália,,0,0.000441
+Além Paraíba,Além Paraíba,,5,0.00246
+Belo Oriente,Belo Oriente,,4,0.001435
+Timóteo,Timóteo,,3,0.004473
+Belmiro Braga,Belmiro Braga,,5,0.000426
+Juiz de Fora,Juiz de Fora,,5,0.010681
+Sabará,Sabará,,0,0.000405
+Iapu,Iapu,,3,0.001596
+Săo Joăo do Oriente,Săo Joăo do Oriente,,3,0.000746
+Ponto dos Volantes,Ponto dos Volantes,,3,0.001612
+Lambari,Lambari,,1,0.001546
+Pouso Alegre,Pouso Alegre,,1,0.005892
+Alfenas,Alfenas,,2,0.003897
+Fama,Fama,,2,0.000254
+Aracitaba,Aracitaba,,5,0.000466
+Oliveira Fortes,Oliveira Fortes,,5,0.000466
+Carmo de Minas,Carmo de Minas,,1,0.001888
+Săo Lourenço,Săo Lourenço,,1,0.002898
+Casa Grande,Casa Grande,,5,0.000444
+Queluzito,Queluzito,,5,0.000444
+Ladainha,Ladainha,,4,0.000376
+Novo Cruzeiro,Novo Cruzeiro,,4,0.001251
+Matozinhos,Matozinhos,,0,0.001164
+Aimorés,Aimorés,,3,0.001493
+Inhapim,Inhapim,,3,0.00305
+Săo Sebastiăo do Anta,Săo Sebastiăo do Anta,,3,0.000426
+Laranjal,Laranjal,,5,0.001719
+Pocrane,Pocrane,,3,0.001155
+Jacinto,Jacinto,,3,0.001255
+Corinto,Corinto,,0,0.002461
+Morro da Garça,Morro da Garça,,0,0.000314
+Lagoa Santa,Lagoa Santa,,4,0.001327
+Itaipé,Itaipé,,4,0.000378
+Setubinha,Setubinha,,4,0.001081
+Chácara,Chácara,,5,0.000252
+Palmópolis,Palmópolis,,3,0.000469
+Buritizeiro,Buritizeiro,,6,0.000255
+Uberlândia,Uberlândia,,6,0.006036
+Săo José da Safira,Săo José da Safira,,4,0.000485
+Baependi,Baependi,,1,0.001798
+Vargem Alegre,Vargem Alegre,,3,0.000458
+Divinolândia de Minas,Divinolândia de Minas,,4,0.001896
+Virginópolis,Virginópolis,,4,0.001896
+Sapucaí-Mirim,Sapucaí-Mirim,,1,0.000642
+Diamantina,Diamantina,,4,0.002284
+Felício dos Santos,Felício dos Santos,,4,0.000373
+Amparo do Serra,Amparo do Serra,,3,0.000263
+Prudente de Morais,Prudente de Morais,,0,0.001375
+Lajinha,Lajinha,,3,0.001392
+Rio Casca,Rio Casca,,3,0.002965
+Bom Jesus do Galho,Bom Jesus do Galho,,3,0.000997
+Coronel Fabriciano,Coronel Fabriciano,,3,0.005941
+Itabira,Itabira,,4,0.003708
+Itambé do Mato Dentro,Itambé do Mato Dentro,,0,0.000433
+Nova Uniăo,Nova Uniăo,,0,0.000247
+Itanhandu,Itanhandu,,1,0.001438
+Săo Sebastiăo do Rio Verde,Săo Sebastiăo do Rio Verde,,1,0.00053
+Joăo Monlevade,Joăo Monlevade,,3,0.005783
+Santo Antônio do Itambé,Santo Antônio do Itambé,,4,0.000767
+Serro,Serro,,4,0.001528
+Serra dos Aimorés,Serra dos Aimorés,,0,0.00031
+Pedra Azul,Pedra Azul,,3,0.001521
+Mesquita,Mesquita,,4,0.000649
+Santana do Paraíso,Santana do Paraíso,,4,0.000582
+Rio Doce,Rio Doce,,3,0.000786
+Materlândia,Materlândia,,4,0.000639
+Rio Vermelho,Rio Vermelho,,4,0.000981
+Coroaci,Coroaci,,4,0.001484
+Santo Antônio do Aventureiro,Santo Antônio do Aventureiro,,5,0.000259
+Araponga,Araponga,,5,0.000605
+Săo Miguel do Anta,Săo Miguel do Anta,,5,0.000605
+Brasília de Minas,Brasília de Minas,,0,0.001039
+Luislândia,Luislândia,,0,0.001052
+Chiador,Chiador,,5,0.000354
+Dores de Guanhăes,Dores de Guanhăes,,4,0.000999
+Ferros,Ferros,,4,0.000616
+Entre Folhas,Entre Folhas,,3,0.000458
+Franciscópolis,Franciscópolis,,4,0.000782
+Malacacheta,Malacacheta,,4,0.001762
+Natércia,Natércia,,1,0.001126
+Săo Sebastiăo da Bela Vista,Săo Sebastiăo da Bela Vista,,1,0.000594
+Simonésia,Simonésia,,3,0.001253
+Săo Domingos das Dores,Săo Domingos das Dores,,3,0.000426
+Ouro Preto,Ouro Preto,,3,0.003245
+Piranguinho,Piranguinho,,1,0.002469
+Luisburgo,Luisburgo,,3,0.000248
+Lamim,Lamim,,5,0.000764
+Senador Firmino,Senador Firmino,,5,0.001284
+Săo Gonçalo do Rio Preto,Săo Gonçalo do Rio Preto,,4,0.00128
+Campos Altos,Campos Altos,,6,0.002328
+Santa Rosa da Serra,Santa Rosa da Serra,,6,0.000511
+Turmalina,Turmalina,,4,0.001825
+Fruta de Leite,Fruta de Leite,,0,0.000265
+Monjolos,Monjolos,,4,0.000309
+Nanuque,Nanuque,,3,0.001856
+Umburatiba,Umburatiba,,3,0.000369
+Alfredo Vasconcelos,Alfredo Vasconcelos,,5,0.000655
+Barbacena,Barbacena,,5,0.005934
+Barăo de Cocais,Barăo de Cocais,,3,0.001576
+Santa Bárbara,Santa Bárbara,,3,0.001055
+Viçosa,Viçosa,,5,0.003392
+Machacalis,Machacalis,,3,0.00133
+Dionísio,Dionísio,,3,0.00079
+Marliéria,Marliéria,,3,0.000488
+Săo José do Goiabal,Săo José do Goiabal,,3,0.00076
+Săo Joăo da Ponte,Săo Joăo da Ponte,,0,0.000488
+Oliveira,Oliveira,,6,0.002322
+Săo Francisco de Paula,Săo Francisco de Paula,,6,0.00039
+Paula Cândido,Paula Cândido,,5,0.000262
+Itamarati de Minas,Itamarati de Minas,,5,0.000263
+Grăo Mogol,Grăo Mogol,,0,0.00057
+Patis,Patis,,0,0.000416
+Espinosa,Espinosa,,0,0.001589
+Felisburgo,Felisburgo,,3,0.000529
+Jordânia,Jordânia,,0,0.000312
+Săo Joăo da Lagoa,Săo Joăo da Lagoa,,0,0.000568
+Borda da Mata,Borda da Mata,,1,0.001307
+Tocos do Moji,Tocos do Moji,,1,0.000305
+Jequeri,Jequeri,,3,0.000342
+Carlos Chagas,Carlos Chagas,,3,0.00147
+Novo Oriente de Minas,Novo Oriente de Minas,,3,0.001434
+Pavăo,Pavăo,,3,0.001493
+Capela Nova,Capela Nova,,5,0.000671
+Imbé de Minas,Imbé de Minas,,3,0.000303
+Ubaporanga,Ubaporanga,,3,0.002036
+Rubim,Rubim,,3,0.000923
+Careaçu,Careaçu,,1,0.001598
+Boa Esperança,Boa Esperança,,2,0.001999
+Piumhi,Piumhi,,2,0.001813
+Săo Roque de Minas,Săo Roque de Minas,,2,0.000465
+Conselheiro Lafaiete,Conselheiro Lafaiete,,5,0.00432
+Ouro Branco,Ouro Branco,,3,0.001901
+"Água Boa",Água Boa,,4,0.001538
+Bom Jesus da Penha,Bom Jesus da Penha,,2,0.000442
+Araxá,Araxá,,6,0.004087
+Caxambu,Caxambu,,1,0.002383
+Ouro Fino,Ouro Fino,,1,0.001231
+Santa Rita do Sapucaí,Santa Rita do Sapucaí,,1,0.002338
+Comercinho,Comercinho,,0,0.000435
+Cachoeira de Minas,Cachoeira de Minas,,1,0.000631
+Conceiçăo dos Ouros,Conceiçăo dos Ouros,,1,0.000631
+Descoberto,Descoberto,,5,0.000794
+Săo Joăo Nepomuceno,Săo Joăo Nepomuceno,,5,0.001313
+Inconfidentes,Inconfidentes,,1,0.001231
+Matias Cardoso,Matias Cardoso,,0,0.000669
+Extrema,Extrema,,1,0.001445
+Munhoz,Munhoz,,1,0.000624
+Bom Sucesso,Bom Sucesso,,6,0.001351
+Săo Tiago,Săo Tiago,,6,0.001002
+Chalé,Chalé,,3,0.000256
+Matias Barbosa,Matias Barbosa,,5,0.000614
+Simăo Pereira,Simăo Pereira,,5,0.000426
+Barăo de Monte Alto,Barăo de Monte Alto,,5,0.000251
+Santo Antônio do Rio Abaixo,Santo Antônio do Rio Abaixo,,4,0.000637
+Coronel Pacheco,Coronel Pacheco,,5,0.001183
+Camanducaia,Camanducaia,,1,0.000931
+Estiva,Estiva,,1,0.001102
+Maria da Fé,Maria da Fé,,1,0.000551
+Brasilândia de Minas,Brasilândia de Minas,,0,0.001189
+Riachinho,Riachinho,,0,0.001046
+Lagoa da Prata,Lagoa da Prata,,6,0.001766
+Santa Rita de Caldas,Santa Rita de Caldas,,2,0.001009
+Fronteira dos Vales,Fronteira dos Vales,,3,0.000687
+Braúnas,Braúnas,,4,0.000936
+Varginha,Varginha,,2,0.00439
+Jequitaí,Jequitaí,,6,0.000957
+Alpinópolis,Alpinópolis,,2,0.001591
+Tręs Coraçőes,Tręs Coraçőes,,1,0.003568
+Jequitibá,Jequitibá,,0,0.000513
+Santana de Cataguases,Santana de Cataguases,,5,0.000263
+Itaguara,Itaguara,,6,0.002352
+Piracema,Piracema,,6,0.000615
+Săo Sebastiăo do Paraíso,Săo Sebastiăo do Paraíso,,2,0.0026
+Săo Tomás de Aquino,Săo Tomás de Aquino,,2,0.000255
+Săo Pedro do Suaçuí,Săo Pedro do Suaçuí,,4,0.002184
+Candeias,Candeias,,6,0.001136
+Pouso Alto,Pouso Alto,,1,0.00124
+Carneirinho,Carneirinho,,6,0.00031
+Iturama,Iturama,,6,0.001954
+Monte Belo,Monte Belo,,2,0.001587
+Santa Helena de Minas,Santa Helena de Minas,,3,0.000618
+Pirapora,Pirapora,,0,0.002657
+Cabo Verde,Cabo Verde,,2,0.000964
+Carmo do Rio Claro,Carmo do Rio Claro,,2,0.001591
+Săo José do Alegre,Săo José do Alegre,,1,0.001157
+Soledade de Minas,Soledade de Minas,,1,0.000492
+Săo Brás do Suaçuí,Săo Brás do Suaçuí,,5,0.001044
+Ibitiúra de Minas,Ibitiúra de Minas,,2,0.000407
+Cássia,Cássia,,2,0.001388
+Săo José do Jacuri,Săo José do Jacuri,,4,0.001376
+Piau,Piau,,5,0.000329
+Ijaci,Ijaci,,6,0.000322
+Alvinópolis,Alvinópolis,,3,0.000715
+Poços de Caldas,Poços de Caldas,,2,0.002688
+Araçuaí,Araçuaí,,3,0.002201
+Capităo Enéas,Capităo Enéas,,0,0.001203
+Catuti,Catuti,,0,0.000336
+Divinésia,Divinésia,,5,0.000754
+Piranguçu,Piranguçu,,1,0.000285
+Juvenília,Juvenília,,0,0.000258
+Pintópolis,Pintópolis,,0,0.000411
+Santa Rita de Minas,Santa Rita de Minas,,3,0.001471
+Bom Repouso,Bom Repouso,,1,0.000596
+Paulistas,Paulistas,,4,0.000359
+Japaraíba,Japaraíba,,6,0.000838
+Ribeirăo Vermelho,Ribeirăo Vermelho,,6,0.000637
+Campo do Meio,Campo do Meio,,2,0.000593
+Santana da Vargem,Santana da Vargem,,2,0.001799
+Tocantins,Tocantins,,5,0.002003
+Guaranésia,Guaranésia,,2,0.001117
+Itapeva,Itapeva,,1,0.000931
+Limeira do Oeste,Limeira do Oeste,,6,0.00031
+Divino,Divino,,3,0.001594
+Capităo Andrade,Capităo Andrade,,3,0.000331
+Perdőes,Perdőes,,6,0.004562
+Tręs Pontas,Tręs Pontas,,2,0.0016
+Comendador Gomes,Comendador Gomes,,6,0.000743
+Planura,Planura,,6,0.001347
+Mariana,Mariana,,3,0.0028
+Antônio Dias,Antônio Dias,,3,0.000541
+Matipó,Matipó,,3,0.001169
+Fervedouro,Fervedouro,,3,0.002497
+Cordislândia,Cordislândia,,1,0.000644
+Machado,Machado,,2,0.001943
+Piranga,Piranga,,5,0.001038
+Presidente Bernardes,Presidente Bernardes,,5,0.000423
+Jaguaraçu,Jaguaraçu,,3,0.000403
+Santa Maria de Itabira,Santa Maria de Itabira,,4,0.002687
+Virgínia,Virgínia,,1,0.00053
+Ibertioga,Ibertioga,,1,0.000735
+Itumirim,Itumirim,,6,0.000491
+Nazareno,Nazareno,,6,0.000864
+Jacuí,Jacuí,,2,0.000255
+Rio Piracicaba,Rio Piracicaba,,3,0.000792
+Jequitinhonha,Jequitinhonha,,3,0.002274
+Alterosa,Alterosa,,2,0.001307
+Botelhos,Botelhos,,2,0.00115
+"Águas Formosas",Águas Formosas,,3,0.0016
+Bonito de Minas,Bonito de Minas,,0,0.000253
+Dom Silvério,Dom Silvério,,3,0.001009
+Sem-Peixe,Sem-Peixe,,3,0.000277
+Santana dos Montes,Santana dos Montes,,5,0.000432
+Cascalho Rico,Cascalho Rico,,6,0.00025
+Joăo Pinheiro,Joăo Pinheiro,,0,0.00195
+Nova Era,Nova Era,,3,0.003815
+Caraí,Caraí,,3,0.000311
+Catuji,Catuji,,3,0.001678
+Conceiçăo do Rio Verde,Conceiçăo do Rio Verde,,1,0.00054
+José Raydan,José Raydan,,4,0.001349
+Peçanha,Peçanha,,4,0.001038
+Săo Francisco do Glória,Săo Francisco do Glória,,3,0.000583
+Abadia dos Dourados,Abadia dos Dourados,,6,0.000855
+Romaria,Romaria,,6,0.000789
+Alvarenga,Alvarenga,,3,0.000396
+Conselheiro Pena,Conselheiro Pena,,3,0.001451
+Săo Joăo del Rei,Săo Joăo del Rei,,1,0.004559
+Pains,Pains,,6,0.000473
+Conceiçăo da Aparecida,Conceiçăo da Aparecida,,2,0.001165
+Paraisópolis,Paraisópolis,,1,0.001623
+Campanha,Campanha,,1,0.001311
+Ipiaçu,Ipiaçu,,6,0.000455
+Ituiutaba,Ituiutaba,,6,0.002282
+Itinga,Itinga,,3,0.000946
+Botumirim,Botumirim,,0,0.000441
+Francisco Sá,Francisco Sá,,0,0.001682
+Bambuí,Bambuí,,6,0.002314
+Canaă,Canaă,,5,0.000605
+Bela Vista de Minas,Bela Vista de Minas,,3,0.001098
+Brás Pires,Brás Pires,,5,0.00084
+Senhora de Oliveira,Senhora de Oliveira,,5,0.000934
+Carmo do Cajuru,Carmo do Cajuru,,6,0.000633
+Catas Altas da Noruega,Catas Altas da Noruega,,5,0.001248
+Conceiçăo de Ipanema,Conceiçăo de Ipanema,,3,0.000681
+Săo Geraldo,Săo Geraldo,,5,0.001157
+Tiradentes,Tiradentes,,5,0.000693
+Morro do Pilar,Morro do Pilar,,4,0.000824
+Coluna,Coluna,,4,0.001476
+Passa Quatro,Passa Quatro,,1,0.000946
+Bonfim,Bonfim,,0,0.001516
+Ibirité,Ibirité,,0,0.00058
+Igaratinga,Igaratinga,,6,0.000703
+Santos Dumont,Santos Dumont,,5,0.001921
+Bueno Brandăo,Bueno Brandăo,,1,0.000415
+Rio Espera,Rio Espera,,5,0.000709
+Palma,Palma,,5,0.000465
+Ressaquinha,Ressaquinha,,5,0.001333
+Pedras de Maria da Cruz,Pedras de Maria da Cruz,,0,0.001649
+Săo Romăo,Săo Romăo,,0,0.000468
+Ipaba,Ipaba,,3,0.000495
+Frei Inocęncio,Frei Inocęncio,,3,0.002985
+Jampruca,Jampruca,,3,0.000307
+Uniăo de Minas,Uniăo de Minas,,6,0.00031
+Durandé,Durandé,,3,0.001182
+Toledo,Toledo,,1,0.000624
+Capetinga,Capetinga,,2,0.000491
+Paracatu,Paracatu,,6,0.002353
+Santa Cruz de Salinas,Santa Cruz de Salinas,,3,0.000344
+Santa Maria do Suaçuí,Santa Maria do Suaçuí,,4,0.001409
+Bocaiúva,Bocaiúva,,0,0.00331
+Lagoa Grande,Lagoa Grande,,6,0.000406
+Engenheiro Navarro,Engenheiro Navarro,,0,0.001242
+Bom Despacho,Bom Despacho,,6,0.002161
+Camacho,Camacho,,6,0.000258
+Itapecerica,Itapecerica,,6,0.001436
+Pingo-d'Água,Pingo-d'Água,,3,0.000588
+Carvalhópolis,Carvalhópolis,,1,0.000644
+Săo Gonçalo do Sapucaí,Săo Gonçalo do Sapucaí,,1,0.001616
+Prados,Prados,,5,0.001007
+Santa Bárbara do Leste,Santa Bárbara do Leste,,3,0.001953
+Dores de Campos,Dores de Campos,,5,0.001064
+Aiuruoca,Aiuruoca,,1,0.00171
+Andrelândia,Andrelândia,,1,0.001443
+Senhora do Porto,Senhora do Porto,,4,0.002199
+Arantina,Arantina,,1,0.000709
+Bom Jardim de Minas,Bom Jardim de Minas,,1,0.00156
+Indianópolis,Indianópolis,,6,0.00056
+Itabirito,Itabirito,,3,0.002109
+Araporă,Araporă,,6,0.000397
+Tupaciguara,Tupaciguara,,6,0.0005
+Ataléia,Ataléia,,3,0.000246
+Crisólita,Crisólita,,3,0.001433
+Crucilândia,Crucilândia,,0,0.00134
+Sarzedo,Sarzedo,,0,0.00058
+Cuparaque,Cuparaque,,3,0.000459
+Goiabeira,Goiabeira,,3,0.000459
+Joaíma,Joaíma,,3,0.000862
+Ilicínea,Ilicínea,,2,0.00075
+Dom Cavati,Dom Cavati,,3,0.002656
+Itaúna,Itaúna,,6,0.002281
+Sardoá,Sardoá,,4,0.00106
+Săo Joăo Evangelista,Săo Joăo Evangelista,,4,0.002354
+Santo Antônio do Amparo,Santo Antônio do Amparo,,2,0.002493
+Ipuiúna,Ipuiúna,,2,0.000731
+Campina Verde,Campina Verde,,6,0.001063
+Cajuri,Cajuri,,5,0.000262
+Conceiçăo do Pará,Conceiçăo do Pará,,6,0.000942
+Pitangui,Pitangui,,6,0.001225
+Consolaçăo,Consolaçăo,,1,0.000467
+Dom Joaquim,Dom Joaquim,,4,0.00081
+Maravilhas,Maravilhas,,0,0.001274
+Papagaios,Papagaios,,0,0.001264
+Mirabela,Mirabela,,0,0.002143
+Luminárias,Luminárias,,1,0.000556
+Nova Ponte,Nova Ponte,,6,0.001492
+Areado,Areado,,2,0.001852
+Guaraciaba,Guaraciaba,,5,0.000418
+Curral de Dentro,Curral de Dentro,,3,0.000928
+Engenheiro Caldas,Engenheiro Caldas,,3,0.002076
+Fernandes Tourinho,Fernandes Tourinho,,3,0.00068
+Săo Gonçalo do Rio Abaixo,Săo Gonçalo do Rio Abaixo,,3,0.001538
+Carbonita,Carbonita,,4,0.001891
+Itaverava,Itaverava,,5,0.001248
+Córrego Novo,Córrego Novo,,3,0.000359
+Cristais,Cristais,,6,0.000551
+Santa Luzia,Santa Luzia,,0,0.000387
+Bom Jesus do Amparo,Bom Jesus do Amparo,,0,0.000444
+Carmésia,Carmésia,,4,0.000638
+Alvorada de Minas,Alvorada de Minas,,4,0.000979
+Conceiçăo do Mato Dentro,Conceiçăo do Mato Dentro,,4,0.001219
+Iguatama,Iguatama,,6,0.002114
+Brazópolis,Brazópolis,,1,0.000797
+Mário Campos,Mário Campos,,0,0.00058
+Inimutaba,Inimutaba,,4,0.000921
+Frutal,Frutal,,6,0.00205
+Itapagipe,Itapagipe,,6,0.000932
+Itamogi,Itamogi,,2,0.000793
+Lima Duarte,Lima Duarte,,1,0.001625
+Santa Bárbara do Monte Verde,Santa Bárbara do Monte Verde,,5,0.000495
+Itambacuri,Itambacuri,,3,0.002583
+Medina,Medina,,3,0.001494
+Caldas,Caldas,,2,0.000731
+Ervália,Ervália,,5,0.000859
+Fortaleza de Minas,Fortaleza de Minas,,2,0.000256
+Cambuquira,Cambuquira,,1,0.002395
+Cantagalo,Cantagalo,,4,0.000734
+Cruzeiro da Fortaleza,Cruzeiro da Fortaleza,,6,0.000337
+Guimarânia,Guimarânia,,6,0.000819
+Mateus Leme,Mateus Leme,,6,0.001397
+Rio Pomba,Rio Pomba,,5,0.002918
+Silveirânia,Silveirânia,,5,0.000249
+Santo Antônio do Jacinto,Santo Antônio do Jacinto,,0,0.000435
+Curvelo,Curvelo,,0,0.00473
+Piraúba,Piraúba,,5,0.00195
+Itamarandiba,Itamarandiba,,4,0.00232
+Caetanópolis,Caetanópolis,,0,0.000541
+Jesuânia,Jesuânia,,1,0.001155
+Ibituruna,Ibituruna,,6,0.000598
+Luz,Luz,,6,0.002978
+Olímpio Noronha,Olímpio Noronha,,1,0.001087
+Campos Gerais,Campos Gerais,,2,0.001422
+Coqueiral,Coqueiral,,2,0.000802
+Jaboticatubas,Jaboticatubas,,0,0.000247
+Itacambira,Itacambira,,0,0.000612
+Alpercata,Alpercata,,3,0.001393
+Monsenhor Paulo,Monsenhor Paulo,,1,0.000337
+Săo Bento Abade,Săo Bento Abade,,1,0.000657
+Delfinópolis,Delfinópolis,,2,0.000504
+Doresópolis,Doresópolis,,2,0.000332
+Frei Gaspar,Frei Gaspar,,3,0.000428
+Leandro Ferreira,Leandro Ferreira,,6,0.000812
+Rio Paranaíba,Rio Paranaíba,,6,0.001222
+Paraguaçu,Paraguaçu,,2,0.002115
+Felixlândia,Felixlândia,,0,0.001102
+Galiléia,Galiléia,,3,0.000963
+Guarani,Guarani,,5,0.001338
+Argirita,Argirita,,5,0.000788
+Porto Firme,Porto Firme,,5,0.001207
+Rio Novo,Rio Novo,,5,0.001044
+Santa Vitória,Santa Vitória,,6,0.000425
+Mutum,Mutum,,3,0.000773
+Indaiabira,Indaiabira,,0,0.000674
+Săo Vicente de Minas,Săo Vicente de Minas,,1,0.001443
+Serra Azul de Minas,Serra Azul de Minas,,4,0.000767
+Săo Joăo da Mata,Săo Joăo da Mata,,2,0.000684
+Săo Pedro dos Ferros,Săo Pedro dos Ferros,,3,0.000904
+Serrania,Serrania,,2,0.000492
+Aricanduva,Aricanduva,,4,0.000243
+Congonhal,Congonhal,,2,0.000902
+Dores do Indaiá,Dores do Indaiá,,6,0.001304
+Quartel Geral,Quartel Geral,,6,0.00062
+Glaucilândia,Glaucilândia,,0,0.000528
+Heliodora,Heliodora,,1,0.000686
+Itueta,Itueta,,3,0.000979
+Santa Rita do Itueto,Santa Rita do Itueto,,3,0.000331
+Montezuma,Montezuma,,0,0.000504
+Ninheira,Ninheira,,0,0.000264
+Săo Joăo do Paraíso,Săo Joăo do Paraíso,,0,0.001162
+Ouro Verde de Minas,Ouro Verde de Minas,,3,0.000428
+Tumiritinga,Tumiritinga,,3,0.000246
+Urucânia,Urucânia,,3,0.000927
+Cristina,Cristina,,1,0.001051
+Dom Viçoso,Dom Viçoso,,1,0.000264
+Santa Efigęnia de Minas,Santa Efigęnia de Minas,,4,0.00106
+Olhos-d'Água,Olhos-d'Água,,4,0.001254
+Joanésia,Joanésia,,4,0.000649
+Gurinhată,Gurinhată,,6,0.00027
+Fortuna de Minas,Fortuna de Minas,,0,0.000693
+Inhaúma,Inhaúma,,0,0.000979
+Monte Carmelo,Monte Carmelo,,6,0.001716
+Campanário,Campanário,,3,0.002401
+Mercęs,Mercęs,,5,0.001479
+Fronteira,Fronteira,,6,0.000564
+Piedade dos Gerais,Piedade dos Gerais,,0,0.000813
+Presidente Juscelino,Presidente Juscelino,,4,0.00132
+Presidente Kubitschek,Presidente Kubitschek,,4,0.000846
+Moeda,Moeda,,0,0.000339
+Catas Altas,Catas Altas,,3,0.001055
+Berizal,Berizal,,0,0.000265
+Joaquim Felício,Joaquim Felício,,0,0.001128
+Paiva,Paiva,,5,0.00047
+Estrela do Sul,Estrela do Sul,,6,0.001236
+Moema,Moema,,6,0.001489
+Elói Mendes,Elói Mendes,,2,0.002529
+Săo Gotardo,Săo Gotardo,,6,0.002021
+Bicas,Bicas,,5,0.001777
+Pequeri,Pequeri,,5,0.000644
+Centralina,Centralina,,6,0.000852
+Bandeira do Sul,Bandeira do Sul,,2,0.000915
+Goianá,Goianá,,5,0.000687
+Abaeté,Abaeté,,6,0.001518
+Sabinópolis,Sabinópolis,,4,0.001095
+Capitólio,Capitólio,,2,0.001615
+Lontra,Lontra,,0,0.001411
+Angelândia,Angelândia,,4,0.000303
+Sobrália,Sobrália,,3,0.000752
+Iraí de Minas,Iraí de Minas,,6,0.001127
+Poço Fundo,Poço Fundo,,2,0.000684
+Japonvar,Japonvar,,0,0.001276
+Couto de Magalhăes de Minas,Couto de Magalhăes de Minas,,4,0.001618
+Senador José Bento,Senador José Bento,,2,0.000408
+Miradouro,Miradouro,,3,0.001224
+Pratinha,Pratinha,,6,0.000311
+Datas,Datas,,4,0.001151
+Vargem Bonita,Vargem Bonita,,2,0.000465
+Ritápolis,Ritápolis,,6,0.001002
+Lagoa Dourada,Lagoa Dourada,,5,0.000859
+Naque,Naque,,3,0.002582
+Periquito,Periquito,,3,0.001784
+Ewbank da Câmara,Ewbank da Câmara,,5,0.00041
+Itamonte,Itamonte,,1,0.00048
+Córrego Danta,Córrego Danta,,6,0.001237
+Tapiraí,Tapiraí,,6,0.000946
+Săo José da Varginha,Săo José da Varginha,,0,0.000931
+Liberdade,Liberdade,,1,0.00063
+Aguanil,Aguanil,,6,0.000551
+Săo Geraldo da Piedade,Săo Geraldo da Piedade,,3,0.000246
+Resplendor,Resplendor,,3,0.001039
+Tabuleiro,Tabuleiro,,5,0.001048
+Guapé,Guapé,,2,0.000713
+Cachoeira da Prata,Cachoeira da Prata,,0,0.001164
+Pequi,Pequi,,0,0.000931
+Ingaí,Ingaí,,1,0.000556
+Santana do Riacho,Santana do Riacho,,4,0.000523
+Vespasiano,Vespasiano,,4,0.000428
+Divino das Laranjeiras,Divino das Laranjeiras,,3,0.000929
+Antônio Carlos,Antônio Carlos,,5,0.000472
+Bias Fortes,Bias Fortes,,5,0.00062
+Pedro Teixeira,Pedro Teixeira,,5,0.000384
+Miraí,Miraí,,5,0.001008
+Dores do Turvo,Dores do Turvo,,5,0.000563
+Desterro de Entre Rios,Desterro de Entre Rios,,6,0.000693
+Cana Verde,Cana Verde,,6,0.000908
+Săo Domingos do Prata,Săo Domingos do Prata,,3,0.001427
+Santo Hipólito,Santo Hipólito,,0,0.000252
+Silvianópolis,Silvianópolis,,2,0.000935
+Turvolândia,Turvolândia,,2,0.000314
+Padre Carvalho,Padre Carvalho,,0,0.000461
+Martinho Campos,Martinho Campos,,6,0.001468
+Janaúba,Janaúba,,0,0.002278
+Săo José da Lapa,Săo José da Lapa,,0,0.000402
+Carmo do Paranaíba,Carmo do Paranaíba,,6,0.001004
+Prata,Prata,,6,0.000972
+Săo Sebastiăo da Vargem Alegre,Săo Sebastiăo da Vargem Alegre,,5,0.000277
+Carvalhos,Carvalhos,,1,0.000403
+Santana do Deserto,Santana do Deserto,,5,0.000644
+Ibiá,Ibiá,,6,0.00213
+Presidente Olegário,Presidente Olegário,,6,0.00091
+Igarapé,Igarapé,,6,0.001515
+Espírito Santo do Dourado,Espírito Santo do Dourado,,1,0.00028
+Morada Nova de Minas,Morada Nova de Minas,,6,0.000807
+Tręs Marias,Tręs Marias,,0,0.001942
+Santana de Pirapama,Santana de Pirapama,,0,0.000612
+Coimbra,Coimbra,,5,0.001699
+Gouveia,Gouveia,,4,0.001532
+Santana do Jacaré,Santana do Jacaré,,2,0.000316
+Lagoa Formosa,Lagoa Formosa,,6,0.000861
+Paraopeba,Paraopeba,,0,0.004718
+Pompéu,Pompéu,,6,0.001545
+Vieiras,Vieiras,,3,0.000425
+Entre Rios de Minas,Entre Rios de Minas,,5,0.000944
+Piedade do Rio Grande,Piedade do Rio Grande,,1,0.000662
+Carmópolis de Minas,Carmópolis de Minas,,6,0.001652
+Barra Longa,Barra Longa,,3,0.000263
+Josenópolis,Josenópolis,,0,0.000461
+Minduri,Minduri,,1,0.001173
+Santa Cruz do Escalvado,Santa Cruz do Escalvado,,3,0.000263
+Rochedo de Minas,Rochedo de Minas,,5,0.000494
+Nepomuceno,Nepomuceno,,2,0.001294
+Maripá de Minas,Maripá de Minas,,5,0.000681
+Monte Siăo,Monte Siăo,,1,0.000637
+Bertópolis,Bertópolis,,3,0.001088
+Recreio,Recreio,,5,0.000848
+Santa Bárbara do Tugúrio,Santa Bárbara do Tugúrio,,5,0.001164
+Araguari,Araguari,,6,0.001397
+Divisa Nova,Divisa Nova,,2,0.000405
+Paineiras,Paineiras,,6,0.000606
+Guarará,Guarará,,5,0.000495
+Santo Antônio do Grama,Santo Antônio do Grama,,3,0.000263
+Arapuá,Arapuá,,6,0.000726
+Rio Preto,Rio Preto,,5,0.000392
+Biquinhas,Biquinhas,,6,0.000606
+Campestre,Campestre,,2,0.001032
+Pedra do Indaiá,Pedra do Indaiá,,6,0.00084
+Senador Modestino Gonçalves,Senador Modestino Gonçalves,,4,0.001117
+Cláudio,Cláudio,,6,0.0008
+Veredinha,Veredinha,,4,0.001183
+Cachoeira Dourada,Cachoeira Dourada,,6,0.000605
+Buenópolis,Buenópolis,,0,0.002284
+Săo Joăo do Manteninha,Săo Joăo do Manteninha,,3,0.000929
+Francisco Dumont,Francisco Dumont,,0,0.000316
+Central de Minas,Central de Minas,,3,0.000929
+Urucuia,Urucuia,,0,0.001162
+Veríssimo,Veríssimo,,6,0.000258
+Pimenta,Pimenta,,2,0.000958
+Santa Rita de Ibitipoca,Santa Rita de Ibitipoca,,1,0.000358
+Coromandel,Coromandel,,6,0.001424
+Onça de Pitangui,Onça de Pitangui,,6,0.000564
+Săo Joaquim de Bicas,Săo Joaquim de Bicas,,6,0.000852
+Capinópolis,Capinópolis,,6,0.000733
+Senhora dos Remédios,Senhora dos Remédios,,5,0.000422
+Seritinga,Seritinga,,1,0.000403
+Olaria,Olaria,,1,0.001351
+Medeiros,Medeiros,,6,0.000749
+Augusto de Lima,Augusto de Lima,,0,0.001986
+Salto da Divisa,Salto da Divisa,,3,0.001091
+Matutina,Matutina,,6,0.000446
+Riacho dos Machados,Riacho dos Machados,,0,0.000261
+Jaíba,Jaíba,,0,0.000737
+Acaiaca,Acaiaca,,3,0.000263
+Carmo da Mata,Carmo da Mata,,6,0.001356
+Săo Francisco de Sales,Săo Francisco de Sales,,6,0.000811
+Patrocínio do Muriaé,Patrocínio do Muriaé,,3,0.00036
+Piedade de Ponte Nova,Piedade de Ponte Nova,,3,0.000263
+Unaí,Unaí,,0,0.001781
+Cordisburgo,Cordisburgo,,0,0.000752
+Săo José da Barra,Săo José da Barra,,2,0.000497
+Santa Rita de Jacutinga,Santa Rita de Jacutinga,,1,0.000479
+Campo Florido,Campo Florido,,6,0.000779
+Conceiçăo das Alagoas,Conceiçăo das Alagoas,,6,0.000811
+Várzea da Palma,Várzea da Palma,,0,0.000667
+Madre de Deus de Minas,Madre de Deus de Minas,,1,0.001055
+Tiros,Tiros,,6,0.000446
+Belo Vale,Belo Vale,,0,0.000318
+Alagoa,Alagoa,,1,0.000463
+Passa Tempo,Passa Tempo,,6,0.000664
+Natalândia,Natalândia,,0,0.000266
+Guarda-Mor,Guarda-Mor,,6,0.001302
+Rosário da Limeira,Rosário da Limeira,,5,0.000251
+Araçaí,Araçaí,,0,0.000607
+Mathias Lobato,Mathias Lobato,,3,0.000246
+Canápolis,Canápolis,,6,0.000528
+Carmo da Cachoeira,Carmo da Cachoeira,,2,0.000967
+Mendes Pimentel,Mendes Pimentel,,3,0.000385
+Congonhas do Norte,Congonhas do Norte,,4,0.000276
+Lassance,Lassance,,0,0.000811
+Pirajuba,Pirajuba,,6,0.000565
+Vazante,Vazante,,6,0.000789
+Santo Antônio do Monte,Santo Antônio do Monte,,6,0.000705
+Conceiçăo da Barra de Minas,Conceiçăo da Barra de Minas,,1,0.000251
+Novorizonte,Novorizonte,,0,0.000265
+Lagamar,Lagamar,,6,0.000561
+Varjăo de Minas,Varjăo de Minas,,6,0.00072
+Conquista,Conquista,,6,0.000332
+"Água Comprida",Água Comprida,,6,0.000258
+Ponto Chique,Ponto Chique,,0,0.00033
+Tapira,Tapira,,6,0.000246
+Ibiaí,Ibiaí,,0,0.00033
+José Gonçalves de Minas,José Gonçalves de Minas,,3,0.000393
+Grupiara,Grupiara,,6,0.000255
+Cabeceira Grande,Cabeceira Grande,,0,0.000266
+Formoso,Formoso,,0,0.000263
+Serranópolis de Minas,Serranópolis de Minas,,0,0.000261
+Guaraciama,Guaraciama,,0,0.000246
+Francisco Badaró,Francisco Badaró,,3,0.000315
+Santana do Garambéu,Santana do Garambéu,,5,0.000254
