@@ -1,0 +1,832 @@
+IBGE;Município;IIP;STATUS;Depósitos de Água;Depósitos Domiciliares;Lixo;Predominante
+314300;Monte Belo;3,6;Alerta;0;13;1;Domiciliares
+310840;Botelhos;1,7;Alerta;0;1;3;Lixo
+314410;Muzambinho;1,6;Alerta;0;1;6;Lixo
+315170;Poço Fundo;2,7;Alerta;0;3;11;Lixo
+311710;Conceição da Aparecida;0;Satisfatório;0;0;0;sem depósitos
+314510;Nova Resende;0,4;Satisfatório;0;1;0;Domiciliares
+312240;Divisa Nova;0,4;Satisfatório;0;0;1;Lixo
+316690;Serrania;0,7;Satisfatório;0;2;1;Domiciliares
+310430;Areado;0,6;Satisfatório;0;1;2;Lixo
+311100;Campestre;0,9;Satisfatório;0;0;5;Lixo
+310410;Arceburgo;1,5;Alerta;1;2;0;Domiciliares
+310200;Alterosa;2,6;Alerta;1;4;2;Domiciliares
+312830;Guaranésia;1,9;Alerta;1;2;6;Água
+311440;Carmo do Rio Claro;1,3;Alerta;1;5;6;Lixo
+313690;Juruaia;0,8;Satisfatório;1;0;1;mais de um
+310530;Bandeira do Sul;1,5;Alerta;2;2;1;mais de um
+313900;Machado;1,6;Alerta;2;10;2;Domiciliares
+314720;Paraguaçu;1,8;Alerta;3;2;3;mais de um
+310950;Cabo Verde;10,7;Risco de Epidemia;3;12;21;Lixo
+311160;Campos Gerais;3,3;Alerta;5;2;8;Lixo
+311130;Campo do Meio;1,3;Alerta;6;2;0;Água
+312870;Guaxupé;2;Alerta;6;11;9;Domiciliares
+310160;Alfenas;2,3;Alerta;7;29;25;Domiciliares
+313540;Jeceaba;1,5;Alerta;0;3;3;mais de um
+310163;Alfredo Vasconcelos;0;Satisfatório;0;0;0;sem depósitos
+310210;Alto Rio Doce;0;Satisfatório;0;0;0;sem depósitos
+310290;Antônio Carlos;0;Satisfatório;0;0;0;sem depósitos
+312040;Cristiano Otoni;0;Satisfatório;0;0;0;sem depósitos
+312150;Desterro do Melo;0;Satisfatório;0;0;0;sem depósitos
+312940;Ibertioga;0;Satisfatório;0;0;0;sem depósitos
+314660;Paiva;0;Satisfatório;0;0;0;sem depósitos
+315080;Piranga;0;Satisfatório;0;0;0;sem depósitos
+315870;Santana do Garambéu;0;Satisfatório;0;0;0;sem depósitos
+315940;Santa Rita de Ibitipoca;0;Satisfatório;0;0;0;sem depósitos
+316600;Senhora de Oliveira;0;Satisfatório;0;0;0;sem depósitos
+316620;Senhora dos Remédios;0;Satisfatório;0;0;0;sem depósitos
+315440;Ressaquinha;0;Satisfatório;0;1;0;Domiciliares
+311320;Carandaí;0,5;Satisfatório;0;0;10;Lixo
+311800;Congonhas;1,4;Alerta;5;2;4;Água
+314590;Ouro Branco;2,5;Alerta;6;8;10;Lixo
+311830;Conselheiro Lafaiete;0,5;Satisfatório;7;7;1;mais de um
+310560;Barbacena;2,3;Alerta;21;1;13;Água
+311630;Cipotânea;0;Satisfatório;47;0;123;Lixo
+311490;Casa Grande;0;Satisfatório;148;0;292;Lixo
+311540;Catas Altas da Noruega;0;Satisfatório;248;113;107;Água
+313790;Lamim;0;Satisfatório;310;1;71;Água
+311220;Capela Nova;0;Satisfatório;510;0;343;Água
+315040;Piedade dos Gerais;0;Satisfatório;0;0;0;sem depósitos
+316295;São José da Lapa;0,1;Satisfatório;0;1;0;Domiciliares
+314230;Moeda;0,2;Satisfatório;0;0;1;Lixo
+312060;Crucilândia;0,5;Satisfatório;0;0;2;Lixo
+312600;Florestal;0,8;Satisfatório;0;1;2;Lixo
+316830;Taquaraçu de Minas;0,2;Satisfatório;0;0;4;Lixo
+310900;Brumadinho;1;Alerta;1;4;0;Domiciliares
+315390;Raposos;1,7;Alerta;1;1;2;Lixo
+315480;Rio Acima;1,9;Alerta;1;0;6;Lixo
+311787;Confins;3,4;Alerta;1;1;7;Lixo
+315530;Rio Manso;1;Alerta;2;1;1;Água
+313660;Nova União;1,2;Alerta;2;3;1;Domiciliares
+314015;Mário Campos;3;Alerta;3;8;9;Lixo
+310810;Bonfim;5,6;Risco de Epidemia;3;4;7;Lixo
+314070;Mateus Leme;0,3;Satisfatório;3;0;0;Água
+313190;Itabirito;2;Alerta;4;7;7;mais de um
+314480;Nova Lima;2,9;Alerta;4;49;28;Domiciliares
+315900;Santana do Riacho;0,8;Satisfatório;4;1;1;Água
+314610;Ouro Preto;0,6;Satisfatório;4;4;2;mais de um
+316292;São Joaquim de Bicas;1,4;Alerta;5;5;2;mais de um
+316553;Sarzedo;3,6;Alerta;5;18;17;Domiciliares
+310640;Belo Vale;4,2;Risco de Epidemia;5;0;4;Água
+313460;Jaboticatubas;4,5;Risco de Epidemia;5;13;19;Lixo
+311000;Caeté;1,4;Alerta;7;5;4;Água
+313760;Lagoa Santa;2;Alerta;8;14;19;Lixo
+315670;Sabará;1,6;Alerta;8;10;27;Lixo
+313665;Juatuba;4;Risco de Epidemia;9;18;18;mais de um
+314000;Mariana;1,9;Alerta;10;13;0;Domiciliares
+313010;Igarapé;3,9;Alerta;14;18;19;Lixo
+312410;Esmeraldas;1,8;Alerta;19;8;9;Água
+314930;Pedro Leopoldo;2,1;Alerta;20;6;15;Água
+317120;Vespasiano;1,9;Alerta;21;11;16;Água
+312980;Ibirité;1,3;Alerta;24;14;16;Água
+315780;Santa Luzia;1,3;Alerta;25;9;19;Água
+314110;Matozinhos;7;Risco de Epidemia;33;17;28;Água
+311860;Contagem;1,6;Alerta;63;73;83;Lixo
+315460;Ribeirão das Neves;3,1;Alerta;72;74;140;Lixo
+310670;Betim;2,8;Alerta;73;102;92;Domiciliares
+310620;Belo Horizonte;2,6;Alerta;254;698;694;Domiciliares
+313500;Jaguaraçu;2,5;Alerta;0;4;3;Domiciliares
+310780;Bom Jesus do Galho;0;Satisfatório;0;0;0;sem depósitos
+310880;Braúnas;0;Satisfatório;0;0;0;sem depósitos
+315935;Santa Rita de Minas;0;Satisfatório;0;0;0;sem depósitos
+317005;Ubaporanga;0,6;Satisfatório;0;0;0;sem depósitos
+313115;Ipaba;0;Satisfatório;0;1;0;Domiciliares
+312250;Dom Cavati;0,4;Satisfatório;0;1;0;Domiciliares
+317057;Vargem Alegre;2,1;Alerta;1;4;0;Domiciliares
+316095;São Domingos das Dores;1,4;Alerta;1;6;4;Domiciliares
+313090;Inhapim;0;Satisfatório;1;0;0;Água
+310050;Açucena;0,6;Satisfatório;1;2;0;Domiciliares
+312930;Iapu;2,1;Alerta;2;5;1;Domiciliares
+313055;Imbé de Minas;1,7;Alerta;2;1;3;Lixo
+312385;Entre Folhas;4,6;Risco de Epidemia;2;1;9;Lixo
+315015;Piedade de Caratinga;2,9;Alerta;3;1;3;mais de um
+314995;Periquito;2,2;Alerta;3;1;7;Lixo
+310300;Antônio Dias;2,4;Alerta;4;0;2;Água
+315053;Pingo-d'Água;0;Satisfatório;5;0;0;Água
+316260;São João do Oriente;4,1;Risco de Epidemia;6;7;4;Domiciliares
+314435;Naque;6,8;Risco de Epidemia;6;3;33;Lixo
+310630;Belo Oriente;3,5;Alerta;7;7;2;mais de um
+315895;Santana do Paraíso;3,1;Alerta;7;15;10;Domiciliares
+315725;Santa Bárbara do Leste;2,3;Alerta;7,9;35,5;75;Lixo
+310925;Bugre;2,6;Alerta;8;3;3;Água
+314030;Marliéria;4;Risco de Epidemia;11;7;12;Lixo
+311940;Coronel Fabriciano;2,1;Alerta;13;19;5;Domiciliares
+314170;Mesquita;9,9;Risco de Epidemia;26;0;26;mais de um
+316870;Timóteo;6,5;Risco de Epidemia;29;55;5;Domiciliares
+311340;Caratinga;5,4;Risco de Epidemia;31;49;38;Domiciliares
+313130;Ipatinga;3,6;Alerta;50;80;56;Domiciliares
+311950;Coronel Murta;3;Alerta;0;6;1;Domiciliares
+310240;Alvorada de Minas;0;Satisfatório;0;0;0;sem depósitos
+311350;Carbonita;0;Satisfatório;0;0;0;sem depósitos
+311680;Coluna;0;Satisfatório;0;0;0;sem depósitos
+311810;Congonhas do Norte;0;Satisfatório;0;0;0;sem depósitos
+312540;Felício dos Santos;0;Satisfatório;0;0;0;sem depósitos
+313835;Leme do Prado;0;Satisfatório;0;0;0;sem depósitos
+314180;Minas Novas;0;Satisfatório;0;0;0;sem depósitos
+315330;Presidente Kubitschek;0;Satisfatório;0;0;0;sem depósitos
+316590;Senador Modestino Gonçalves;0;Satisfatório;0;0;0;sem depósitos
+317107;Veredinha;0;Satisfatório;0;0;0;sem depósitos
+312100;Datas;1,3;Alerta;1;2;0;Domiciliares
+315680;Sabinópolis;2,2;Alerta;1;3;0;Domiciliares
+312550;São Gonçalo do Rio Preto;0,3;Satisfatório;1;0;0;Água
+316710;Serro;0,4;Satisfatório;1;0;0;Água
+310650;Berilo;0,5;Satisfatório;1;0;0;Água
+316020;Santo Antônio do Itambé;0,5;Satisfatório;1;0;1;mais de um
+312760;Gouveia;0,8;Satisfatório;1;0;1;mais de um
+316650;Serra Azul de Minas;0,8;Satisfatório;1;0;2;Lixo
+314060;Materlândia;0,6;Satisfatório;1;0;4;Lixo
+312010;Couto de Magalhães de Minas;3,2;Alerta;2;6;1;Domiciliares
+315600;Rio Vermelho;1,4;Alerta;3;0;1;Água
+317160;Virgem da Lapa;4,2;Risco de Epidemia;4;5;1;Domiciliares
+311610;Chapada do Norte;1,8;Alerta;5;0;0;Água
+312160;Diamantina;2,3;Alerta;7;12;19;Lixo
+313652;José Gonçalves de Minas;1,8;Alerta;8;1;1;Água
+310445;Aricanduva;2,9;Alerta;10;0;2;Água
+313250;Itamarandiba;2;Alerta;12;12;2;mais de um
+311230;Capelinha;1,4;Alerta;14;1;5;Água
+313545;Jenipapo de Minas;5,2;Risco de Epidemia;16;0;0;Água
+316970;Turmalina;1,9;Alerta;16,7;50;33,4;Domiciliares
+310340;Araçuaí;8,3;Risco de Epidemia;53;27;28;Água
+312650;Francisco Badaró;11,4;Risco de Epidemia;100;18;25;Água
+314240;Moema;2,6;Alerta;0;6;0;Domiciliares
+316820;Tapiraí;2,2;Alerta;0;0;3;Lixo
+313020;Igaratinga;1,7;Alerta;0;2;3;Lixo
+316460;São Sebastião do Oeste;2,2;Alerta;0;2;3;Lixo
+313370;Itatiaiuçu;2,7;Alerta;0;2;4;Lixo
+311450;Carmópolis de Minas;3,6;Alerta;0;4;5;Lixo
+316660;Serra da Saudade;0;Satisfatório;0;0;0;sem depósitos
+313830;Leandro Ferreira;0,2;Satisfatório;0;0;1;Lixo
+315990;Santo Antônio do Amparo;0,7;Satisfatório;0;1;1;mais de um
+312470;Estrela do Indaiá;1,5;Alerta;1;1;3;Lixo
+315880;Santana do Jacaré;3,3;Alerta;1;4;3;Domiciliares
+311400;Carmo da Mata;2,1;Alerta;1;8;3;Domiciliares
+310080;Aguanil;3,5;Alerta;1;7;5;Domiciliares
+311190;Cana Verde;4,1;Risco de Epidemia;1;7;5;Domiciliares
+315050;Pimenta;4,7;Risco de Epidemia;1;17;6;Domiciliares
+310510;Bambuí;4,4;Risco de Epidemia;1;19;12;Domiciliares
+311040;Camacho;0,2;Satisfatório;1;0;0;Água
+311760;Conceição do Pará;0,3;Satisfatório;1;0;0;Água
+312020;Cristais;0,4;Satisfatório;1;0;0;Água
+314580;Onça de Pitangui;0,4;Satisfatório;1;0;0;Água
+314130;Medeiros;0,6;Satisfatório;1;1;1;mais de um
+316120;São Francisco de Paula;1,2;Alerta;2;1;0;Água
+316180;São Gonçalo do Pará;1,2;Alerta;2;1;0;Água
+314560;Oliveira;2,9;Alerta;2;15;9;Domiciliares
+314710;Pará de Minas;2,4;Alerta;2;40;9;Domiciliares
+311980;Córrego Danta;3,4;Alerta;2;1;10;Lixo
+313530;Japaraíba;0,6;Satisfatório;2;1;0;Água
+314770;Passa Tempo;0,7;Satisfatório;2;1;0;Água
+311420;Carmo do Cajuru;2,1;Alerta;3;10;0;Domiciliares
+311995;Córrego Fundo;2,1;Alerta;3;0;2;Água
+313350;Itapecerica;1,7;Alerta;3;7;2;Domiciliares
+313220;Itaguara;1,2;Alerta;3;3;4;Lixo
+310390;Araújos;3,9;Alerta;3;9;8;Domiciliares
+313380;Itaúna;2,3;Alerta;3;27;17;Domiciliares
+316310;São José da Varginha;1,8;Alerta;4;1;0;Água
+314970;Perdigão;2,1;Alerta;4;2;14;Lixo
+315060;Piracema;5,6;Risco de Epidemia;4;1;2;Água
+311200;Candeias;2,1;Alerta;5;5;1;mais de um
+316040;Santo Antônio do Monte;1,5;Alerta;6;3;5;Água
+310420;Arcos;1,6;Alerta;7;12;2;Domiciliares
+313030;Iguatama;4,7;Risco de Epidemia;7;1;0;Água
+314650;Pains;8,9;Risco de Epidemia;7;12;8;Domiciliares
+313880;Luz;3,4;Alerta;8;9;0;Domiciliares
+311660;Cláudio;6,7;Risco de Epidemia;8;29;26;Domiciliares
+311120;Campo Belo;1,9;Alerta;9;7;10;Lixo
+315140;Pitangui;4,8;Risco de Epidemia;9;31;17;Domiciliares
+314050;Martinho Campos;6,9;Risco de Epidemia;11;25;10;Domiciliares
+312320;Dores do Indaiá;8,5;Risco de Epidemia;13;21;11;Domiciliares
+313720;Lagoa da Prata;8,3;Risco de Epidemia;15;55;41;Domiciliares
+314520;Nova Serrana;4,7;Risco de Epidemia;21;60;18;Domiciliares
+310740;Bom Despacho;8,5;Risco de Epidemia;21;82;35;Domiciliares
+312610;Formiga;3,8;Alerta;29;40;26;Domiciliares
+312230;Divinópolis;6;Risco de Epidemia;59;180;155;Domiciliares
+316410;São Pedro do Suaçuí;1;Alerta;0;0;8;Lixo
+316550;Sardoá;4,1;Risco de Epidemia;0;1;3;Lixo
+310220;Alvarenga;0;Satisfatório;0;0;0;sem depósitos
+311840;Conselheiro Pena;0;Satisfatório;0;0;0;sem depósitos
+312750;Gonzaga;0;Satisfatório;0;0;0;sem depósitos
+314467;Nova Belém;0;Satisfatório;0;0;0;sem depósitos
+315950;Santa Rita do Itueto;0;Satisfatório;0;0;0;sem depósitos
+316950;Tumiritinga;0;Satisfatório;0;0;0;sem depósitos
+312220;Divinolândia de Minas;0,5;Satisfatório;0;0;1;Lixo
+311205;Cantagalo;0,6;Satisfatório;0;0;1;Lixo
+313320;Itanhomi;0,5;Satisfatório;0;1;1;mais de um
+316350;São José do Jacuri;0,9;Satisfatório;0;1;3;Lixo
+310060;Água Boa;1,5;Alerta;1;2;0;Domiciliares
+317190;Virgolândia;1,1;Alerta;1;2;1;Domiciliares
+311920;Coroaci;2,5;Alerta;1;1;4;Lixo
+313180;Itabirinha;3,6;Alerta;1;2;5;Lixo
+315430;Resplendor;0,5;Satisfatório;1;0;1;mais de um
+316160;São Geraldo da Piedade;0,9;Satisfatório;1;0;1;mais de um
+312083;Cuparaque;0,8;Satisfatório;1;1;1;mais de um
+314840;Paulistas;0,6;Satisfatório;1;0;2;Lixo
+312695;Frei Lagonegro;1,2;Alerta;2;0;1;Água
+313960;Mantena;1,1;Alerta;2;1;4;Lixo
+316105;São Félix de Minas;2,2;Alerta;2;1;4;Lixo
+316450;São Sebastião do Maranhão;2,2;Alerta;2;1;4;Lixo
+315820;Santa Maria do Suaçuí;1,5;Alerta;2;0;6;Lixo
+312210;Divino das Laranjeiras;1,7;Alerta;2;0;6;Lixo
+316257;São João do Manteninha;2;Alerta;2;7;20;Lixo
+313507;Jampruca;0,7;Satisfatório;2;1;0;Água
+312737;Goiabeira;0,6;Satisfatório;2;2;0;mais de um
+310180;Alpercata;0,6;Satisfatório;2;0;1;Água
+316165;São Geraldo do Baixio;1,2;Alerta;3;3;0;mais de um
+312580;Fernandes Tourinho;1,9;Alerta;3;3;2;mais de um
+316280;São João Evangelista;2,7;Alerta;3;17;9;Domiciliares
+316770;Sobrália;4,6;Risco de Epidemia;3;0;6;Lixo
+313655;José Raydan;0,9;Satisfatório;3;0;0;Água
+313410;Itueta;3,7;Alerta;4;6;1;Domiciliares
+310110;Aimorés;6,8;Risco de Epidemia;4;28;16;Domiciliares
+312370;Engenheiro Caldas;1;Alerta;5;1;0;Água
+314420;Nacip Raydan;3,7;Alerta;5;3;1;Água
+311570;Central de Minas;3,3;Alerta;5;1;5;mais de um
+316300;São José da Safira;3,3;Alerta;5;2;5;mais de um
+311265;Capitão Andrade;3,9;Alerta;6;1;0;Água
+312690;Frei Inocêncio;7;Risco de Epidemia;6;17;8;Domiciliares
+316840;Tarumirim;5,9;Risco de Epidemia;7;5;3;Água
+317150;Mathias Lobato;3,5;Alerta;10;1;6;Água
+314150;Mendes Pimentel;7,6;Risco de Epidemia;11;12;6;Domiciliares
+314860;Peçanha;3,6;Alerta;16;3;5;Água
+312770;Governador Valadares;7,8;Risco de Epidemia;104;313;77;Domiciliares
+317180;Virginópolis;1,4;Alerta;0;2;2;mais de um
+310600;Bela Vista de Minas;0;Satisfatório;0;0;0;sem depósitos
+311380;Carmésia;0;Satisfatório;0;0;0;sem depósitos
+311535;Catas Altas;0;Satisfatório;0;0;0;sem depósitos
+312590;Ferros;0;Satisfatório;0;0;0;sem depósitos
+313170;Itabira;0;Satisfatório;0;0;0;sem depósitos
+314750;Passabém;0;Satisfatório;0;0;0;sem depósitos
+316050;Santo Antônio do Rio Abaixo;0;Satisfatório;0;0;0;sem depósitos
+316480;São Sebastião do Rio Preto;0;Satisfatório;0;0;0;sem depósitos
+316610;Senhora do Porto;0,4;Satisfatório;0;7;0;Domiciliares
+312260;Dom Joaquim;0,7;Satisfatório;0;0;1;Lixo
+310770;Bom Jesus do Amparo;0,9;Satisfatório;0;0;4;Lixo
+315570;Rio Piracicaba;0,6;Satisfatório;1;0;3;Lixo
+316100;São Domingos do Prata;1,3;Alerta;2;1;4;Lixo
+316190;São Gonçalo do Rio Abaixo;0;Satisfatório;2;1;0;Água
+313280;Itambé do Mato Dentro;1,9;Alerta;3;4;1;Domiciliares
+314470;Nova Era;10,6;Risco de Epidemia;3;13;30;Lixo
+315800;Santa Maria de Itabira;2,1;Alerta;4;1;2;Água
+310540;Barão de Cocais;1,8;Alerta;5;4;7;Lixo
+312800;Guanhães;3,3;Alerta;6;12;9;Domiciliares
+315720;Santa Bárbara;3,5;Alerta;6;8;15;Lixo
+311750;Conceição do Mato Dentro;7,9;Risco de Epidemia;11;4;3;Água
+313620;João Monlevade;3,1;Alerta;13;31;22;Domiciliares
+311260;Capinópolis;4,7;Risco de Epidemia;0;14;10;Domiciliares
+311580;Centralina;3,5;Alerta;2;9;5;Domiciliares
+312910;Gurinhatã;2,3;Alerta;2;2;20;Lixo
+310980;Cachoeira Dourada;5,7;Risco de Epidemia;3;23;4;Domiciliares
+311110;Campina Verde;4,9;Risco de Epidemia;4;16;3;Domiciliares
+313140;Ipiaçu;4;Risco de Epidemia;4;9;7;Domiciliares
+313420;Ituiutaba;5,5;Risco de Epidemia;6;136;66;Domiciliares
+315980;Santa Vitória;8,4;Risco de Epidemia;8;29;25;Domiciliares
+311180;Canápolis;4,8;Risco de Epidemia;9;10;7;Domiciliares
+315057;Pintópolis;0;Satisfatório;0;0;0;sem depósitos
+316420;São Romão;0;Satisfatório;0;0;0;sem depósitos
+313210;Itacarambi;0,5;Satisfatório;0;0;1;Lixo
+310825;Bonito de Minas;1,2;Alerta;1;4;0;Domiciliares
+311783;Cônego Marinho;1,8;Alerta;1;4;0;Domiciliares
+313865;Lontra;1,7;Alerta;1;2;1;Domiciliares
+313005;Icaraí de Minas;0,4;Satisfatório;1;0;0;Água
+313535;Japonvar;0,4;Satisfatório;1;0;0;Água
+316240;São João da Ponte;5;Risco de Epidemia;2;9;2;Domiciliares
+314225;Miravânia;0,7;Satisfatório;2;0;0;Água
+314915;Pedras de Maria da Cruz;1;Alerta;3;0;0;Água
+313695;Juvenília;1;Alerta;3;1;0;Água
+313930;Manga;1,6;Alerta;3;0;1;Água
+314200;Mirabela;3;Alerta;4;1;2;Água
+314795;Patis;2,1;Alerta;5;0;0;Água
+317090;Varzelândia;2,9;Alerta;5;2;0;Água
+313520;Januária;1,4;Alerta;5;5;3;mais de um
+316110;São Francisco (MG);1,2;Alerta;6;3;0;Água
+314270;Montalvânia;3,2;Alerta;7;1;0;Água
+316245;São João das Missões;4,1;Risco de Epidemia;7;9;2;Domiciliares
+317000;Ubaí;3,7;Alerta;8;2;0;Água
+313868;Luislândia;3;Alerta;8;7;0;Água
+311115;Campo Azul;3,1;Alerta;10;1;0;Água
+312965;Ibiracatu;7,8;Risco de Epidemia;10;10;8;mais de um
+310860;Brasília de Minas;3,3;Alerta;14;2;1;Água
+314570;Oliveira Fortes;1;Alerta;0;0;2;Lixo
+310750;Bom Jardim de Minas;1,7;Alerta;0;0;2;Lixo
+314020;Maripá de Minas;1,1;Alerta;0;1;3;Lixo
+310280;Andrelândia;1,2;Alerta;0;0;4;Lixo
+310330;Aracitaba;0;Satisfatório;0;0;0;sem depósitos
+310680;Bias Fortes;0;Satisfatório;0;0;0;sem depósitos
+310720;Bocaina de Minas;0;Satisfatório;0;0;0;sem depósitos
+311960;Coronel Pacheco;0;Satisfatório;0;0;0;sem depósitos
+312500;Ewbank da Câmara;0;Satisfatório;0;0;0;sem depósitos
+313850;Liberdade;0;Satisfatório;0;0;0;sem depósitos
+314540;Olaria;0;Satisfatório;0;0;0;sem depósitos
+314780;Passa-Vinte;0;Satisfatório;0;0;0;sem depósitos
+314940;Pedro Teixeira;0;Satisfatório;0;0;0;sem depósitos
+315620;Rochedo de Minas;0;Satisfatório;0;0;0;sem depósitos
+315930;Santa Rita de Jacutinga;0;Satisfatório;0;0;0;sem depósitos
+316560;Senador Cortes;0;Satisfatório;0;0;0;sem depósitos
+312850;Guarará;0,2;Satisfatório;0;1;0;Domiciliares
+310610;Belmiro Braga;0,5;Satisfatório;0;2;0;Domiciliares
+315590;Rio Preto;0,8;Satisfatório;0;2;0;Domiciliares
+310360;Arantina;0,2;Satisfatório;0;0;1;Lixo
+311620;Chiador;0,5;Satisfatório;0;0;1;Lixo
+316070;Santos Dumont;0,4;Satisfatório;0;0;2;Lixo
+315540;Rio Novo;3;Alerta;1;6;1;Domiciliares
+314080;Matias Barbosa;4,8;Risco de Epidemia;1;7;4;Domiciliares
+312130;Descoberto;0,8;Satisfatório;1;0;2;Lixo
+315727;Santa Bárbara do Monte Verde;0,9;Satisfatório;1;0;2;Lixo
+312738;Goianá;1,1;Alerta;2;3;0;Domiciliares
+316750;Simão Pereira;1,4;Alerta;2;0;2;mais de um
+311590;Chácara;1,5;Alerta;2;0;3;Lixo
+316290;São João Nepomuceno;2,3;Alerta;2;3;10;Lixo
+313860;Lima Duarte;2,1;Alerta;4;0;14;Lixo
+310690;Bicas;2,2;Alerta;5;0;4;Água
+313980;Mar de Espanha;9,3;Risco de Epidemia;13;5;9;Água
+315860;Santana do Deserto;4,5;Risco de Epidemia;16;1;7;Água
+315010;Piau;4;Risco de Epidemia;17;2;2;Água
+313670;Juiz de Fora;3,7;Alerta;49;120;107;Domiciliares
+314670;Palma;1,8;Alerta;0;0;4;Lixo
+316000;Santo Antônio do Aventureiro;1,4;Alerta;0;1;5;Lixo
+312290;Dona Eusébia;1;Alerta;1;1;0;mais de um
+310460;Astolfo Dutra;3,7;Alerta;1;16;1;Domiciliares
+313260;Itamarati de Minas;2,1;Alerta;1;1;5;Lixo
+317210;Volta Grande;4,3;Risco de Epidemia;1;6;4;Domiciliares
+312460;Estrela Dalva;0,8;Satisfatório;1;2;0;Domiciliares
+315110;Pirapetinga;2;Alerta;2;1;2;mais de um
+315410;Recreio;4,7;Risco de Epidemia;2;6;3;Domiciliares
+313800;Laranjal;0,8;Satisfatório;2;0;0;Água
+311530;Cataguases;1,7;Alerta;4;10;3;Domiciliares
+310440;Argirita;4,2;Risco de Epidemia;5;9;5;Domiciliares
+315840;Santana de Cataguases;3,7;Alerta;6;8;1;Domiciliares
+313840;Leopoldina;2,4;Alerta;6;17;5;Domiciliares
+310150;Além Paraíba;4,7;Risco de Epidemia;8;22;16;Domiciliares
+314400;Mutum;1;Alerta;0;5;1;Domiciliares
+311740;Conceição de Ipanema;2;Alerta;0;6;1;Domiciliares
+315415;Reduto;1,5;Alerta;0;0;2;Lixo
+312595;Fervedouro;1,7;Alerta;0;2;2;mais de um
+310205;Alto Caparaó;0;Satisfatório;0;0;0;sem depósitos
+311010;Caiana;0;Satisfatório;0;0;0;sem depósitos
+311210;Caparaó;0;Satisfatório;0;0;0;sem depósitos
+311290;Caputira;0;Satisfatório;0;0;0;sem depósitos
+312352;Durandé;0;Satisfatório;0;0;0;sem depósitos
+312530;Faria Lemos;0;Satisfatório;0;0;0;sem depósitos
+313867;Luisburgo;0;Satisfatório;0;0;0;sem depósitos
+314053;Martins Soares;0;Satisfatório;0;0;0;sem depósitos
+314587;Orizânia;0;Satisfatório;0;0;0;sem depósitos
+314875;Pedra Bonita;0;Satisfatório;0;0;0;sem depósitos
+314900;Pedra Dourada;0;Satisfatório;0;0;0;sem depósitos
+316360;São José do Mantimento;0;Satisfatório;0;0;0;sem depósitos
+315350;Alto Jequitibá;0,5;Satisfatório;0;1;0;Domiciliares
+315790;Santa Margarida;0,9;Satisfatório;0;3;0;Domiciliares
+313770;Lajinha;0,2;Satisfatório;0;0;1;Lixo
+310030;Abre Campo;0,3;Satisfatório;0;0;1;Lixo
+316760;Simonésia;0,5;Satisfatório;0;0;1;Lixo
+312420;Espera Feliz;0,8;Satisfatório;0;4;2;Domiciliares
+311600;Chalé;2;Alerta;1;1;6;Lixo
+312200;Divino;1,6;Alerta;1;0;8;Lixo
+316255;São João do Manhuaçu;0,8;Satisfatório;1;0;1;mais de um
+316920;Tombos;0,8;Satisfatório;1;0;1;mais de um
+315190;Pocrane;1,5;Alerta;2;3;0;Domiciliares
+315890;Santana do Manhuaçu;1,1;Alerta;2;0;2;mais de um
+311330;Carangola;1,3;Alerta;2;9;6;Domiciliares
+314090;Matipó;1,4;Alerta;3;0;11;Lixo
+316805;Taparuba;2,3;Alerta;7;1;3;Água
+313120;Ipanema;1,3;Alerta;8;4;2;Água
+313950;Manhumirim;2,7;Alerta;16;0;2;Água
+313940;Manhuaçu;5,7;Risco de Epidemia;28;51;47;Domiciliares
+313200;Itacambira;0;Satisfatório;0;0;0;sem depósitos
+316695;Serranópolis de Minas;0;Satisfatório;0;0;0;sem depósitos
+314505;Nova Porteirinha;0,3;Satisfatório;0;1;0;Domiciliares
+317065;Vargem Grande do Rio Pardo;0,5;Satisfatório;0;3;0;Domiciliares
+312660;Francisco Dumont;1,1;Alerta;1;1;1;mais de um
+312780;Grão Mogol;0,4;Satisfatório;1;0;0;Água
+313640;Joaquim Felício;0,7;Satisfatório;1;2;0;Domiciliares
+316045;Santo Antônio do Retiro;0,5;Satisfatório;1;0;1;mais de um
+312380;Engenheiro Navarro;3;Alerta;2;5;0;Domiciliares
+312087;Curral de Dentro;2,1;Alerta;2;1;2;mais de um
+310665;Berizal;0,6;Satisfatório;2;0;0;Água
+314085;Matias Cardoso;0,9;Satisfatório;2;0;0;Água
+312707;Fruta de Leite;1,2;Alerta;3;0;0;Água
+312825;Guaraciama;1,3;Alerta;3;0;0;Água
+313065;Indaiabira;0,5;Satisfatório;3;0;0;Água
+313657;Josenópolis;0,8;Satisfatório;3;0;0;Água
+312030;Cristália;2,2;Alerta;4;1;0;Água
+314545;Olhos-d'Água;2,6;Alerta;4;2;0;Água
+311650;Claro dos Poções;3,4;Alerta;4;3;1;Água
+317103;Verdelândia;3,5;Alerta;4;4;3;mais de um
+315560;Rio Pardo de Minas;3,5;Alerta;4;1;4;mais de um
+315220;Porteirinha;2,4;Alerta;4;8;4;Domiciliares
+314465;Ninheira;2,7;Alerta;5;2;0;Água
+313560;Jequitaí;2,1;Alerta;5;0;1;Água
+316225;São João da Lagoa;4;Risco de Epidemia;5;0;4;Água
+313510;Janaúba;0,7;Satisfatório;5;3;2;Água
+313505;Jaíba;1,4;Alerta;6;0;0;Água
+314100;Mato Verde;5,5;Risco de Epidemia;6;5;3;Água
+311880;Coração de Jesus;4,7;Risco de Epidemia;6;9;7;Domiciliares
+313680;Juramento;3,7;Alerta;7;11;2;Domiciliares
+311547;Catuti;2,1;Alerta;8;0;0;Água
+312670;Francisco Sá;3;Alerta;9;0;0;Água
+315650;Rubelita;3,1;Alerta;9;1;1;Água
+312735;Glaucilândia;2,3;Alerta;10;0;0;Água
+315450;Riacho dos Machados;5,2;Risco de Epidemia;10;1;1;Água
+316265;São João do Pacuí;3,6;Alerta;11;4;0;Água
+314625;Padre Carvalho;5,3;Risco de Epidemia;11;1;0;Água
+316270;São João do Paraíso;4,6;Risco de Epidemia;11;2;3;Água
+314345;Montezuma;5,4;Risco de Epidemia;12;3;0;Água
+312733;Gameleiras;4,7;Risco de Epidemia;12;8;3;Água
+313730;Lagoa dos Patos;7;Risco de Epidemia;12;9;4;Água
+313925;Mamonas;4,8;Risco de Epidemia;13;0;0;Água
+316800;Taiobeiras;4,3;Risco de Epidemia;13;6;2;Água
+315700;Salinas;4,5;Risco de Epidemia;18;12;10;Água
+314290;Monte Azul;10,2;Risco de Epidemia;20;11;23;Lixo
+311270;Capitão Enéas;5,9;Risco de Epidemia;21;3;0;Água
+314655;Pai Pedro;6,1;Risco de Epidemia;21;2;2;Água
+315737;Santa Cruz de Salinas;5,5;Risco de Epidemia;23;2;3;Água
+312430;Espinosa;6;Risco de Epidemia;26;2;2;Água
+310730;Bocaiúva;5,4;Risco de Epidemia;39;10;3;Água
+314330;Montes Claros;5,9;Risco de Epidemia;298;212;43;Água
+316294;São José da Barra;1,2;Alerta;0;1;3;Lixo
+315290;Pratápolis;1,6;Alerta;0;2;4;Lixo
+311240;Capetinga;3,9;Alerta;0;5;4;Domiciliares
+311280;Capitólio;1;Alerta;0;1;5;Lixo
+312970;Ibiraci;1,6;Alerta;0;0;6;Lixo
+313290;Itamogi;2,1;Alerta;0;3;10;Lixo
+316220;São João Batista do Glória;0;Satisfatório;0;0;0;sem depósitos
+316430;São Roque de Minas;0;Satisfatório;0;0;0;sem depósitos
+312810;Guapé;0,8;Satisfatório;0;2;2;mais de um
+310760;Bom Jesus da Penha;0,8;Satisfatório;0;0;4;Lixo
+316510;São Tomás de Aquino;1,2;Alerta;1;2;0;Domiciliares
+312340;Doresópolis;1,2;Alerta;1;3;0;Domiciliares
+313480;Jacuí;1,7;Alerta;1;0;4;Lixo
+311510;Cássia;4,3;Risco de Epidemia;1;19;8;Domiciliares
+312120;Delfinópolis;2,4;Alerta;2;4;1;Domiciliares
+312630;Fortaleza de Minas;1,8;Alerta;2;2;2;mais de um
+313375;Itaú de Minas;3,3;Alerta;2;5;11;Lixo
+311640;Claraval;4,6;Risco de Epidemia;3;9;26;Lixo
+310190;Alpinópolis;1,3;Alerta;4;1;1;Água
+314320;Monte Santo de Minas;3,4;Alerta;4;6;6;mais de um
+315150;Piumhi;8,1;Risco de Epidemia;10;46;25;Domiciliares
+314790;Passos;7,2;Risco de Epidemia;29;103;95;Domiciliares
+316680;Serra do Salitre;1,6;Alerta;0;1;3;Lixo
+310380;Arapuá;0;Satisfatório;0;0;0;sem depósitos
+312890;Guimarânia;0;Satisfatório;0;0;0;sem depósitos
+313753;Lagoa Grande;0;Satisfatório;0;0;0;sem depósitos
+316170;São Gonçalo do Abaeté;0;Satisfatório;0;0;0;sem depósitos
+316890;Tiros;0;Satisfatório;0;0;0;sem depósitos
+313710;Lagamar;0,4;Satisfatório;0;1;0;Domiciliares
+317075;Varjão de Minas;0,4;Satisfatório;0;0;2;Lixo
+312860;Guarda-Mor;2,5;Alerta;1;1;4;Lixo
+312070;Cruzeiro da Fortaleza;2,6;Alerta;2;2;6;Lixo
+314120;Matutina;0,2;Satisfatório;2;0;0;Água
+315340;Presidente Olegário;0,3;Satisfatório;2;0;0;Água
+313750;Lagoa Formosa;0,9;Satisfatório;2;0;4;Lixo
+317100;Vazante;3;Alerta;3;7;1;Domiciliares
+315550;Rio Paranaíba;2,9;Alerta;3;2;3;mais de um
+313630;João Pinheiro;2,1;Alerta;3;7;4;Domiciliares
+311430;Carmo do Paranaíba;1,7;Alerta;7;3;1;Água
+315970;Santa Rosa da Serra;0;Satisfatório;13;12;17;Lixo
+316210;São Gotardo;5,4;Risco de Epidemia;21;6;8;Água
+314800;Patos de Minas;2,1;Alerta;27;42;15;Domiciliares
+314315;Monte Formoso;0;Satisfatório;0;0;0;sem depósitos
+315510;Rio do Prado;0;Satisfatório;0;1;0;Domiciliares
+313330;Itaobim;0,6;Satisfatório;0;2;0;Domiciliares
+313600;Joaíma;2,8;Alerta;1;3;2;Domiciliares
+310100;Águas Vermelhas;0;Satisfatório;1;0;0;Água
+311700;Comercinho;0,4;Satisfatório;1;0;0;Água
+310270;Cachoeira de Pajeú;2,1;Alerta;2;0;2;mais de um
+313400;Itinga;0;Satisfatório;3;0;0;Água
+313650;Jordânia;2,8;Alerta;4;0;4;mais de um
+310520;Bandeira;2,9;Alerta;7;5;1;Água
+312245;Divisópolis;2,3;Alerta;8;0;0;Água
+313580;Jequitinhonha;4,5;Risco de Epidemia;8;6;2;Água
+313470;Jacinto;4,3;Risco de Epidemia;10;2;3;Água
+310170;Almenara;2,7;Alerta;11;8;1;Água
+312235;Divisa Alegre;5,6;Risco de Epidemia;12;1;0;Água
+313810;Lassance;0;Satisfatório;0;0;0;sem depósitos
+315213;Ponto Chique;2,1;Alerta;2;2;3;Lixo
+315760;Santa Fé de Minas;0,6;Satisfatório;2;0;0;Água
+312960;Ibiaí;2,4;Alerta;3;3;0;mais de um
+310940;Buritizeiro;4,8;Risco de Epidemia;13;9;10;Água
+317080;Várzea da Palma;6,1;Risco de Epidemia;35;24;5;Água
+310570;Barra Longa;1,1;Alerta;0;2;2;mais de um
+310370;Araponga;0;Satisfatório;0;0;0;sem depósitos
+311020;Cajuri;0;Satisfatório;0;0;0;sem depósitos
+312820;Guaraciaba;0;Satisfatório;0;0;0;sem depósitos
+314880;Pedra do Anta;0;Satisfatório;0;0;0;sem depósitos
+316556;Sem-Peixe;0;Satisfatório;0;0;0;sem depósitos
+311170;Canaã;0,4;Satisfatório;0;1;1;mais de um
+310250;Amparo do Serra;0,6;Satisfatório;0;1;1;mais de um
+315500;Rio Doce;0,8;Satisfatório;0;2;1;Domiciliares
+315230;Porto Firme;0;Satisfatório;0;4;5;Lixo
+316380;São Miguel do Anta;0;Satisfatório;0;0;281;Lixo
+315740;Santa Cruz do Escalvado;1,1;Alerta;1;3;1;Domiciliares
+313550;Jequeri;3,3;Alerta;1;6;1;Domiciliares
+316850;Teixeiras;1,2;Alerta;1;1;2;Lixo
+312170;Diogo de Vasconcelos;0,3;Satisfatório;1;0;0;Água
+316010;Santo Antônio do Grama;0,9;Satisfatório;1;2;2;mais de um
+316340;São José do Goiabal;1,1;Alerta;2;1;0;Água
+314830;Paula Cândido;0,8;Satisfatório;2;0;0;Água
+312270;Dom Silvério;0;Satisfatório;2;2;2;mais de um
+315490;Rio Casca;2,2;Alerta;3;5;2;Domiciliares
+315400;Raul Soares;1,8;Alerta;3;13;6;Domiciliares
+316400;São Pedro dos Ferros;2,3;Alerta;5;1;0;Água
+317050;Urucânia;5,6;Risco de Epidemia;5;7;4;Domiciliares
+316630;Sericita;0;Satisfatório;5;7;70;Lixo
+317130;Viçosa;1,2;Alerta;7;12;9;Domiciliares
+310040;Acaiaca;4,3;Risco de Epidemia;8;3;5;Água
+315020;Piedade de Ponte Nova;3;Alerta;11;0;0;Água
+314585;Oratórios;3,9;Alerta;12;8;3;Água
+310230;Alvinópolis;2,9;Alerta;108;83;355;Lixo
+311030;Caldas;1;Alerta;0;1;2;Lixo
+310140;Albertina;1;Alerta;0;2;2;mais de um
+315920;Santa Rita de Caldas;3,9;Alerta;0;3;6;Lixo
+311060;Cambuí;2,1;Alerta;0;6;8;Lixo
+311050;Camanducaia;5,4;Risco de Epidemia;0;2;13;Lixo
+310790;Bom Repouso;0;Satisfatório;0;0;0;sem depósitos
+311720;Conceição das Pedras;0;Satisfatório;0;0;0;sem depósitos
+311850;Consolação;0;Satisfatório;0;0;0;sem depósitos
+312110;Delfim Moreira;0;Satisfatório;0;0;0;sem depósitos
+312740;Gonçalves;0;Satisfatório;0;0;0;sem depósitos
+313060;Inconfidentes;0;Satisfatório;0;0;0;sem depósitos
+313150;Ipuiúna;0;Satisfatório;0;0;0;sem depósitos
+313360;Itapeva;0;Satisfatório;0;0;0;sem depósitos
+314380;Munhoz;0;Satisfatório;0;0;0;sem depósitos
+314440;Natércia;0;Satisfatório;0;0;0;sem depósitos
+316440;São Sebastião da Bela Vista;0;Satisfatório;0;0;0;sem depósitos
+316540;Sapucaí-Mirim;0;Satisfatório;0;0;0;sem depósitos
+316557;Senador Amaral;0;Satisfatório;0;0;0;sem depósitos
+316740;Silvianópolis;0;Satisfatório;0;0;0;sem depósitos
+316905;Tocos do Moji;0;Satisfatório;0;0;0;sem depósitos
+316980;Turvolândia;0;Satisfatório;0;0;0;sem depósitos
+317220;Wenceslau Braz;0;Satisfatório;0;0;0;sem depósitos
+316320;São José do Alegre;0,3;Satisfatório;0;0;0;sem depósitos
+311360;Careaçu;0,4;Satisfatório;0;1;0;Domiciliares
+314910;Pedralva;0,4;Satisfatório;0;0;1;Lixo
+315090;Piranguçu;0,4;Satisfatório;0;0;1;Lixo
+312450;Estiva;0,5;Satisfatório;0;0;2;Lixo
+313990;Maria da Fé;0,7;Satisfatório;0;1;2;Lixo
+312440;Espírito Santo do Dourado;0,8;Satisfatório;0;0;6;Lixo
+316910;Toledo;2;Alerta;1;4;0;Domiciliares
+311790;Congonhal;1,2;Alerta;1;0;2;Lixo
+316580;Senador José Bento;1,6;Alerta;1;1;2;Lixo
+310830;Borda da Mata;2,5;Alerta;1;2;3;Lixo
+315100;Piranguinho;0,2;Satisfatório;1;0;0;Água
+310910;Bueno Brandão;0,7;Satisfatório;1;1;1;mais de um
+310970;Cachoeira de Minas;1,9;Alerta;2;3;1;Domiciliares
+311780;Conceição dos Ouros;2,1;Alerta;2;0;3;Lixo
+314600;Ouro Fino;1,3;Alerta;2;1;6;Lixo
+312920;Heliodora;0,5;Satisfatório;2;0;0;Água
+312510;Extrema;2,1;Alerta;3;5;8;Lixo
+315960;Santa Rita do Sapucaí;2;Alerta;3;4;11;Lixo
+310890;Brasópolis;7,2;Risco de Epidemia;3;13;8;Domiciliares
+312990;Ibitiúra de Minas;3,1;Alerta;4;5;8;Lixo
+314730;Paraisópolis;5;Risco de Epidemia;4;10;15;Lixo
+313490;Jacutinga;2,3;Alerta;5;18;7;Domiciliares
+313240;Itajubá;2,5;Alerta;7;41;16;Domiciliares
+310260;Andradas;5,3;Risco de Epidemia;7;28;15;Domiciliares
+315180;Poços de Caldas;1,6;Alerta;8;23;42;Lixo
+315250;Pouso Alegre;4,5;Risco de Epidemia;28;103;67;Domiciliares
+316500;São Tiago;1,3;Alerta;0;1;2;Lixo
+313740;Lagoa Dourada;2;Alerta;0;2;3;Lixo
+310800;Bom Sucesso;1,7;Alerta;0;0;4;Lixo
+313910;Madre de Deus de Minas;0;Satisfatório;0;0;0;sem depósitos
+311970;Coronel Xavier Chaves;0,3;Satisfatório;0;1;0;Domiciliares
+311520;Conceição da Barra de Minas;0,4;Satisfatório;0;1;0;Domiciliares
+312390;Entre Rios de Minas;0,4;Satisfatório;0;1;0;Domiciliares
+312140;Desterro de Entre Rios;0,4;Satisfatório;0;0;1;Lixo
+312300;Dores de Campos;0,4;Satisfatório;0;0;1;Lixo
+316530;São Vicente de Minas;0,9;Satisfatório;0;0;2;Lixo
+315420;Resende Costa;1,3;Alerta;1;2;0;Domiciliares
+315270;Prados;1,7;Alerta;1;4;0;Domiciliares
+314450;Nazareno;2,5;Alerta;1;5;0;Domiciliares
+315733;Santa Cruz de Minas;1,3;Alerta;2;1;0;Água
+310590;Barroso;1;Alerta;2;1;1;Água
+316880;Tiradentes;2,3;Alerta;2;4;1;Domiciliares
+315610;Ritápolis;1,9;Alerta;2;1;2;mais de um
+313000;Ibituruna;0,4;Satisfatório;2;0;0;Água
+315030;Piedade do Rio Grande;1,9;Alerta;3;0;2;Água
+316250;São João del Rei;3,4;Alerta;17;25;27;Lixo
+314640;Paineiras;2,4;Alerta;0;6;0;Domiciliares
+313100;Inhaúma;1,5;Alerta;0;2;1;Domiciliares
+311250;Capim Branco;1,3;Alerta;0;3;3;mais de um
+311560;Cedro do Abaeté;0,3;Satisfatório;0;1;0;Domiciliares
+315370;Quartel Geral;0,4;Satisfatório;0;0;1;Lixo
+310700;Biquinhas;0,4;Satisfatório;0;1;2;Lixo
+313570;Jequitibá;0,9;Satisfatório;0;0;6;Lixo
+310480;Augusto de Lima;3,5;Alerta;1;6;1;Domiciliares
+314350;Morada Nova de Minas;0,7;Satisfatório;1;2;1;Domiciliares
+311910;Corinto;2,5;Alerta;2;11;1;Domiciliares
+310960;Cachoeira da Prata;3,7;Alerta;2;1;7;Lixo
+315320;Presidente Juscelino;0,2;Satisfatório;2;5;0;Domiciliares
+312720;Funilândia;1,1;Alerta;3;0;1;Água
+316060;Santo Hipólito;1,2;Alerta;3;3;1;mais de um
+312640;Fortuna de Minas;1,6;Alerta;3;2;2;Água
+314250;Monjolos;1,7;Alerta;3;2;3;mais de um
+315850;Santana de Pirapama;3,2;Alerta;3;0;5;Lixo
+310020;Abaeté;2,6;Alerta;3;10;11;Lixo
+313110;Inimutaba;4,8;Risco de Epidemia;3;7;2;Domiciliares
+310920;Buenópolis;1,9;Alerta;5;1;2;Água
+313970;Maravilhas;6;Risco de Epidemia;6;3;4;Água
+312570;Felixlândia;6;Risco de Epidemia;7;13;11;Lixo
+310320;Araçaí;4,2;Risco de Epidemia;8;4;4;Água
+314690;Papagaios;7,3;Risco de Epidemia;8;15;13;Domiciliares
+311890;Cordisburgo;6,7;Risco de Epidemia;9;4;2;Água
+310500;Baldim;7,4;Risco de Epidemia;9;6;3;Água
+314360;Morro da Garça;6,4;Risco de Epidemia;9;6;10;Lixo
+316935;Três Marias;3,7;Alerta;10;9;9;Água
+315200;Pompéu;6,9;Risco de Epidemia;17;40;40;mais de um
+315360;Prudente de Morais;4,1;Risco de Epidemia;18;0;3;Água
+310990;Caetanópolis;7,4;Risco de Epidemia;18;14;22;Lixo
+314960;Pequi;10,6;Risco de Epidemia;21;7;9;Água
+312090;Curvelo;8,5;Risco de Epidemia;32;51;48;Domiciliares
+314740;Paraopeba;12,4;Risco de Epidemia;39;53;26;Domiciliares
+316720;Sete Lagoas;2,5;Alerta;62;38;65;Lixo
+310090;Águas Formosas;1,3;Alerta;0;6;3;Domiciliares
+310660;Bertópolis;0;Satisfatório;0;0;0;sem depósitos
+312705;Fronteira dos Vales;0;Satisfatório;0;0;0;sem depósitos
+313230;Itaipé;0;Satisfatório;0;0;0;sem depósitos
+314535;Novo Oriente de Minas;0;Satisfatório;0;0;0;sem depósitos
+315765;Santa Helena de Minas;0;Satisfatório;0;0;0;sem depósitos
+317030;Umburatiba;0;Satisfatório;0;0;0;sem depósitos
+314620;Ouro Verde de Minas;0,5;Satisfatório;0;0;2;Lixo
+311300;Caraí;3;Alerta;1;6;0;Domiciliares
+313890;Machacalis;2,2;Alerta;1;2;2;mais de um
+314490;Nova Módica;1,3;Alerta;1;3;2;Domiciliares
+312680;Frei Gaspar;0,5;Satisfatório;1;1;0;mais de um
+312015;Crisólita;0,6;Satisfatório;1;1;0;mais de um
+311370;Carlos Chagas;0;Satisfatório;1;5;0;Domiciliares
+310285;Angelândia;2,8;Alerta;2;1;5;Lixo
+310470;Ataléia;1,3;Alerta;3;0;0;Água
+313700;Ladainha;3,9;Alerta;3;3;3;mais de um
+316330;São José do Divino (MG);2,1;Alerta;3;0;4;Lixo
+316555;Setubinha;3;Alerta;3;4;9;Lixo
+311545;Catuji;1,5;Alerta;5;0;1;Água
+315000;Pescador;2,6;Alerta;5;2;3;Água
+316670;Serra dos Aimorés;1,3;Alerta;6;0;0;Água
+315240;Poté;2;Alerta;6;2;1;Água
+314850;Pavão;3,1;Alerta;6;0;2;Água
+313920;Malacacheta;2,9;Alerta;9;4;0;Água
+313270;Itambacuri;2,7;Alerta;10;3;1;Água
+311080;Campanário;4,7;Risco de Epidemia;10;7;3;Água
+312675;Franciscópolis;4,4;Risco de Epidemia;12;0;0;Água
+314530;Novo Cruzeiro;5,1;Risco de Epidemia;16;5;8;Água
+314430;Nanuque;4;Risco de Epidemia;20;6;9;Água
+316860;Teófilo Otoni;2,9;Alerta;55;26;14;Água
+312900;Guiricema;1;Alerta;0;1;0;Domiciliares
+314220;Miraí;1,5;Alerta;0;3;0;Domiciliares
+315580;Rio Pomba;1,6;Alerta;0;7;0;Domiciliares
+314820;Patrocínio do Muriaé;2,4;Alerta;0;3;1;Domiciliares
+310310;Antônio Prado de Minas;3;Alerta;0;6;1;Domiciliares
+315130;Piraúba;4,2;Risco de Epidemia;0;5;1;Domiciliares
+310550;Barão de Monte Alto;0;Satisfatório;0;0;0;sem depósitos
+311670;Coimbra;0;Satisfatório;0;0;0;sem depósitos
+312190;Divinésia;0;Satisfatório;0;0;0;sem depósitos
+312330;Dores do Turvo;0;Satisfatório;0;0;0;sem depósitos
+312840;Guarani;0;Satisfatório;0;0;0;sem depósitos
+316443;São Sebastião da Vargem Alegre;0;Satisfatório;0;0;0;sem depósitos
+316570;Senador Firmino;0;Satisfatório;0;0;0;sem depósitos
+316730;Silveirânia;0;Satisfatório;0;0;0;sem depósitos
+315645;Rosário da Limeira;0,3;Satisfatório;0;1;0;Domiciliares
+314210;Miradouro;0,7;Satisfatório;0;1;0;Domiciliares
+312490;Eugenópolis;0;Satisfatório;0;0;8;Lixo
+312400;Ervália;1;Alerta;1;1;0;mais de um
+316790;Tabuleiro;1;Alerta;1;0;3;Lixo
+310870;Brás Pires;0,2;Satisfatório;1;0;0;Água
+315630;Rodeiro;0,9;Satisfatório;1;1;0;mais de um
+316150;São Geraldo;1,3;Alerta;2;1;0;Água
+316900;Tocantins;3,3;Alerta;2;2;4;Lixo
+316140;São Francisco do Glória;1,3;Alerta;2;0;5;Lixo
+317140;Vieiras;1,1;Alerta;4;0;0;Água
+314160;Mercês;2,6;Alerta;4;1;2;Água
+314390;Muriaé;1,2;Alerta;4;8;12;Lixo
+312880;Guidoval;3,7;Alerta;5;1;1;Água
+315310;Presidente Bernardes;2,6;Alerta;5;4;1;Água
+317200;Visconde do Rio Branco;1,3;Alerta;16;9;4;Água
+316990;Ubá;7,2;Risco de Epidemia;50;78;37;Domiciliares
+312125;Delta;1;Alerta;0;0;3;Lixo
+312700;Fronteira;1,4;Alerta;0;4;3;Domiciliares
+316810;Tapira;0,3;Satisfatório;0;1;0;Domiciliares
+311140;Campo Florido;0,8;Satisfatório;0;2;0;Domiciliares
+315300;Pratinha;0,3;Satisfatório;0;0;1;Lixo
+311150;Campos Altos;0,8;Satisfatório;0;3;1;Domiciliares
+311690;Comendador Gomes;0,8;Satisfatório;0;0;5;Lixo
+311820;Conquista;3,4;Alerta;1;6;2;Domiciliares
+316130;São Francisco de Sales;0,9;Satisfatório;1;0;1;mais de um
+313340;Itapagipe;0,8;Satisfatório;1;2;1;Domiciliares
+313440;Iturama;0,6;Satisfatório;1;3;1;Domiciliares
+317043;União de Minas;0,4;Satisfatório;1;3;4;Lixo
+317110;Veríssimo;0,8;Satisfatório;1;2;8;Lixo
+314980;Perdizes;1,7;Alerta;2;5;3;Domiciliares
+315160;Planura;3,1;Alerta;2;17;3;Domiciliares
+314920;Pedrinópolis;1,5;Alerta;2;0;4;Lixo
+315070;Pirajuba;2,9;Alerta;2;1;6;Lixo
+315770;Santa Juliana;2,9;Alerta;2;1;11;Lixo
+312950;Ibiá;5,3;Risco de Epidemia;2;22;25;Lixo
+311455;Carneirinho;7,5;Risco de Epidemia;3;11;3;Domiciliares
+310070;Água Comprida;2,5;Alerta;5;2;1;Água
+311730;Conceição das Alagoas;1,9;Alerta;7;0;2;Água
+315690;Sacramento;2,2;Alerta;7;15;6;Domiciliares
+310400;Araxá;1,4;Alerta;7;15;14;Domiciliares
+313862;Limeira do Oeste;4,6;Risco de Epidemia;7;1;2;Água
+312710;Frutal;3,4;Alerta;13;23;11;Domiciliares
+317010;Uberaba;4,3;Risco de Epidemia;56;193;174;Domiciliares
+312480;Estrela do Sul;1;Alerta;0;1;2;Lixo
+314500;Nova Ponte;0;Satisfatório;0;0;0;sem depósitos
+315640;Romaria;0;Satisfatório;0;0;0;sem depósitos
+312790;Grupiara;0,4;Satisfatório;0;0;1;Lixo
+313070;Indianópolis;1,8;Alerta;1;0;3;Lixo
+310375;Araporã;3,6;Alerta;1;1;6;Lixo
+310010;Abadia dos Dourados;0,7;Satisfatório;1;1;0;mais de um
+313160;Iraí de Minas;0,7;Satisfatório;1;0;1;mais de um
+316960;Tupaciguara;2,1;Alerta;2;5;7;Lixo
+312350;Douradoquara;0,4;Satisfatório;2;0;0;Água
+311930;Coromandel;0,6;Satisfatório;2;1;0;Água
+311500;Cascalho Rico;2,9;Alerta;4;2;1;Água
+315280;Prata;2;Alerta;4;11;2;Domiciliares
+314280;Monte Alegre de Minas;6,5;Risco de Epidemia;4;11;13;Lixo
+314310;Monte Carmelo;2,4;Alerta;13;6;13;mais de um
+314810;Patrocínio;4;Risco de Epidemia;23;21;24;Lixo
+310350;Araguari;4,1;Risco de Epidemia;29;41;48;Lixo
+317020;Uberlândia;5,2;Risco de Epidemia;48;414;414;mais de um
+315445;Riachinho;0;Satisfatório;0;0;0;sem depósitos
+317047;Uruana de Minas;0;Satisfatório;0;0;0;sem depósitos
+310930;Buritis;2,6;Alerta;1;4;0;Domiciliares
+312620;Formoso;3,9;Alerta;1;0;2;Lixo
+310945;Cabeceira Grande;0,6;Satisfatório;1;1;3;Lixo
+311615;Chapada Gaúcha;1,3;Alerta;3;0;0;Água
+312247;Dom Bosco;1,9;Alerta;5;2;0;Água
+317040;Unaí;4,1;Risco de Epidemia;10;52;11;Domiciliares
+314700;Paracatu;10,3;Risco de Epidemia;42;69;46;Domiciliares
+316490;São Sebastião do Rio Verde;1,1;Alerta;0;1;2;Lixo
+311410;Carmo de Minas;1,4;Alerta;0;5;6;Lixo
+310710;Boa Esperança;4,5;Risco de Epidemia;0;22;12;Domiciliares
+311900;Cordislândia;0;Satisfatório;0;0;0;Lixo
+310120;Aiuruoca;0;Satisfatório;0;0;0;sem depósitos
+310130;Alagoa;0;Satisfatório;0;0;0;sem depósitos
+311460;Carrancas;0;Satisfatório;0;0;0;sem depósitos
+311480;Carvalhos;0;Satisfatório;0;0;0;sem depósitos
+312050;Cristina;0;Satisfatório;0;0;0;sem depósitos
+312280;Dom Viçoso;0;Satisfatório;0;0;0;sem depósitos
+313310;Itanhandu;0;Satisfatório;0;0;0;sem depósitos
+313590;Jesuânia;0;Satisfatório;0;0;0;sem depósitos
+313780;Lambari;0;Satisfatório;0;0;0;sem depósitos
+314260;Monsenhor Paulo;0;Satisfatório;0;0;0;sem depósitos
+314550;Olímpio Noronha;0;Satisfatório;0;0;0;sem depósitos
+314760;Passa Quatro;0;Satisfatório;0;0;0;sem depósitos
+315260;Pouso Alto;0;Satisfatório;0;0;0;sem depósitos
+316080;São Bento Abade;0;Satisfatório;0;0;0;sem depósitos
+316520;São Thomé das Letras;0;Satisfatório;0;0;0;sem depósitos
+316640;Seritinga;0;Satisfatório;0;0;0;sem depósitos
+316700;Serranos;0;Satisfatório;0;0;0;sem depósitos
+316780;Soledade de Minas;0;Satisfatório;0;0;0;sem depósitos
+317170;Virgínia;0;Satisfatório;0;0;0;sem depósitos
+313300;Itamonte;0;Satisfatório;0;1;0;Domiciliares
+311770;Conceição do Rio Verde;0,2;Satisfatório;0;0;1;Lixo
+312080;Cruzília;0,2;Satisfatório;0;0;1;Lixo
+310490;Baependi;0,5;Satisfatório;0;1;1;mais de um
+314190;Minduri;0,5;Satisfatório;0;0;3;Lixo
+313050;Ilicínea;0,7;Satisfatório;0;0;3;Lixo
+312360;Elói Mendes;1,9;Alerta;1;8;0;Domiciliares
+314460;Nepomuceno;1,6;Alerta;1;2;4;Lixo
+313430;Itumirim;1,8;Alerta;1;1;7;Lixo
+313870;Luminárias;4;Risco de Epidemia;1;1;7;Lixo
+313040;Ijaci;0,5;Satisfatório;1;0;0;Água
+311550;Caxambu;0,9;Satisfatório;1;4;0;Domiciliares
+313450;Itutinga;0,4;Satisfatório;1;0;1;mais de um
+311070;Cambuquira;0;Satisfatório;1;0;2;Lixo
+311870;Coqueiral;0;Satisfatório;1;2;4;Lixo
+315830;Santana da Vargem;0,9;Satisfatório;2;0;0;Água
+313820;Lavras;0,4;Satisfatório;2;6;4;Domiciliares
+314990;Perdões;2,1;Alerta;4;2;6;Lixo
+311390;Carmo da Cachoeira;5;Risco de Epidemia;5;7;7;mais de um
+311090;Campanha;0,8;Satisfatório;5;0;1;Água
+316370;São Lourenço;1,5;Alerta;6;3;9;Lixo
+316930;Três Corações;1,2;Alerta;7;9;5;Domiciliares
+316940;Três Pontas;4,1;Risco de Epidemia;8;17;12;Domiciliares
+317070;Varginha;3,3;Alerta;35;68;35;Domiciliares
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
