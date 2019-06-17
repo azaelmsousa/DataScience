@@ -3,7 +3,6 @@ import seaborn as sns
 import pandas as pd
 import numpy as np
 import sklearn
-import os
 
 from sklearn import preprocessing
 from sklearn.preprocessing import RobustScaler
@@ -15,16 +14,6 @@ from sklearn.utils.multiclass import unique_labels
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import precision_score
 from sklearn.metrics import recall_score
-
-from sklearn.neural_network import MLPClassifier
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.svm import SVC
-from sklearn.gaussian_process import GaussianProcessClassifier
-from sklearn.gaussian_process.kernels import RBF
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier
-from sklearn.naive_bayes import GaussianNB
-from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 
 
 def plot_confusion_matrix(y_true, y_pred, classes,
@@ -82,27 +71,14 @@ def plot_confusion_matrix(y_true, y_pred, classes,
 
 
 # Loading data
-path = "../data/Tabelas_Dengue_2017-2019/Boletim_de_Arboviroses_-_Predominante_-_Outubro_2018_831municipios_1.csv"
-df_arboviroses = pd.read_csv(path,decimal=",")
+path = "../data/Tabelas_Gephi/gephi-allNodes.csv"
+df_gephi = pd.read_csv(path).fillna(0)
+print(df_gephi.head(10))
 
-
-path = "../data/Tabelas_Dengue_2017-2019/LIRAaLIA_Janeiro2019_(2).csv"
-df_libralia = pd.read_csv(path,decimal=",")
-df_libralia.drop(columns=['IBGE','Regional','STATUS'],inplace=True)
-
-
-path = "../data/Tabelas_Dengue_2017-2019/Dengue_2018.csv"
-df_dengue = pd.read_csv(path,decimal=",")
-df_dengue = df_dengue[['Municipio','Total','Incidência','Situação']]
-df_dengue = df_dengue.rename(index=str, columns={"Municipio": "Município", "Total": "Total_Casos"})
-
-
-# Preparing data
-df_data = df_libralia.merge(df_dengue,on=['Município']).fillna(0)
-df_label = df_data[['Situação']]
-df_data.drop(columns=['Município','Situação'],inplace=True)
-X_columns = df_data.columns
-X = df_data.values
+df_label = df_gephi[['modularity_class']]
+df_gephi.drop(columns=['Id','Label','timeset','modularity_class'],inplace=True)
+X_columns = df_gephi.columns
+X = df_gephi.values
 y = np.squeeze(df_label.values)
 
 class_names = np.unique(y)
@@ -114,7 +90,6 @@ X[:,-3] = le.fit_transform(X[:,-3])
 X = X.astype(np.float)
 X = RobustScaler().fit_transform(X)
 
-
 # Separating traine and test
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5, random_state=42)
 
@@ -123,47 +98,12 @@ print(X_test.shape)
 
 
 # Applying classification model
-
-names = ["Nearest Neighbors(3)", "Nearest Neighbors(5)", "Nearest Neighbors(10)", "Linear SVM", "Gaussian Process",
-         "Decision Tree", "Random Forest", "Neural Net", "AdaBoost",
-         "Naive Bayes", "QDA"]
-
-classifiers = [
-    KNeighborsClassifier(3),
-    KNeighborsClassifier(5),
-    KNeighborsClassifier(10),
-    SVC(kernel="linear", C=0.025),
-    GaussianProcessClassifier(1.0 * RBF(1.0)),
-    DecisionTreeClassifier(),
-    RandomForestClassifier(n_estimators=100),
-    MLPClassifier(alpha=1, max_iter=1000),
-    AdaBoostClassifier(),
-    GaussianNB(),
-    QuadraticDiscriminantAnalysis()]
-
-
-print("="*60)
-for name, clf in zip(names, classifiers):
-  print(name)
-  clf.fit(X_train,y_train)
-  y_pred = clf.predict(X_test)
-
-  print("Accuracy: "+str(accuracy_score(y_test,y_pred)))
-  
-  print("Precision: "+str(precision_score(y_test,y_pred,average='macro')))
-  
-  print("Recall: "+str(recall_score(y_test,y_pred,average='macro')))
-
-  #plot_confusion_matrix(y_test, y_pred, classes=class_names, normalize=True,
-  #                    title='Normalized confusion matrix')
-
-  #plt.show()
-  
-  print("="*60)
+clf = RandomForestClassifier(n_estimators=100)
+clf.fit(X_train,y_train)
+y_pred = clf.predict(X_test)
 
 
 # Computing metrics
-'''
 print("="*60)
 print("Accuracy: "+str(accuracy_score(y_test,y_pred)))
 print("="*60)
@@ -180,13 +120,11 @@ plot_confusion_matrix(y_test, y_pred, classes=class_names, normalize=True,
                       title='Normalized confusion matrix')
 
 plt.show()
-'''
 
 # Compute the correlation matrix
 sns.set(style="white")
-df_data[['Predominante']] = df_data[['Predominante']].apply(le.fit_transform)
-df_data = df_data.astype('float64')
-corr = df_data.corr()
+df_gephi = df_gephi.astype('float64')
+corr = df_gephi.corr()
 
 mask = np.zeros_like(corr, dtype=np.bool)
 mask[np.triu_indices_from(mask)] = True

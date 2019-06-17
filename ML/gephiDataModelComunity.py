@@ -3,7 +3,8 @@ import seaborn as sns
 import pandas as pd
 import numpy as np
 import sklearn
-import os
+
+from matplotlib.colors import ListedColormap
 
 from sklearn import preprocessing
 from sklearn.preprocessing import RobustScaler
@@ -80,49 +81,7 @@ def plot_confusion_matrix(y_true, y_pred, classes,
     fig.tight_layout()
     return ax
 
-
-# Loading data
-path = "../data/Tabelas_Dengue_2017-2019/Boletim_de_Arboviroses_-_Predominante_-_Outubro_2018_831municipios_1.csv"
-df_arboviroses = pd.read_csv(path,decimal=",")
-
-
-path = "../data/Tabelas_Dengue_2017-2019/LIRAaLIA_Janeiro2019_(2).csv"
-df_libralia = pd.read_csv(path,decimal=",")
-df_libralia.drop(columns=['IBGE','Regional','STATUS'],inplace=True)
-
-
-path = "../data/Tabelas_Dengue_2017-2019/Dengue_2018.csv"
-df_dengue = pd.read_csv(path,decimal=",")
-df_dengue = df_dengue[['Municipio','Total','Incidência','Situação']]
-df_dengue = df_dengue.rename(index=str, columns={"Municipio": "Município", "Total": "Total_Casos"})
-
-
-# Preparing data
-df_data = df_libralia.merge(df_dengue,on=['Município']).fillna(0)
-df_label = df_data[['Situação']]
-df_data.drop(columns=['Município','Situação'],inplace=True)
-X_columns = df_data.columns
-X = df_data.values
-y = np.squeeze(df_label.values)
-
-class_names = np.unique(y)
-le = preprocessing.LabelEncoder()
-y = le.fit_transform(y)
-y = y.astype(np.int)
-
-X[:,-3] = le.fit_transform(X[:,-3])
-X = X.astype(np.float)
-X = RobustScaler().fit_transform(X)
-
-
-# Separating traine and test
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5, random_state=42)
-
-print(X_train.shape)
-print(X_test.shape)
-
-
-# Applying classification model
+# Initialization
 
 names = ["Nearest Neighbors(3)", "Nearest Neighbors(5)", "Nearest Neighbors(10)", "Linear SVM", "Gaussian Process",
          "Decision Tree", "Random Forest", "Neural Net", "AdaBoost",
@@ -142,6 +101,84 @@ classifiers = [
     QuadraticDiscriminantAnalysis()]
 
 
+# Loading data
+path = "../data/Tabelas_Gephi/gephi-allNodes.csv"
+df_gephi = pd.read_csv(path).fillna(0)
+df_gephi = df_gephi.rename(index=str, columns={"Id": "Município"})
+
+path = "../data/Tabelas_Dengue_2017-2019/Boletim_de_Arboviroses_-_Predominante_-_Outubro_2018_831municipios_1.csv"
+df_arboviroses = pd.read_csv(path,decimal=",")
+
+path = "../data/Tabelas_Dengue_2017-2019/LIRAaLIA_Janeiro2019_(2).csv"
+df_libralia = pd.read_csv(path,decimal=",")
+df_libralia.drop(columns=['IBGE','Regional','STATUS'],inplace=True)
+
+
+path = "../data/Tabelas_Dengue_2017-2019/Dengue_2018.csv"
+df_dengue = pd.read_csv(path,decimal=",")
+df_dengue = df_dengue[['Municipio','Total','Incidência','Situação']]
+df_dengue = df_dengue.rename(index=str, columns={"Municipio": "Município", "Total": "Total_Casos"})
+
+
+# Preparing data
+df_merge = df_libralia.merge(df_dengue,on=['Município'])
+df_data = df_merge.merge(df_gephi,on=['Município'])
+df_label = df_data[['Situação']]
+print(df_data.head(10))
+df_data.drop(columns=['Município','Label','timeset','pageranks','Incidência','Situação'],inplace=True)
+X_columns = df_data.columns
+X = df_data.values
+y = np.squeeze(df_label.values)
+
+print(df_data.head(10))
+print(X[0:10,:])
+print(y[0:10])
+
+# one hot encoding
+class_names = np.unique(y)
+le = preprocessing.LabelEncoder()
+y = le.fit_transform(y)
+y = y.astype(np.int)
+
+predominante = df_data.columns.get_loc("Predominante")
+index = X.shape[1]-predominante
+X[:,-index] = le.fit_transform(X[:,-index])
+X = X.astype(np.float)
+X = RobustScaler().fit_transform(X)
+
+
+col_mean = np.nanmean(X, axis=0)
+inds = np.where(np.isnan(X))
+X[inds] = np.take(col_mean, inds[1])
+
+# Separating traine and test
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5, random_state=42)
+
+# Applying classification model
+clf = RandomForestClassifier(n_estimators=100)
+clf.fit(X_train,y_train)
+y_pred = clf.predict(X_test)
+
+
+# Computing metrics
+print("Random Forest")
+print("Accuracy: "+str(accuracy_score(y_test,y_pred)))
+print("Precision: "+str(precision_score(y_test,y_pred,average='macro')))
+print("Recall: "+str(recall_score(y_test,y_pred,average='macro')))
+print("="*60)
+
+feature_importances = pd.DataFrame(clf.feature_importances_, index = X_columns, columns=['importance']).sort_values('importance',ascending=False)
+print(feature_importances)
+print("="*60)
+
+'''
+plot_confusion_matrix(y_test, y_pred, classes=class_names, normalize=True,
+                      title='Normalized confusion matrix')
+
+plt.show()
+'''
+
+#Applying classifications
 print("="*60)
 for name, clf in zip(names, classifiers):
   print(name)
@@ -158,30 +195,13 @@ for name, clf in zip(names, classifiers):
   #                    title='Normalized confusion matrix')
 
   #plt.show()
-  
   print("="*60)
+  
 
 
-# Computing metrics
+
+
 '''
-print("="*60)
-print("Accuracy: "+str(accuracy_score(y_test,y_pred)))
-print("="*60)
-print("Precision: "+str(precision_score(y_test,y_pred,average='macro')))
-print("="*60)
-print("Recall: "+str(recall_score(y_test,y_pred,average='macro')))
-print("="*60)
-
-feature_importances = pd.DataFrame(clf.feature_importances_, index = X_columns, columns=['importance']).sort_values('importance',ascending=False)
-print(feature_importances)
-print("="*60)
-
-plot_confusion_matrix(y_test, y_pred, classes=class_names, normalize=True,
-                      title='Normalized confusion matrix')
-
-plt.show()
-'''
-
 # Compute the correlation matrix
 sns.set(style="white")
 df_data[['Predominante']] = df_data[['Predominante']].apply(le.fit_transform)
@@ -200,3 +220,4 @@ sns_plot = sns.heatmap(corr, mask=mask, cmap=cmap, vmax=.3, center=0,
 figure = sns_plot.get_figure()
 
 figure.savefig("output.png")
+'''
